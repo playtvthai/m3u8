@@ -677,56 +677,7 @@ let session = null;
   }
 
 
-  if (channelNames[index] === 'BallThai 1') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth1.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 2') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth2.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 3') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth3.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 4') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth4.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 5') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth5.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 6') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth6.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 7') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth7.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'BallThai 8') {
-    const iframeUrl = 'https://bestcommt2.github.io/true/play%20ballth8.html';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'ช่อง FW SPORT') {
-    const iframeUrl = 'https://www.inwiptv.org/player_demo.php?channel=89782';
-    loadChannel(iframeUrl, true); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
-  if (channelNames[index] === 'EPL 1 BLUE') {
-    const iframeUrl = 'http://tbtv.me:2095/play/live.php?mac=00:1a:79:80:09:03&stream=186561&extension=m3u8';
-    loadChannel(iframeUrl, false); // ไม่ต้อง await ถ้า loadChannel ไม่เป็น async ก็ได้
-    return;
-  }
+
 
 
   const xml = await getPlaylist(session, playBaseUrls[index]);

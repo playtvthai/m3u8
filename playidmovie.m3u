@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,2
-http://43.229.79.245:8080/movie/222/222/143960.mkv
+https://statics-01.duckduckcdn.com/82f0dcd7-cb01-568e-9dec-510e2b2c5c60/audio-tha/audio.m3u8
 #EXTINF:-1,3
-http://43.229.79.245:8080/movie/222/222/83695.mp4
+https://statics-01.duckduckcdn.com/e8aca39d-f77a-55bf-ba46-6ea9b24538a4/audio-tha/audio.m3u8
 #EXTINF:-1,4
 http://43.229.79.245:8080/movie/222/222/83693.mp4
 #EXTINF:-1,5

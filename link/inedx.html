@@ -3,150 +3,103 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>playidtv - ตัวอย่าง Channel Categories</title>
+  <title>playidtv</title>
   <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
+
+    .container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
     body {
-      background: linear-gradient(135deg, #151e3d 0%, #2a5298 100%);
-      padding: 0;
+      background-color: #000;
+      padding: 10px;
       margin: 0;
-      min-height: 100vh;
-      font-family: 'Prompt', sans-serif;
-      color: #fff;
       display: flex;
-      flex-direction: column;
+      justify-content: center;
       align-items: center;
+      flex-direction: column;
+      height: auto;
+      font-family: 'Prompt', sans-serif;
     }
-    header {
-      width: 100%;
-      background: rgba(0,0,0,0.4);
-      padding: 24px 0 12px 0;
-      margin-bottom: 18px;
-      box-shadow: 0 6px 12px 0 rgba(0,0,0,0.12);
-      text-align: center;
+    video {
+      width:80%;
+      max-width: 1000px;
+      border: 4px solid #fff;
+      border-radius: 10px;
+      margin-bottom: 20px;
     }
-    header h1 {
-      margin: 0;
-      font-size: 2.3em;
-      letter-spacing: 2px;
-      font-weight: 600;
-      color: #ffb347;
-      text-shadow: 2px 2px 6px #1d3557;
-    }
-    .categories, .channels {
+    .channels {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 12px;
-      margin-bottom: 18px;
-      width: 90vw;
-      max-width: 1200px;
-      z-index: 2;
-    }
-    .category-button {
-      background: linear-gradient(90deg, #374151 0%, #1f2937 100%);
-      color: #fff;
-      padding: 11px 26px;
-      border-radius: 20px;
-      border: 2px solid #ffb347;
-      font-size: 1.08em;
-      font-family: 'Prompt', sans-serif;
-      font-weight: 500;
-      transition: background 0.2s, box-shadow 0.2s, border 0.2s;
-      cursor: pointer;
-      outline: none;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.10);
-    }
-    .category-button:hover, .category-button:focus {
-      background: linear-gradient(90deg, #ffb347 0%, #ffd872 100%);
-      color: #222;
-      border: 5px solid #fff;
-    }
-    .selected-category {
-      border: 2px solid #32e9a2 !important;
-      background: linear-gradient(90deg, #32e9a2 0%, #56c4e9 100%);
-      color: #1a1a2e !important;
-      font-weight: 700;
-      box-shadow: 0 4px 16px 2px rgba(50,233,162,0.16);
+      gap: 10px;
     }
     .channel-button {
-      background: linear-gradient(135deg, #0f2027 0%, #2c5364 100%);
-      color: #fff;
-      padding: 10px 18px;
+      background-color: #222222;
+      color: rgb(255, 255, 255);
+      padding: 10px;
       border-radius: 10px;
-      border: 2px solid #ffb347;
-      font-family: 'Prompt', sans-serif;
-      font-size: 1.04em;
-      min-width: 124px;
-      font-weight: 400;
+      border: 2px solid #cf7507;
       cursor: pointer;
+      text-align: center;
+      width: 120px;
+      font-family: 'Prompt', sans-serif;
       outline: none;
-      margin-bottom: 3px;
-      transition: background 0.18s, border 0.18s, box-shadow 0.18s;
-      box-shadow: 0 2px 8px rgba(44,83,100,0.10);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 5px;
     }
-    .channel-button:hover, .channel-button:focus {
-      background: linear-gradient(135deg, #ffb347 0%, #ffd872 100%);
-      color: #263159;
-      border: 2px solid #32e9a2;
-      font-weight: 000;
-      box-shadow: 0 4px 18px 2px rgba(255,179,71,0.19);
+    .channel-button img {
+      width: 60px;
+      height: 40px;
+      border-radius: 5px;
+      margin-bottom: 5px;
     }
-    .channel-logo {
-      width: 80px;
-      height: 60px;
-      object-fit: contain;
-      border-radius: 0px;
-      background: #fff;
-      margin-bottom: 3px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.16);
+    .channel-button:hover,
+    .channel-button:focus {
+      background-color: #231212;
     }
-    .player-container {
-      width: 85vw;
-      max-width: 900px;
-      margin: 15px auto 25px auto;
-      display: flex;
-      justify-content: center;
-      background: rgba(30, 41, 59, 0.75);
-      border-radius: 20px;
-      box-shadow: 0 4px 32px 6px rgba(0,0,0,0.12);
-      padding: 22px 0 16px 0;
-      z-index: 1;
+
+    .channel-number {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      font-size: 36px;
+      color: #fff;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 10px;
+      border-radius: 10px;
+      display: none;
     }
-    video {
-      width: 96%;
-      max-width: 850px;
-      border: 4px solid #ffb347;
-      border-radius: 12px;
-      background: #222;
-      box-shadow: 0 4px 24px 6px rgba(255,179,71,0.09);
-    }
-    @media (max-width: 700px) {
-      .player-container { width: 98vw; max-width: 100vw; border-radius: 0; }
-      video { width: 99vw; max-width: 100vw; border-radius: 0; }
-      .categories, .channels { width: 99vw; }
-      header h1 { font-size: 1.4em; }
-    }
-    /* Scrollbar Styling */
-    ::-webkit-scrollbar { height: 8px; background: #374151;}
-    ::-webkit-scrollbar-thumb { background: #ffb347; border-radius: 8px;}
   </style>
 </head>
-<body>
-  <header>
-    <h1>playidtv<br>ตัวอย่างระบบเลือกหมวดหมู่และช่อง</h1>
-  </header>
-  <div class="player-container">
-    <video id="video" controls autoplay poster="https://img.freepik.com/premium-vector/movie-cinema-background-design_18591-46999.jpg"></video>
+
+    <video id="video" controls autoplay></video>
+   <div class="container" id="iframe-container" style="display: none;">
+    <iframe class="responsive-iframe" id="channel-frame" src="" allowfullscreen></iframe>
   </div>
-  <div class="categories" id="categories"></div>
+    
+    <div id="categories" class="channels"></div>
   <div class="channels" id="channels"></div>
 
+  <div id="channelNumber" class="channel-number">12</div>
+
+
+
+
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  
   <script>
     const video = document.getElementById('video');
     const channelNumberDiv = document.getElementById('channelNumber');

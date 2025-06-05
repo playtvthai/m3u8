@@ -4,4 +4,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10,
 http://applive.foruiptv.asia/live/dootvlive/dootvfree/263.ts
-http://31.220.3.103:2095/play/live.php?mac=00%3A1A%3A79%3A80%3A09%3A03&stream=186562&extension=ts
+#http://31.220.3.103:2095/play/live.php?mac=00%3A1A%3A79%3A80%3A09%3A03&stream=186562&extension=ts

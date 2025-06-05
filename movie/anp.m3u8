@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://iptvcodes.hopto.org:80/play/live.php?mac=00:1A:79:32:08:3E&stream=1163650&extension=m3u8&play_token=
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10,
+http://applive.foruiptv.asia/live/dootvlive/dootvfree/200.ts

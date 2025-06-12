@@ -7,7 +7,9 @@ https://playid.vercel.app/player/embed/v1/index.html?live&url=
 
 https://playtvthai.github.io/m3u8/
 
+Links web 
 
+https://www.dropbox.com/scl/fi/ru2uggu8mne8mgest8o29/tv.zip?rlkey=yez3xu16i79mmfhazzgo4cxrk&st=6qcp2kku&dl=1
 
 
 Password : yxX0M4!#rcO#

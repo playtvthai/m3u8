@@ -1,4 +1,6 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://uan-noi-soi-nueng.com/subtitle/1802.vtt"Add commentMore actions
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4800000,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
-https://www.dropbox.com/scl/fi/7c8w5mlc5kvrkmm7ue192/1.Million.Followers.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.mp4?rlkey=oyxqsbmz8uzx3nasc2c368h51&st=m8jscnoz&raw=1
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,URI="https://uan-noi-soi-nueng.com/subtitle/1837.vtt"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="tha",NAME="THA",DEFAULT=NO,AUTOSELECT=NO,URI="https://uan-noi-soi-nueng.com/subtitle/1837.vtt"
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
+https://dl.dropbox.com/scl/fi/7c8w5mlc5kvrkmm7ue192/1.Million.Followers.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.mp4?rlkey=oyxqsbmz8uzx3nasc2c368h51&st=m8jscnoz&raw=0

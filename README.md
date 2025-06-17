@@ -13,10 +13,11 @@ https://www.dropbox.com/scl/fi/ru2uggu8mne8mgest8o29/tv.zip?rlkey=yez3xu16i79mmf
 
 
 Password : yxX0M4!#rcO#
-Main IP : 43.229.148.48
-Additional IPs : Array
+Main IP : host : playidtv
+Additional IPs : servre stream 
 
 
+![playidtvlive](https://github.com/user-attachments/assets/91afd796-dd10-4d15-91c3-138825b79d9f)
 
 
 # ช่องพนัง
@@ -24,24 +25,4 @@ https://playtvthai.github.io/m3u8
 
 https://github.com/user-attachments/assets/4f36ec6a-3679-47cb-ad78-dd0c6d217ecf
 
-/movie/
-
-# sports
-https://playtvthai.github.io/m3u8/sports/
-
-https://playtvthai.github.io/m3u8/astro/
-
-https://playtvthai.github.io/m3u8/thai/
-
-https://playtvthai.github.io/m3u8/vip/
-
-https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/sports/
-
-#
-https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/movie/
-
-#
-https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/thai/
-
-#
-https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/astro/
+![big_thumb_live_streaming](https://github.com/user-attachments/assets/cdc17171-8b47-4304-aed0-4edbb684adf8)

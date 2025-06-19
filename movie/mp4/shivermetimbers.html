@@ -1,5 +1,60 @@
 
-  <div class="row" style="margin-top: -40px;">
+<style type="text/css">
+    html,body {
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+    }
+    #overlay {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background: #878787;
+        width: 100%;
+        height: 100%;
+        opacity: .75;
+        filter: alpha(opacity=75);
+        -moz-opacity: .75;
+        z-index: 999;
+        background: #fff url(http://i.imgur.com/KUJoe.gif) 50% 50% no-repeat;
+    }
+    .main-contain{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+</style>
+
+<script type="text/javascript">
+    $(function(){
+        $("#overlay").fadeOut();
+        $(".main-contain").removeClass("main-contain");
+    });
+</script>	<link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
+	 <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
+	 <style>
+	.downloadStyle
+{
+    font-size: 14px;
+    line-height: 2rem;
+    cursor: pointer;
+}
+.video-js .vjs-tech {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+	 </style>
+<div class="row" style="margin-top: -40px;">
         <div class="col-lg-12 col-sm-12 col-xs-12">
             <span class="fontsize30  OvO_TextColor_Red  Kanit "> Shiver Me Timbers (2025) ชิเว่อมีทิมเบอร์ส </span>
         </div>

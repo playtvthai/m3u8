@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186470&extension=m3u8
-#http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/62277.m3u8

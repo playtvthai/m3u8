@@ -4,4 +4,5 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186602&extension=ts
+http://applive.foruiptv.asia/live/dootvlive/forudootvfree/260.ts
+#https://cors-proxy.cooks.fyi/31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186602&extension=ts

@@ -3,38 +3,45 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Generate M3U Playlist with Referrer</title>
+  <title>Generate M3U Playlist Pro</title>
   <style>
     body {
-      font-family: sans-serif;
+      font-family: 'Segoe UI', sans-serif;
       margin: 20px;
-      background-color: #f2f2f2;
+      background-color: #f9f9f9;
     }
     h1 { text-align: center; }
-    .channel { margin-bottom: 10px; }
-    input[type="text"] {
-      width: 30%;
-      padding: 8px;
-      margin-right: 5px;
+    .channel {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .channel input {
+      flex: 1 1 200px;
+      padding: 6px;
+      font-size: 14px;
     }
     button {
-      padding: 8px 15px;
+      padding: 10px 15px;
+      font-size: 14px;
       margin-top: 10px;
       cursor: pointer;
-    }
-    #channels-container {
-      margin-bottom: 20px;
     }
   </style>
 </head>
 <body>
-  <h1>🎬 สร้าง Playlist M3U (พร้อม Referrer)</h1>
+  <h1>📺 สร้าง Playlist M3U (เวอร์ชัน Pro)</h1>
 
   <div id="channels-container">
     <div class="channel">
       <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
       <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
-      <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
+      <input type="text" placeholder="group-title" class="channel-group" />
+      <input type="text" placeholder="tvg-id (EPG)" class="channel-id" />
+      <input type="text" placeholder="โลโก้ (URL)" class="channel-logo" />
+      <input type="text" placeholder="Referrer" class="channel-referrer" />
+      <input type="text" placeholder="User-Agent" class="channel-ua" />
     </div>
   </div>
 
@@ -49,7 +56,11 @@
       div.innerHTML = `
         <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
         <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
-        <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
+        <input type="text" placeholder="group-title" class="channel-group" />
+        <input type="text" placeholder="tvg-id (EPG)" class="channel-id" />
+        <input type="text" placeholder="โลโก้ (URL)" class="channel-logo" />
+        <input type="text" placeholder="Referrer" class="channel-referrer" />
+        <input type="text" placeholder="User-Agent" class="channel-ua" />
       `;
       container.appendChild(div);
     }
@@ -57,20 +68,33 @@
     function generatePlaylist() {
       const names = document.querySelectorAll(".channel-name");
       const urls = document.querySelectorAll(".channel-url");
+      const groups = document.querySelectorAll(".channel-group");
+      const ids = document.querySelectorAll(".channel-id");
+      const logos = document.querySelectorAll(".channel-logo");
       const referrers = document.querySelectorAll(".channel-referrer");
+      const uas = document.querySelectorAll(".channel-ua");
 
       let m3u = "#EXTM3U\n";
 
       for (let i = 0; i < names.length; i++) {
         const name = names[i].value.trim();
         const url = urls[i].value.trim();
+        const group = groups[i].value.trim();
+        const id = ids[i].value.trim();
+        const logo = logos[i].value.trim();
         const ref = referrers[i].value.trim();
+        const ua = uas[i].value.trim();
 
         if (name && url) {
-          m3u += `#EXTINF:-1,${name}\n`;
-          if (ref) {
-            m3u += `#EXTVLCOPT:http-referrer=${ref}\n`;
-          }
+          m3u += `#EXTINF:-1`;
+          if (id) m3u += ` tvg-id="${id}"`;
+          if (name) m3u += ` tvg-name="${name}"`;
+          if (logo) m3u += ` tvg-logo="${logo}"`;
+          if (group) m3u += ` group-title="${group}"`;
+          m3u += `,${name}\n`;
+
+          if (ref) m3u += `#EXTVLCOPT:http-referrer=${ref}\n`;
+          if (ua) m3u += `#EXTVLCOPT:http-user-agent=${ua}\n`;
           m3u += `${url}\n`;
         }
       }

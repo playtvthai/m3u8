@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>W3U Playlist Generator</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    h1 { text-align: center; }
+    .channel {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .channel input {
+      flex: 1 1 180px;
+      padding: 6px;
+      font-size: 14px;
+    }
+    button {
+      padding: 10px 15px;
+      font-size: 14px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>📺 สร้าง Playlist W3U</h1>
+
+  <div id="channels-container">
+    <div class="channel">
+      <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
+      <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
+      <input type="text" placeholder="โลโก้ (URL)" class="channel-logo" />
+      <input type="text" placeholder="Referrer" class="channel-referrer" />
+      <input type="text" placeholder="User-Agent" class="channel-ua" />
+      <input type="text" placeholder="กลุ่ม/หมวดหมู่" class="channel-group" />
+    </div>
+  </div>
+
+  <button onclick="addChannel()">➕ เพิ่มช่อง</button>
+  <button onclick="generateW3U()">📥 Generate W3U</button>
+
+  <script>
+    function addChannel() {
+      const container = document.getElementById("channels-container");
+      const div = document.createElement("div");
+      div.className = "channel";
+      div.innerHTML = `
+        <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
+        <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
+        <input type="text" placeholder="โลโก้ (URL)" class="channel-logo" />
+        <input type="text" placeholder="Referrer" class="channel-referrer" />
+        <input type="text" placeholder="User-Agent" class="channel-ua" />
+        <input type="text" placeholder="กลุ่ม/หมวดหมู่" class="channel-group" />
+      `;
+      container.appendChild(div);
+    }
+
+    function generateW3U() {
+      const names = document.querySelectorAll(".channel-name");
+      const urls = document.querySelectorAll(".channel-url");
+      const logos = document.querySelectorAll(".channel-logo");
+      const referrers = document.querySelectorAll(".channel-referrer");
+      const uas = document.querySelectorAll(".channel-ua");
+      const groups = document.querySelectorAll(".channel-group");
+
+      let w3u = "";
+
+      for (let i = 0; i < names.length; i++) {
+        const name = names[i].value.trim();
+        const url = urls[i].value.trim();
+        const logo = logos[i].value.trim();
+        const ref = referrers[i].value.trim();
+        const ua = uas[i].value.trim();
+        const group = groups[i].value.trim();
+
+        if (name && url) {
+          w3u += `[Channel]\n`;
+          w3u += `name=${name}\n`;
+          w3u += `url=${url}\n`;
+          if (logo) w3u += `logo=${logo}\n`;
+          if (ref) w3u += `referer=${ref}\n`;
+          if (ua) w3u += `user-agent=${ua}\n`;
+          if (group) w3u += `group=${group}\n`;
+          w3u += `\n`;
+        }
+      }
+
+      const blob = new Blob([w3u], { type: "text/plain;charset=utf-8" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "playlist.w3u";
+      link.click();
+    }
+  </script>
+</body>
+</html>

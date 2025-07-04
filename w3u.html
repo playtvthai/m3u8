@@ -1,104 +1,65 @@
 <!DOCTYPE html>
 <html lang="th">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>W3U Playlist Generator</title>
+  <meta charset="UTF-8">
+  <title>📺 PlayID TV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 20px;
-      background-color: #f9f9f9;
-    }
-    h1 { text-align: center; }
-    .channel {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 10px;
-    }
-    .channel input {
-      flex: 1 1 180px;
-      padding: 6px;
-      font-size: 14px;
-    }
-    button {
-      padding: 10px 15px;
-      font-size: 14px;
-      margin-top: 10px;
-      cursor: pointer;
-    }
+    body { background-color: #111; color: #fff; }
+    .channel-card { background: #222; border-radius: 10px; padding: 10px; margin: 5px; text-align: center; cursor: pointer; transition: 0.2s; }
+    .channel-card:hover { background: #333; }
+    .channel-logo { max-height: 80px; object-fit: contain; margin-bottom: 5px; }
+    video { width: 100%; max-height: 60vh; background: #000; }
   </style>
 </head>
 <body>
-  <h1>📺 สร้าง Playlist W3U</h1>
 
-  <div id="channels-container">
-    <div class="channel">
-      <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
-      <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
-      <input type="text" placeholder="โลโก้ (URL)" class="channel-logo" />
-      <input type="text" placeholder="Referrer" class="channel-referrer" />
-      <input type="text" placeholder="User-Agent" class="channel-ua" />
-      <input type="text" placeholder="กลุ่ม/หมวดหมู่" class="channel-group" />
-    </div>
+  <div class="container mt-3">
+    <h2 class="text-center">📺 PlayID TV Live</h2>
+    <video id="video" controls autoplay></video>
+
+    <div id="channels" class="row mt-3"></div>
   </div>
 
-  <button onclick="addChannel()">➕ เพิ่มช่อง</button>
-  <button onclick="generateW3U()">📥 Generate W3U</button>
-
   <script>
-    function addChannel() {
-      const container = document.getElementById("channels-container");
-      const div = document.createElement("div");
-      div.className = "channel";
-      div.innerHTML = `
-        <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
-        <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
-        <input type="text" placeholder="โลโก้ (URL)" class="channel-logo" />
-        <input type="text" placeholder="Referrer" class="channel-referrer" />
-        <input type="text" placeholder="User-Agent" class="channel-ua" />
-        <input type="text" placeholder="กลุ่ม/หมวดหมู่" class="channel-group" />
-      `;
-      container.appendChild(div);
+    const player = document.getElementById("video");
+    const channelList = document.getElementById("channels");
+
+    // 📦 เปลี่ยน URL นี้เป็นลิงก์ JSON/W3U ที่คุณต้องการ
+    const playlistUrl = "https://playtvthai.github.io/m3u8/playid.json";
+
+    async function loadChannels() {
+      const res = await fetch(playlistUrl);
+      const data = await res.json();
+
+      data.forEach(channel => {
+        const div = document.createElement("div");
+        div.className = "col-6 col-sm-4 col-md-3";
+        div.innerHTML = `
+          <div class="channel-card" onclick="play('${channel.url}')">
+            <img class="channel-logo img-fluid" src="${channel.image || ''}" />
+            <div>${channel.name}</div>
+          </div>
+        `;
+        channelList.appendChild(div);
+      });
     }
 
-    function generateW3U() {
-      const names = document.querySelectorAll(".channel-name");
-      const urls = document.querySelectorAll(".channel-url");
-      const logos = document.querySelectorAll(".channel-logo");
-      const referrers = document.querySelectorAll(".channel-referrer");
-      const uas = document.querySelectorAll(".channel-ua");
-      const groups = document.querySelectorAll(".channel-group");
-
-      let w3u = "";
-
-      for (let i = 0; i < names.length; i++) {
-        const name = names[i].value.trim();
-        const url = urls[i].value.trim();
-        const logo = logos[i].value.trim();
-        const ref = referrers[i].value.trim();
-        const ua = uas[i].value.trim();
-        const group = groups[i].value.trim();
-
-        if (name && url) {
-          w3u += `[Channel]\n`;
-          w3u += `name=${name}\n`;
-          w3u += `url=${url}\n`;
-          if (logo) w3u += `logo=${logo}\n`;
-          if (ref) w3u += `referer=${ref}\n`;
-          if (ua) w3u += `user-agent=${ua}\n`;
-          if (group) w3u += `group=${group}\n`;
-          w3u += `\n`;
-        }
+    function play(url) {
+      if (Hls.isSupported()) {
+        const hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(player);
+      } else if (player.canPlayType('application/vnd.apple.mpegurl')) {
+        player.src = url;
+      } else {
+        alert("อุปกรณ์นี้ไม่รองรับ HLS");
       }
-
-      const blob = new Blob([w3u], { type: "text/plain;charset=utf-8" });
-      const link = document.createElement("a");
-      link.href = URL.createObjectURL(blob);
-      link.download = "playlist.w3u";
-      link.click();
     }
+
+    loadChannels();
   </script>
 </body>
 </html>

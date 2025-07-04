@@ -1,0 +1,8 @@
+[Channel]
+name=ch3
+url=https://edge-1.m-fixer.net:8082/live/fifa2/playlist.m3u8
+logo=https://beta.m-fixer.net/live-tv/true-asian-series.html
+referer=https://beta.m-fixer.net/live-tv/true-asian-series.html
+user-agent=vlc
+group=sp
+

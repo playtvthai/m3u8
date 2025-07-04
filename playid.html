@@ -1,38 +1,86 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="th">
 <head>
-  <meta charset="UTF-8">
-  <title>Typewriter (Javascript)</title>
-  <link rel="stylesheet" href="https://playid.vercel.app/style.css">
-
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Generate M3U Playlist with Referrer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background-color: #f2f2f2;
+    }
+    h1 { text-align: center; }
+    .channel { margin-bottom: 10px; }
+    input[type="text"] {
+      width: 30%;
+      padding: 8px;
+      margin-right: 5px;
+    }
+    button {
+      padding: 8px 15px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+    #channels-container {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
 <body>
-<!-- partial:index.partial.html -->
-<div class="container">
-  <p class="typewriter">มีอะไรให้ผมช่วยไมครับ ถามผมได้ 
-    <span data-text="., ลิ้งค์ดูฟรี ไม่ต้องมาก็อปหรอครับเสียเวลา ผมอัพทุกวัน ., ."></span>
-  </p>
-</div>
-<!-- partial -->
-  <script  src="https://playid.vercel.app/script.js"></script>
+  <h1>🎬 สร้าง Playlist M3U (พร้อม Referrer)</h1>
 
+  <div id="channels-container">
+    <div class="channel">
+      <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
+      <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
+      <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
+    </div>
+  </div>
+
+  <button onclick="addChannel()">➕ เพิ่มช่อง</button>
+  <button onclick="generatePlaylist()">🎉 Generate Playlist</button>
+
+  <script>
+    function addChannel() {
+      const container = document.getElementById("channels-container");
+      const div = document.createElement("div");
+      div.className = "channel";
+      div.innerHTML = `
+        <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
+        <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
+        <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
+      `;
+      container.appendChild(div);
+    }
+
+    function generatePlaylist() {
+      const names = document.querySelectorAll(".channel-name");
+      const urls = document.querySelectorAll(".channel-url");
+      const referrers = document.querySelectorAll(".channel-referrer");
+
+      let m3u = "#EXTM3U\n";
+
+      for (let i = 0; i < names.length; i++) {
+        const name = names[i].value.trim();
+        const url = urls[i].value.trim();
+        const ref = referrers[i].value.trim();
+
+        if (name && url) {
+          m3u += `#EXTINF:-1,${name}\n`;
+          if (ref) {
+            m3u += `#EXTVLCOPT:http-referrer=${ref}\n`;
+          }
+          m3u += `${url}\n`;
+        }
+      }
+
+      const blob = new Blob([m3u], { type: "text/plain;charset=utf-8" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "playlist.m3u";
+      link.click();
+    }
+  </script>
 </body>
-<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
-<script type="text/javascript">
-MRP.insert({
-'url':'https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8',
-'volume':100,
-'autoplay':true,
-'forceHTML5':true,
-'jsevents':true,
-'buffering':0,
-'title':'Fm965',
-'welcome':'ฟังวิทยุออนไลน์',
-'wmode':'transparent',
-'skin':'mcclean',
-'width':180,
-'height':60
-});
-</script>
-<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 </html>

@@ -1,108 +1,89 @@
-
 <!DOCTYPE html>
 <html lang="th">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">PLAYID LAST UPDATED 09:00</title>
-
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Generate M3U Playlist with Referrer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background-color: #f2f2f2;
+    }
+    h1 { text-align: center; }
+    .channel { margin-bottom: 10px; }
+    input[type="text"] {
+      width: 30%;
+      padding: 8px;
+      margin-right: 5px;
+    }
+    button {
+      padding: 8px 15px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+    #channels-container {
+      margin-bottom: 20px;
+    }
+  </style>
 </head>
 <body>
+  <h1>🎬 สร้าง Playlist M3U (พร้อม Referrer)</h1>
 
+  <div id="channels-container">
+    <div class="channel">
+      <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
+      <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
+      <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
     </div>
+  </div>
 
+  <button onclick="addChannel()">➕ เพิ่มช่อง</button>
+  <button onclick="generatePlaylist()">🎉 Generate Playlist</button>
 
-<style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+  <script>
+    function addChannel() {
+      const container = document.getElementById("channels-container");
+      const div = document.createElement("div");
+      div.className = "channel";
+      div.innerHTML = `
+        <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
+        <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
+        <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
+      `;
+      container.appendChild(div);
+    }
 
-body {
- display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: #f5f5f5;
-}
-.count{background:#ff9500;}
-label{color:#fff;}
-.checkbox-style {
-  appearance: none;
-  width: 20px;
-  height: 20px;
-  background-color: #ff9500;
-  border-radius: 3px;
-  position: relative;
-  cursor: pointer;
-  color:#fff;
-}
+    function generatePlaylist() {
+      const names = document.querySelectorAll(".channel-name");
+      const urls = document.querySelectorAll(".channel-url");
+      const referrers = document.querySelectorAll(".channel-referrer");
 
-.checkbox-style:checked::before {
-  content: '*';
-  display: block;
-  color: white;
-  font-size: 25px;
-  text-align: center;
-  line-height: 20px;
-}
+      let m3u = "#EXTM3U\n";
 
-.calculator {
-  width: 320px;
-  border-radius: 30px;
-  background-color: #000;
-  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-}
+      for (let i = 0; i < names.length; i++) {
+        const name = names[i].value.trim();
+        const url = urls[i].value.trim();
+        const ref = referrers[i].value.trim();
 
-.display input {
-  width: 100%;
-  height: 70px;
-  background-color: #333;
-  color:#f5f5f5;
-  border: none;
-  border-radius: 15px;
-  font-size: 30px;
-  text-align: right;
-  padding: 15px;
+        if (name && url) {
+          m3u += `#EXTINF:-1,${name}\n`;
+          if (ref) {
+            m3u += `#EXTVLCOPT:http-referrer=${ref}\n`;
+          }
+          m3u += `${url}\n`;
+        }
+      }
 
-}
-
-.buttons {
-  margin-top: 20px;
-  display: grid;
-  grid-template-columns: repeat(1, 2fr);
-  gap: 5px;
-}
-
-button {
-  width: 100%;
-  padding: 10px;
-  border-radius: 15px;
-  background-color: #1a1a1a;
-  border: none;
-  font-size: 24px;
-  cursor: pointer;
-  color:#f5f5f5;
-}
-
-button:active {
-  background-color: #d4d4d4;
-}
-
-.zero {
-  grid-column: span 2;
-}
-
-button:nth-child(4n+4) {
-  background-color: #ff9500;
-  color: #fff;
-}
-
-button:nth-child(4n+4):active {
-  background-color: #e59400;
-}
-</style>
+      const blob = new Blob([m3u], { type: "text/plain;charset=utf-8" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "playlist.m3u";
+      link.click();
+    }
+  </script>
+</body>
+</html>
 
 
 

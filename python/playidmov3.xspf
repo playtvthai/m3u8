@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5428/video/20227/hls/movie_3.m3u8</location>
+			<title>[ซับไทย] Sakra เฉียวฟง จอมยุทธไร้พ่าย</title>
+			<duration>7824280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5332/video/19625/hls/movie_3.m3u8</location>
+			<title>[ซับไทย] No More Bets โน มอร์ เบทส์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5225/video/18639/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Love Reset (30 il) 30 วันโคตร(เกลียด)เธอเลย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5223/video/18630/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Freelance จ็อบระห่ำ คนถึกระทึกโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5206/video/18495/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Hopeless  คน/จน/ตรอก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5205/video/18487/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Kleks Academy (Akademia pana Kleksa) โรงเรียนมายาคุณเคล็กซ์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/3920/video/10006/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] The Mob (Tiger and Dragon Domination)  มังกรปะทะเสือ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/3930/video/11309/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Ant-Man and the Wasp: Quantumania แอนท์-แมน และ เดอะ วอสพ์: ตะลุยมิติควอนตัม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/3931/video/10021/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Kumanthong 2: Jackpot Island   กุมารทอง 2: เกาะอาถรรพ์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5189/video/18382/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] อีสานซอมบี้ E-Sarn Zombie</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5183/video/18315/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] godzilla minus one ก็อดซิลล่า ไมนัส วัน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5179/video/18301/hls/movie_3.m3u8</location>
+			<title>Destiny  โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด - โชคชะตา</title>
+			<creator>[พากย์ไทย] Tokyo Revengers 2 Part 1: Bloody Halloween</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5180/video/18302/hls/movie_3.m3u8</location>
+			<title>Decisive Battle โตเกียว รีเวนเจอร์ส: ฮาโลวีนสีเลือด - ศึกตัดสิน</title>
+			<creator>[พากย์ไทย] Tokyo Revengers 2 Part 2: Bloody Halloween</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/5086/video/18045/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Smugglers Milsu อหังการ์ทีมปล้นประดาน้ำ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4862/video/16590/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Thanksgiving คืนเดือดเชือดขาช็อป</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/3837/video/9672/hls/movie_3.m3u8</location>
+			<title>[ซับไทย] The Hatchet Wielding Hitchhiker</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/3849/video/10535/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] M3GAN เมแกน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/3852/video/9701/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Dog Gone หมาหลง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4196/video/11383/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] The Pope&#39;s Exorcist โป๊ปปราบผี</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4197/video/13308/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] The Covenant เดอะ โคเวแนนท์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4198/video/11385/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Evil Dead Rise ผีอมตะผงาด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4199/video/11112/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] AKA เจ้าหน้าที่เงา</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4201/video/11123/hls/movie_3.m3u8</location>
+			<title>[ซับไทย] The Matchmaker</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://movie.server-cdn-streaming.com/api/uploads/movie/4202/video/11125/hls/movie_3.m3u8</location>
+			<title>[พากย์ไทย] Z.1 Hidden Blade โค่นคมพยัคฆ์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>http-referer=https://movie24.tv/</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/9099cf3b61f8b59ad36f6d80/9099cf3b61f8b59ad36f6d80.m3u8</location>
+			<title>Escape Plan (2013) แหกคุกมหาประลัย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/8e07318ef95bdbe2050b69da/8e07318ef95bdbe2050b69da.m3u8</location>
+			<title>Sex Is Zero 2 (2007) ขบวนการปิ๊ดปี้ปิ๊ด 2 แผนแอ้มน้องใหม่หัวใจสะเทิ้น</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ec6b2eb9eb15764849bad1e6/ec6b2eb9eb15764849bad1e6.m3u8</location>
+			<title>Sex Is Zero (2002) ปิ๊ด ปี้ ปิ๊ด ยกก๊วน กิ๊กสาว</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/094b474fb31c5ae164849426/094b474fb31c5ae164849426.m3u8</location>
+			<title>The Hitman&#39;s Wife&#39;s Bodyguard (2021) แสบซ่าส์ แบบว่า บอดี้การ์ด 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/3f64a18ae13a8a000b1a1f4a/3f64a18ae13a8a000b1a1f4a.m3u8</location>
+			<title>The Hitman&#39;s Bodyguard (2017) แสบ ซ่าส์ แบบว่าบอดี้การ์ด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4c04d5892955d4d226ba3b3d/4c04d5892955d4d226ba3b3d.m3u8</location>
+			<title>Terminator 6 Dark Fate (2019) คนเหล็ก 6 วิกฤตชะตาโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e29b0fe0a0431cb8205acf50/e29b0fe0a0431cb8205acf50.m3u8</location>
+			<title>Terminator 5 Genisys (2015) คนเหล็ก 5 มหาวิบัติจักรกลยึดโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e14c6685342ed233705bf5b7/e14c6685342ed233705bf5b7.m3u8</location>
+			<title>Terminator 4 Salvation (2009) คนเหล็ก 4 มหาสงครามจักรกลล้างโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/bddd7bcf07bb192943c5670c/bddd7bcf07bb192943c5670c.m3u8</location>
+			<title>Terminator 3 Rise Of The Machines (2003) คนเหล็ก 3 กำเนิดใหม่เครื่องจักรสังหาร</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/519a208553652239fd9086fa/519a208553652239fd9086fa.m3u8</location>
+			<title>Terminator 2 Judgment Day (1991) คนเหล็ก 2 วันพิพากษา</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/880a19ed38723a5baa4f76b6ee941e9e/880a19ed38723a5baa4f76b6ee941e9e.m3u8</location>
+			<title>The Terminator (1984) คนเหล็ก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d4ed07846921df1d4da4021c/d4ed07846921df1d4da4021c.m3u8</location>
+			<title>John Wick Chapter 4 (2023) จอห์น วิค แรงกว่านรก 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/64a605dc47ee8aa1e0c25ad8/64a605dc47ee8aa1e0c25ad8.m3u8</location>
+			<title>Lord of Shanghai 2 (2020) โค่นอำนาจเจ้าพ่ออหังการ ภาค 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/03897380cf27f2f02b9c9b71/03897380cf27f2f02b9c9b71.m3u8</location>
+			<title>Lord of Shanghai (2016) โค่นอำนาจเจ้าพ่ออหังการ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5a63445f1805435efd3181b4/5a63445f1805435efd3181b4.m3u8</location>
+			<title>Meg 2 The Trench (2023) เม็ก 2 อภิมหาโคตรหลาม ร่องนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d2b2b4448d0da96808d5cddf/d2b2b4448d0da96808d5cddf.m3u8</location>
+			<title>The Suicide Squad (2021) เดอะ ซุยไซด์ สควอด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b203b28de309f845f111ce9d/b203b28de309f845f111ce9d.m3u8</location>
+			<title>Suicide Squad (2016) ทีมพลีชีพ มหาวายร้าย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/12ab85a34a93c558ff28d806/12ab85a34a93c558ff28d806.m3u8</location>
+			<title>Aquaman (2018) อควาแมน เจ้าสมุทร</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b4e2d9629f7483432b9d2f79/b4e2d9629f7483432b9d2f79.m3u8</location>
+			<title>Wonder Woman 1984 (2020) วันเดอร์วูเมน 1984</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/db4c42c6535d326e2e0d89ae/db4c42c6535d326e2e0d89ae.m3u8</location>
+			<title>Wonder Woman (2017) วันเดอร์ วูแมน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/9c3d11cc68e2e37265870c96/9c3d11cc68e2e37265870c96.m3u8</location>
+			<title>Deuce Bigalow European Gigolo 2 (2005) ดิ๊วซ์ บิ๊กกะโล่ ไม่หล่อแต่เร้าใจ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/33949cdcdcd95e1caac745f7/33949cdcdcd95e1caac745f7.m3u8</location>
+			<title>Deuce Bigalow Male Gigolo (1999) ดิ๊วซ์ บิ๊กกะโล่ ไม่หล่อ...แต่เร้าใจ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/35a5ce5650cc2013327ccc9d/35a5ce5650cc2013327ccc9d.m3u8</location>
+			<title>Insidious The Red Door (2023) วิญญาณตามติด ประตูผีผ่าน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c7555dd6c50eb0d55be4de37/c7555dd6c50eb0d55be4de37.m3u8</location>
+			<title>Taxi 5 (2018) โคตรแท็กซี่ ขับระเบิด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/a6871cc1e0825ee757b9b9a8/a6871cc1e0825ee757b9b9a8.m3u8</location>
+			<title>Kumanthong (2019) กุมารทอง ราคะ-เฮี้ยน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/7a71143870df9671d6af8627/7a71143870df9671d6af8627.m3u8</location>
+			<title>Khun Phan 3 (2023) ขุนพันธ์ 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/44b632124ee82c462323f1f3/44b632124ee82c462323f1f3.m3u8</location>
+			<title>Spiral From the Book of Saw (2021) เกม-ลอก อำมหิต</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1d8e7888f4415a4a967fe441/1d8e7888f4415a4a967fe441.m3u8</location>
+			<title>Jigsaw (2017) เกมต่อตัดตาย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/9385e4667abe814d5689a1ce/9385e4667abe814d5689a1ce.m3u8</location>
+			<title>Saw VII The Final Chapter (2010) เกม ตัด-ต่อ-ตาย 7</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/262367f480bfff4181c5e487/262367f480bfff4181c5e487.m3u8</location>
+			<title>Saw VI (2009) เกม ตัด-ต่อ-ตาย 6</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/11fe4062277174dd16789030/11fe4062277174dd16789030.m3u8</location>
+			<title>Saw V (2008) เกม ตัด-ต่อ-ตาย 5</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/92a2e865a97283efee97629d/92a2e865a97283efee97629d.m3u8</location>
+			<title>Saw IV (2007) เกม ตัด-ต่อ-ตาย 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/35f4735349b27414b18cec2e/35f4735349b27414b18cec2e.m3u8</location>
+			<title>Saw III (2006) ซอว์ เกม ตัด-ต่อ-ตาย 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/123319bba6b152a8a46bc0ab/123319bba6b152a8a46bc0ab.m3u8</location>
+			<title>Saw II (2005) ซอว์ เกม ตัด-ต่อ-ตาย 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b6e0a8b1528375cd49e2154f/b6e0a8b1528375cd49e2154f.m3u8</location>
+			<title>Saw (2004) ซอว์ เกม ตัด-ต่อ-ตาย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/31ec0bf690b1817c58b17d9f/31ec0bf690b1817c58b17d9f.m3u8</location>
+			<title>Taxi 4 (2007) แท็กซี่ซิ่งระเบิด บ้าระห่ำ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ffac09794fb04cc63a832915/ffac09794fb04cc63a832915.m3u8</location>
+			<title>Taxi 3 (2003) แท็กซี่ขับระเบิด 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/776d76b10943894acc7ff7a5/776d76b10943894acc7ff7a5.m3u8</location>
+			<title>Taxi 2 (2000) แท็กซี่ขับระเบิด 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e5e055b0d11fcb650d893d34/e5e055b0d11fcb650d893d34.m3u8</location>
+			<title>Taxi (1998) แท็กซี่ระห่ำระเบิด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/451e5c051d789ee9f6d735b1/451e5c051d789ee9f6d735b1.m3u8</location>
+			<title>Ong Bak 3 (2010) องค์บาก 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e73ed9cd433dacdff005d770/e73ed9cd433dacdff005d770.m3u8</location>
+			<title>Ong Bak 2 (2008) องค์บาก 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/7c0ac184e1d3e13828f9fa87/7c0ac184e1d3e13828f9fa87.m3u8</location>
+			<title>Ong-Bak (2003) องค์บาก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d59d2c070e58899eb16bb014/d59d2c070e58899eb16bb014.m3u8</location>
+			<title>Kaiji 2 (2012) ไคจิ กลโกงมรณะ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/27620df9403872d8b8191432/27620df9403872d8b8191432.m3u8</location>
+			<title>Kaiji (2009) ไคจิ กลโกงมรณะ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5c7fe1ecd390fc87dc9c1802/5c7fe1ecd390fc87dc9c1802.m3u8</location>
+			<title>xXx Return of Xander Cage xXx (2017) ทลายแผนยึดโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/41361bd28ab36e5d99223b5be8256c39/41361bd28ab36e5d99223b5be8256c39.m3u8</location>
+			<title>xXx State of the Union (2005) ทริปเปิ้นเอ็กซ์ พยัคฆ์ร้ายพันธุ์ดุ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/941f9e1f0177f0724c51111cd3c02347/941f9e1f0177f0724c51111cd3c02347.m3u8</location>
+			<title>xXx (2002) พยัคฆ์ร้ายพันธุ์ดุ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5e25bef3cb02a46690dc0f5b/5e25bef3cb02a46690dc0f5b.m3u8</location>
+			<title>Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้ามจักรวาลแมงมุม 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ed466a1e63d359ac93e78bc8/ed466a1e63d359ac93e78bc8.m3u8</location>
+			<title>Infernal Affairs 3 (2003) ปิดตำนานสองคนสองคม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5571595966a83289791ba5d3/5571595966a83289791ba5d3.m3u8</location>
+			<title>Infernal Affairs 2 (2003) ต้นฉบับสองคนสองคม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ab5a276a253feb5205dc48d0/ab5a276a253feb5205dc48d0.m3u8</location>
+			<title>Infernal Affairs (2002) สองคนสองคม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/065efad6eb3ff670ff5ee0c7/065efad6eb3ff670ff5ee0c7.m3u8</location>
+			<title>Jeepers Creepers Reborn (2022) โฉบกระชาก กลับมาเกิด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ab5a276a253feb5205dc48d0/ab5a276a253feb5205dc48d0.m3u8</location>
+			<title>Infernal Affairs (2002) สองคนสองคม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/065efad6eb3ff670ff5ee0c7/065efad6eb3ff670ff5ee0c7.m3u8</location>
+			<title>Jeepers Creepers Reborn (2022) โฉบกระชาก กลับมาเกิด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b8ccd73a99d35c9f6ccf8c6b/b8ccd73a99d35c9f6ccf8c6b.m3u8</location>
+			<title>Jeepers Creepers 3 (2017) มันกลับมาโฉบหัว 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/684ccde002cfd14b472d7bc4/684ccde002cfd14b472d7bc4.m3u8</location>
+			<title>Jeepers Creepers 2 (2003) โฉบกระชากหัว 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e2a394494ba3870abbcbcc81/e2a394494ba3870abbcbcc81.m3u8</location>
+			<title>Jeepers Creepers (2001) โฉบกระชากหัว</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4292e1e202c4524015fe99c4/4292e1e202c4524015fe99c4.m3u8</location>
+			<title>The Croods A New Age (2020) เดอะ ครู้ดส์ ตะลุยโลกใบใหม่</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1afdbbad924c3f0a66699cad/1afdbbad924c3f0a66699cad.m3u8</location>
+			<title>The Croods (2013) มนุษย์ถ้ำผจญภัย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/dc216571f97dc2d1353d3c10/dc216571f97dc2d1353d3c10.m3u8</location>
+			<title>The Meg (2018) เม็ก โคตรหลามพันล้านปี</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/53adf4ace6fbe430b0af3dc2/53adf4ace6fbe430b0af3dc2.m3u8</location>
+			<title>47 Meters Down Uncaged (2019) ดิ่งลึกสุดนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/36a01c288613ae2a59965eb2/36a01c288613ae2a59965eb2.m3u8</location>
+			<title>47 Meters Down (2017) 47 ดิ่งลึกเฉียดนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d2fa9dc224ba409ea6ed2d6b/d2fa9dc224ba409ea6ed2d6b.m3u8</location>
+			<title>Deep Blue Sea 3 (2020) ฝูงมฤตยูใต้มหาสมุทร 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/3f4dc1785c639eb8dcff3a7e/3f4dc1785c639eb8dcff3a7e.m3u8</location>
+			<title>Deep Blue Sea (1999) ฝูงมฤตยูใต้มหาสมุทร</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/bb652271a2a18c89b8445331/bb652271a2a18c89b8445331.m3u8</location>
+			<title>Jaws The Revenge (1987) จอว์ส 4 ล้าง…แค้น</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b05900ad17bf0f02e850d251/b05900ad17bf0f02e850d251.m3u8</location>
+			<title>Jaws 3-D (1983) จอว์ส 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/15c8a68c11cb42e4df98bad1ab39dd8d/15c8a68c11cb42e4df98bad1ab39dd8d.m3u8</location>
+			<title>Jaws 2 (1978) จอว์ส 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/3e74e2cf1f3a119059d0db0a/3e74e2cf1f3a119059d0db0a.m3u8</location>
+			<title>Jaws (1975) จอว์ส</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/6cb316bccc0f7c8de68f031a/6cb316bccc0f7c8de68f031a.m3u8</location>
+			<title>Khun Phan 2 (2018) ขุนพันธ์ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/655177bf2f073404ccd82ce2/655177bf2f073404ccd82ce2.m3u8</location>
+			<title>Khun Phan (2016) ขุนพันธ์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b3251468a9c1b0ec27b75dae/b3251468a9c1b0ec27b75dae.m3u8</location>
+			<title>The Exorcist 3 (1990) เอ็กซอร์ซิสต์ 3 สยบนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/30e52f05dcfeaae5532da6eb/30e52f05dcfeaae5532da6eb.m3u8</location>
+			<title>Exorcist 2 The Heretic (1977) หมอผีเอ็กซอร์ซิสต์ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/7899264f6a1472daf40e87a1/7899264f6a1472daf40e87a1.m3u8</location>
+			<title>The Exorcist (1973) หมอผี เอ็กซอร์ซิสต์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/2d3dd64597a7d2e50c6bbb78/2d3dd64597a7d2e50c6bbb78.m3u8</location>
+			<title>Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c4ae3fe827fcc6e9009ee707/c4ae3fe827fcc6e9009ee707.m3u8</location>
+			<title>The Collection (2012) จับคนมาเชือด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/11e00d5a1f04a9b4e779533e3b61e0f7/11e00d5a1f04a9b4e779533e3b61e0f7.m3u8</location>
+			<title>Resident Evil 6 The Final Chapter (2016) อวสานผีชีวะ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/74f38e917603c0a937ebd237401d3589/74f38e917603c0a937ebd237401d3589.m3u8</location>
+			<title>Resident Evil 5 Retribution (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/114b8ebf87222953fe966104/114b8ebf87222953fe966104.m3u8</location>
+			<title>Resident Evil 4 Afterlife (2010) ผีชีวะ 4 สงครามแตกพันธุ์ไวรัส</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0ed48cc6559dd7f9e3842ea6/0ed48cc6559dd7f9e3842ea6.m3u8</location>
+			<title>Resident Evil 3 Extinction (2007) ผีชีวะ 3 สงครามสูญพันธุ์ไวรัส</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/afd48d9eb64480a0de5452caa73c3ffa/afd48d9eb64480a0de5452caa73c3ffa.m3u8</location>
+			<title>Resident Evil 2 Apocalypse (2004) ผีชีวะ 2 ผ่าวิกฤตไวรัสสยองโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c814cef587f04ba1e2c9017b6980df7a/c814cef587f04ba1e2c9017b6980df7a.m3u8</location>
+			<title>Resident Evil (2002) ผีชีวะ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d229d5c297b0da6947bf6425/d229d5c297b0da6947bf6425.m3u8</location>
+			<title>Fast X (2023) เร็ว..แรงทะลุนรก 10</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/245094e5fdfe07354eca7dbe/245094e5fdfe07354eca7dbe.m3u8</location>
+			<title>Transformers Rise of the Beasts (2023) ทรานส์ฟอร์เมอร์ส กำเนิดจักรกลอสูร</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5d6526591c0d7df889eac250/5d6526591c0d7df889eac250.m3u8</location>
+			<title>The Twilight Saga 5 Breaking Dawn Part 2 (2012) แวมไพร์ทไวไลท์ 4 เบรคกิ้ง ดอว์น ภาค 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/8f553f52925f9843de7fc7fe/8f553f52925f9843de7fc7fe.m3u8</location>
+			<title>The Twilight Saga 4 Breaking Dawn Part 1 (2011) แวมไพร์ ทไวไลท์ 4 เบรคกิ้ง ดอว์น ภาค 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c3046fe4d041a46a3ab44b03/c3046fe4d041a46a3ab44b03.m3u8</location>
+			<title>The Twilight Saga 3 Eclipse (2010) แวมไพร์ ทไวไลท์ 3 อีคลิปส์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/6b9ee2984deaaaa46a16efda/6b9ee2984deaaaa46a16efda.m3u8</location>
+			<title>The Twilight Saga 2 New Moon (2009) แวมไพร์ ทไวไลท์ 2 นิวมูน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/488327451060482853d1b222/488327451060482853d1b222.m3u8</location>
+			<title>Twilight (2008) แวมไพร์ ทไวไลท์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/33a39404c2397d9d6bb887d8/33a39404c2397d9d6bb887d8.m3u8</location>
+			<title>Heavens Seven 2 (2005) 7 ประจัญบาน 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/2800cbcbca12adc40566e1bf/2800cbcbca12adc40566e1bf.m3u8</location>
+			<title>Heavens Seven (2002) 7 ประจัญบาน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4ffd99035a4ce94b384d44c7/4ffd99035a4ce94b384d44c7.m3u8</location>
+			<title>Saints and Soldiers Airborne Creed (2012) ภารกิจกล้าฝ่าแดนข้าศึก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1b8ba29de75cb72da03964a5/1b8ba29de75cb72da03964a5.m3u8</location>
+			<title>Saints and Soldiers (2003) สงครามปลดแอกความเป็นคน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/759e8c0fd312a6fef341dbc6/759e8c0fd312a6fef341dbc6.m3u8</location>
+			<title>A Moment of Romance 3 (1993) ผู้หญิงข้าใตรอย่าเตะ 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/375ced287ccc0e2c7ef75301/375ced287ccc0e2c7ef75301.m3u8</location>
+			<title>A Moment of Romance 2 (1993) ผู้หญิงข้าใตรอย่าเตะ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/9afc09c302634027a4a1ce6d/9afc09c302634027a4a1ce6d.m3u8</location>
+			<title>A Moment of Romance (1990) ผู้หญิงข้าใตรอย่าเตะ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5343412f37ff5c977d51ace1/5343412f37ff5c977d51ace1.m3u8</location>
+			<title>Love Tactics 2 (2023) ยุทธวิธีกำราบรัก 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/bb984c29471984e661f589a9/bb984c29471984e661f589a9.m3u8</location>
+			<title>Insidious The Last Key (2018) วิญญาณตามติด กุญแจผีบอก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/03d0e7f16253a85f8cbe0358/03d0e7f16253a85f8cbe0358.m3u8</location>
+			<title>Insidious Chapter 3 (2015) วิญญาณตามติด 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/065e812d21c9846e90ad089f/065e812d21c9846e90ad089f.m3u8</location>
+			<title>Insidious Chapter 2 (2013) วิญญาณตามติด ภาค 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/28dd79f0c08d966d8384ff3a/28dd79f0c08d966d8384ff3a.m3u8</location>
+			<title>Insidious (2010) อินซิเดียส วิญญาณตามติด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ea885187ee078301ef3ecba6/ea885187ee078301ef3ecba6.m3u8</location>
+			<title>Mission Impossible 6 Fallout (2018) มิชชั่น อิมพอสซิเบิ้ล ฟอลล์เอาท์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/f87d39ff1161bd79df93ed4c/f87d39ff1161bd79df93ed4c.m3u8</location>
+			<title>Mission Impossible 5 Rogue Nation (2015) มิชชั่น อิมพอสซิเบิ้ล 5 ปฏิบัติการรัฐอำพราง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/277d17da8f03d30facc17460/277d17da8f03d30facc17460.m3u8</location>
+			<title>Mission Impossible 4 Ghost Protocol (2011) มิชชั่น อิมพอสซิเบิ้ล ปฏิบัติการไร้เงา</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/14317f66fc4cfed4a94a009d/14317f66fc4cfed4a94a009d.m3u8</location>
+			<title>Mission Impossible 3 (2006) มิชชั่น อิมพอสซิเบิ้ล ฝ่าปฏิบัติการสะท้านโลก 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d7ac9c4acaa6faa85a5703bd/d7ac9c4acaa6faa85a5703bd.m3u8</location>
+			<title>Mission Impossible 2 (2000) มิชชั่น อิมพอสซิเบิ้ล ฝ่าปฏิบัติการสะท้านโลก 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/09360159f953c7145964c294/09360159f953c7145964c294.m3u8</location>
+			<title>Mission Impossible (1996) ผ่าปฏิบัติการสะท้านโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/12b23bd93a169d2279b0aea7/12b23bd93a169d2279b0aea7.m3u8</location>
+			<title>Ocean&#39;s 8 (2018) โอเชียน 8</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/88f4ead3bc5767837360bdb4/88f4ead3bc5767837360bdb4.m3u8</location>
+			<title>Ocean&#39;s Thirteen (2007) โอเชียน 13 เซียนปล้นเหนือเมฆ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b4947d55939a73eae200ed83/b4947d55939a73eae200ed83.m3u8</location>
+			<title>Ocean&#39;s Twelve (2004) โอเชี่ยนส ทเวลฟ์ 12 มงกุฏ ปล้นสุดโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/43b2113a61450b8241650321/43b2113a61450b8241650321.m3u8</location>
+			<title>Ocean&#39;s Eleven 11 (2001) คนเหนือเมฆปล้นลอกคราบเมือง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/04aacbeb7a4935695e03329c/04aacbeb7a4935695e03329c.m3u8</location>
+			<title>Indiana Jones 4 (2008) ขุมทรัพย์สุดขอบฟ้า 4 อาณาจักรกะโหลกแก้ว</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/dfe8f9624bb15ee5e5f1d614/dfe8f9624bb15ee5e5f1d614.m3u8</location>
+			<title>Indiana Jones 3 (1989) ขุมทรัพย์สุดขอบฟ้า 3 ศึกอภินิหารครูเสด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/6617f0a6c27f389a1991b59b/6617f0a6c27f389a1991b59b.m3u8</location>
+			<title>Indiana Jones 2 (1984) ขุมทรัพย์สุดขอบฟ้า 2 ถล่มวิหารเจ้าแม่กาลี</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/7e99a979cc01f48d6a57a959/7e99a979cc01f48d6a57a959.m3u8</location>
+			<title>Indiana Jones (1981) ขุมทรัพย์สุดขอบฟ้า</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/070747a17e3eb734d0dc009a/070747a17e3eb734d0dc009a.m3u8</location>
+			<title>Sang Krasue 2 (2023) แสงกระสือ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5d6af16bbfda01ca1e703ac3/5d6af16bbfda01ca1e703ac3.m3u8</location>
+			<title>Krasue Inhuman Kiss (2019) แสงกระสือ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/34320f796f4acc66ca4bff47/34320f796f4acc66ca4bff47.m3u8</location>
+			<title>The Wandering Earth (2019) ปฏิบัติการฝ่าสุริยะ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d8674b8f77219228241b8d8c31be5d28/d8674b8f77219228241b8d8c31be5d28.m3u8</location>
+			<title>Pirates of the Caribbean (2017) สงครามแค้นโจรสลัดไร้ชีพ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0417cb527e275ef370934161/0417cb527e275ef370934161.m3u8</location>
+			<title>Pirates of the Caribbean 4 (2011) ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/beffbc726da96a5d67d199a9/beffbc726da96a5d67d199a9.m3u8</location>
+			<title>Pirates of the Caribbean 3 (2007) ผจญภัยล่าโจรสลัดสุดขอบโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0c37fab51627cdceb03b7219/0c37fab51627cdceb03b7219.m3u8</location>
+			<title>Pirates of the Caribbean 2 (2006) สงครามปีศาจโจรสลัดสยองโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/85efc4b7094f99caa94be2d2/85efc4b7094f99caa94be2d2.m3u8</location>
+			<title>Pirates of the Caribbean (2003) คืนชีพกองทัพโจรสลัดสยองโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ed859f308d75bebfe7851edd/ed859f308d75bebfe7851edd.m3u8</location>
+			<title>How to Train Your Dragon 3 The Hidden World (2019) อภินิหารไวกิ้งพิชิตมังกร 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0240e9333697e0c7f842b1de/0240e9333697e0c7f842b1de.m3u8</location>
+			<title>How to Train Your Dragon 2 (2014) อภินิหารไวกิ้งพิชิตมังกร 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0b8e0f70742c0d388b16a090/0b8e0f70742c0d388b16a090.m3u8</location>
+			<title>How to Train Your Dragon (2010) อภินิหารไวกิ้งพิชิตมังกร</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/7781487025218936b0d5274a/7781487025218936b0d5274a.m3u8</location>
+			<title>Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/93000f671dc2ef72ec66aed1/93000f671dc2ef72ec66aed1.m3u8</location>
+			<title>Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/68efd791de319f6ea394b9a9/68efd791de319f6ea394b9a9.m3u8</location>
+			<title>Batman Begins (2005) แบทแมน บีกินส์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5cdee078939c84c04db1c3fd/5cdee078939c84c04db1c3fd.m3u8</location>
+			<title>Orphan (2009) ออร์แฟน เด็กนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c67dc3dee3195f996e239d40/c67dc3dee3195f996e239d40.m3u8</location>
+			<title>Jack Reacher Never Go Back (2016) ยอดคนสืบระห่ำ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4f6a4d5faa493de51a67a1ef/4f6a4d5faa493de51a67a1ef.m3u8</location>
+			<title>Jack Reacher (2012) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/fd4c6ca66a73473c0d117407/fd4c6ca66a73473c0d117407.m3u8</location>
+			<title>Extraction 2 (2023) คนระห่ำภารกิจเดือด 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/9d1974cb8c09b2a6b26d4dce/9d1974cb8c09b2a6b26d4dce.m3u8</location>
+			<title>Extraction (2020) คนระห่ำภารกิจเดือด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d5920d1f99d9389ae3cb25f1/d5920d1f99d9389ae3cb25f1.m3u8</location>
+			<title>Phobia 2 (2009) 5 แพร่ง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e3ee3d31dbaa70595aa7983d/e3ee3d31dbaa70595aa7983d.m3u8</location>
+			<title>Phobia (4bia) (2008) 4 แพร่ง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/6989d00c2300f65df7c67250/6989d00c2300f65df7c67250.m3u8</location>
+			<title>10 Cloverfield Lane (2016) 10 โคลเวอร์ฟิลด์ เลน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/795674096a7ff71b2b278c6e/795674096a7ff71b2b278c6e.m3u8</location>
+			<title>Cloverfield (2008) วันวิบัติอสูรกายถล่มโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/404fc5ebf93942807a542100/404fc5ebf93942807a542100.m3u8</location>
+			<title>Avatar 2 The Way of Water (2022) อวตาร วิถีแห่งสายน้ำ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/50a012408d4eb2150a9e1ee7/50a012408d4eb2150a9e1ee7.m3u8</location>
+			<title>Spider Man Into the Spider Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล แมงมุม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/8daa34e141537cdbf9d11e82/8daa34e141537cdbf9d11e82.m3u8</location>
+			<title>Mirrors 2 (2010) มันอยู่ในกระจก 2 สะท้อนผีดุ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/f3a601208205ab43520ba2f1/f3a601208205ab43520ba2f1.m3u8</location>
+			<title>Mirrors (2008) มันอยู่ในกระจก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/8ee96a1c512382d189fe6217/8ee96a1c512382d189fe6217.m3u8</location>
+			<title>Evil Dead Rise (2023) ผีอมตะผงาด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/a6de9d3dfef4af35a44413167069b648/a6de9d3dfef4af35a44413167069b648.m3u8</location>
+			<title>F9 The Fast Saga (2021) เร็วแรงทะลุนรก 9</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c289661343ba68dcb4dfd642611f08de/c289661343ba68dcb4dfd642611f08de.m3u8</location>
+			<title>Fast And Furious Hobbs And Shaw (2019) เร็วแรงทะลุนรก ฮ็อบส์ ชอว์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a53a0d7278.m3u8</location>
+			<title>The Fate of the Furious 8 (2017) เร็วแรงทะลุนรก 8</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/3a78910939a204d9cae78d62/3a78910939a204d9cae78d62.m3u8</location>
+			<title>Furious 7 (2015) เร็วแรงทะลุนรก 7</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/82cabad80e4997a31cbd4c28/82cabad80e4997a31cbd4c28.m3u8</location>
+			<title>Fast And Furious 6 (2013) เร็วแรงทะลุนรก 6</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b97c4e7865fd93d8e498f9d0/b97c4e7865fd93d8e498f9d0.m3u8</location>
+			<title>Fast Five 5 (2011) เร็วแรงทะลุนรก 5</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/994720fbbbaf904467ad5ba6/994720fbbbaf904467ad5ba6.m3u8</location>
+			<title>Fast And Furious 4 (2009) เร็วแรงทะลุนรก ยกทีมซิ่ง แรงทะลุไมล์ 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/88319a12b3ab3c1b9da87267/88319a12b3ab3c1b9da87267.m3u8</location>
+			<title>The Fast and the Furious Tokyo Drift 3 (2006) เร็วแรงทะลุนรก ซิ่งแหกพิกัดโตเกียว 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/87f09250cd50def42ab2ac83/87f09250cd50def42ab2ac83.m3u8</location>
+			<title>2 Fast 2 Furious (2003) เร็วคูณ 2 ดับเบิ้ลแรงท้านรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/48bd10f287c7c88b419b84b8/48bd10f287c7c88b419b84b8.m3u8</location>
+			<title>The Fast and the Furious 1 (2001) เร็วแรงทะลุนรก 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c9d94073ab63f3645325f0d5/c9d94073ab63f3645325f0d5.m3u8</location>
+			<title>Ant-Man and the Wasp Quantumania (2023) แอนท์?แมน และ เดอะ วอสพ์ ตะลุยมิติควอนตัม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1afef4cb7df22cfd56c5119f/1afef4cb7df22cfd56c5119f.m3u8</location>
+			<title>Attraction 2 Invasion (2020) มหาวิบัติเอเลี่ยนล้างโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/33aa8ab9d7dd3b0b69ba51f3/33aa8ab9d7dd3b0b69ba51f3.m3u8</location>
+			<title>Attraction (2017) มหาวิบัติเอเลี่ยนถล่มโลก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/8809e7f3c0def3913abc54b5a74905e1/8809e7f3c0def3913abc54b5a74905e1.m3u8</location>
+			<title>The Equalizer 2 (2018) มัจจุราชไร้เงา 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/cb9c704acc4e681194190d7a/cb9c704acc4e681194190d7a.m3u8</location>
+			<title>The Equalizer (2014) มัจจุราชไร้เงา</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/9cb427ffdcf03aefb3b802ab8252bbb0/9cb427ffdcf03aefb3b802ab8252bbb0.m3u8</location>
+			<title>The Transporter 3 (2008) เพชฌฆาต สัญชาติเทอร์โบ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4fd7148089c5c852b04e3541b11b2d27/4fd7148089c5c852b04e3541b11b2d27.m3u8</location>
+			<title>The Transporter 2 (2005) ทรานสปอร์ตเตอร์ 2 ภารกิจฮึด...เฆี่ยนนรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4ca9e54104648e53b48a738e59427134/4ca9e54104648e53b48a738e59427134.m3u8</location>
+			<title>The Transporter (2002) ขนระห่ำไปบี้นรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/09f5a2c9549353d0c2920389/09f5a2c9549353d0c2920389.m3u8</location>
+			<title>Legend of Snake 2 Tai Sui (2021) ตำนานงูขาว 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4da8ce4d38f8853d50771f0d/4da8ce4d38f8853d50771f0d.m3u8</location>
+			<title>Legend of Snake (2021) ตำนานงูขาว</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1a40d5d042da95db2b688dab/1a40d5d042da95db2b688dab.m3u8</location>
+			<title>Taxi Driver Season 2 (2023)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/10ef1b2205858d3590f8a42b/10ef1b2205858d3590f8a42b.m3u8</location>
+			<title>Scream 6 (2023) หวีดสุดขีด 6</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/975c11bb41f19a3313826d068cce803d/975c11bb41f19a3313826d068cce803d.m3u8</location>
+			<title>Crank High Voltage (2009) แครงก์ คนคลั่งไฟแรงสูง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/6006506fe4515632e174b6f8bc024569/6006506fe4515632e174b6f8bc024569.m3u8</location>
+			<title>Crank (2006) คนโคม่า วิ่ง คลั่ง ฆ่า</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d12ffaf8019d57a20f16cc7c943ab687/d12ffaf8019d57a20f16cc7c943ab687.m3u8</location>
+			<title>American Psycho (2000) อเมริกัน ไซโค</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c691a1c09bb78ed9fc474c00/c691a1c09bb78ed9fc474c00.m3u8</location>
+			<title>Star Trek Beyond (2016) สตาร์ เทรค ข้ามขอบจักรวาล</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/25db0b577142ac95d663ef59457c32b8/25db0b577142ac95d663ef59457c32b8.m3u8</location>
+			<title>Star Trek Into Darkness (2013) สตาร์ เทรค ทะยานสู่ห้วงมืด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c89e32c374d7b61a36d3621b08f71f46/c89e32c374d7b61a36d3621b08f71f46.m3u8</location>
+			<title>Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/93fc05fa0cee8576d85858db/93fc05fa0cee8576d85858db.m3u8</location>
+			<title>3AM Part 2 (2014) ตีสาม คืนสาม 3D</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1d509760e7a9bc362330bed473f73370/1d509760e7a9bc362330bed473f73370.m3u8</location>
+			<title>3 AM (2012) ตีสาม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/87ad339ceb121945a18b0f5b/87ad339ceb121945a18b0f5b.m3u8</location>
+			<title>Alice Through the Looking Glass (2016) อลิซ ผจญมหัศจรรย์เมืองกระจก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/282ecf68210cde01f169fc4f/282ecf68210cde01f169fc4f.m3u8</location>
+			<title>Alice in Wonderland (2010) อลิซในแดนมหัศจรรย์</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/67a3aab9dd02923e772df92e/67a3aab9dd02923e772df92e.m3u8</location>
+			<title>The Mandalorian Season 3 (2023)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/18a91684497f5ef12ce2a675/18a91684497f5ef12ce2a675.m3u8</location>
+			<title>The Bodyguard 2 (2007) บอดี้การ์ดหน้าเหลี่ยม 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/833b137f4aaccbc16223a3ae/833b137f4aaccbc16223a3ae.m3u8</location>
+			<title>The Bodyguard (2004) บอดี้การ์ดหน้าเหลี่ยม</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/0441a55d36ee6f6c563620f1/0441a55d36ee6f6c563620f1.m3u8</location>
+			<title>Rush Hour 3 (2007) คู่ใหญ่ฟัดเต็มสปีด 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/405a850dc9b2660c84cc2709/405a850dc9b2660c84cc2709.m3u8</location>
+			<title>Rush Hour 2 (2001) คู่ใหญ่ ฟัดเต็มสปีด 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/94059add5478fe08b87ef96d/94059add5478fe08b87ef96d.m3u8</location>
+			<title>Rush Hour (1998) คู่ใหญ่ฟัดเต็มสปีด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/188ab67f3b0c2600a8fcc73b/188ab67f3b0c2600a8fcc73b.m3u8</location>
+			<title>Library Wars 2 Last Mission (2015) สงครามห้องสมุดภารกิจสุดท้าย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1cbeedadea5cc7c01d2bde0c/1cbeedadea5cc7c01d2bde0c.m3u8</location>
+			<title>Library Wars (2013) สงครามห้องสมุด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/55d9910b8a23f6df362a53a3/55d9910b8a23f6df362a53a3.m3u8</location>
+			<title>Ralph Breaks the Internet (2018) ราล์ฟตะลุยโลกอินเทอร์เน็ต วายร้ายหัวใจฮีโร่ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/b1a198a66520f6df766c4337/b1a198a66520f6df766c4337.m3u8</location>
+			<title>Wreck-It Ralph (2012) ราล์ฟ วายร้ายหัวใจฮีโร่</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/55a8d1ba9af82905428b52b5/55a8d1ba9af82905428b52b5.m3u8</location>
+			<title>Smurfs 3 The Lost Village (2017) สเมิร์ฟ หมู่บ้านที่สาบสูญ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/f445aadc893a53db9667c31c/f445aadc893a53db9667c31c.m3u8</location>
+			<title>The Smurfs 2 (2013) เสมิร์ฟ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ef7389ff2f62d58c667cca18/ef7389ff2f62d58c667cca18.m3u8</location>
+			<title>The Smurfs (2011) เสมิร์ฟ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/fa33769f02163ed28bd4b623/fa33769f02163ed28bd4b623.m3u8</location>
+			<title>Fright Night 2 New Blood (2013) คืนนี้ผีมาตามนัด 2 ดุฝังเขี้ยว</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/7913b55cd33d69cd6fd0bfcb/7913b55cd33d69cd6fd0bfcb.m3u8</location>
+			<title>Fright Night (2011) คืนนี้ผีมาตามนัด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/74e9d07fee18906099c205e8/74e9d07fee18906099c205e8.m3u8</location>
+			<title>Creed II (2018) ครี้ด 2 บ่มแชมป์เลือดนักชก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/31d3167e0969d994908d54b1/31d3167e0969d994908d54b1.m3u8</location>
+			<title>Creed (2015) ครี้ด บ่มแชมป์เลือดนักชก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/5ebfdb3556937a7a9638f2e9/5ebfdb3556937a7a9638f2e9.m3u8</location>
+			<title>Murder Mystery 2 (2023) ปริศนาฮันนีมูนอลวน 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c9cf6de25872e1527afda846/c9cf6de25872e1527afda846.m3u8</location>
+			<title>Murder Mystery (2019) ปริศนาฮันนีมูนอลวน</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/19c021e4653bf853d9a74d14/19c021e4653bf853d9a74d14.m3u8</location>
+			<title>Khan Kluay 2 (2009) ก้านกล้วย 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/58578f7b02faa71a8be9668e/58578f7b02faa71a8be9668e.m3u8</location>
+			<title>Khan Kluay (2006) ก้านกล้วย</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/1965ee729029e77d03f87920/1965ee729029e77d03f87920.m3u8</location>
+			<title>John Wick 3 Parabellum (2019) จอห์น วิค แรงกว่านรก 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/ccca3228051f1e87b53a11b1/ccca3228051f1e87b53a11b1.m3u8</location>
+			<title>John Wick 2 (2017) จอห์น วิค แรงกว่านรก 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/84f061a6ad83c75cf26c0b14/84f061a6ad83c75cf26c0b14.m3u8</location>
+			<title>John Wick (2014) จอห์นวิค แรงกว่านรก</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d9b75764444e35b53766e50b/d9b75764444e35b53766e50b.m3u8</location>
+			<title>Escape Room Tournament of Champions (2021) กักห้อง เกมโหด 2 กลับสู่เกมสยอง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/aaba29087ddcead128a764e4/aaba29087ddcead128a764e4.m3u8</location>
+			<title>Escape Room (2019) กักห้อง เกมโหด</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/c8bf5c4a4c5e2595bbe66cdd/c8bf5c4a4c5e2595bbe66cdd.m3u8</location>
+			<title>Shadow and Bone Season 2 (2023) ตำนานกรีชา ซีซั่น 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/86c141ceb8c67597569c1efd/86c141ceb8c67597569c1efd.m3u8</location>
+			<title>Star Wars The Bad Batch 2 (2023) สตาร์ วอร์ส ทีมโคตรโคลนมหากาฬ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/d5a975f65fbcf02f902f72eb/d5a975f65fbcf02f902f72eb.m3u8</location>
+			<title>Shadow and Bone Season 1 (2021) ตำนานกรีชา</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/06ddf6fc8890e67bae3636fd/06ddf6fc8890e67bae3636fd.m3u8</location>
+			<title>Child&#39;s Play (2019) คลั่งฝังหุ่น</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/a2da208f42a4cf5df177b8b8/a2da208f42a4cf5df177b8b8.m3u8</location>
+			<title>Curse of Chucky (2013) คำสาปแค้นฝังหุ่น</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/270baf5799f24e114fe12d79/270baf5799f24e114fe12d79.m3u8</location>
+			<title>Seed of Chucky (2004) เชื้อผีแค้นฝังหุ่น</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/4462aba87d50c48ad61b44db/4462aba87d50c48ad61b44db.m3u8</location>
+			<title>Bride of Chucky (1998) แค้นฝังหุ่น คู่สวาทวิวาห์สยอง</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/6b18607199e17867bc417e7c/6b18607199e17867bc417e7c.m3u8</location>
+			<title>Child&#39;s Play 3 (1991) แค้นฝังหุ่น 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e75d4f6b7a5324cb169b0a13/e75d4f6b7a5324cb169b0a13.m3u8</location>
+			<title>Child&#39;s Play 2 (1990) แค้นฝังหุ่น 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://main.24playerhd.com/newplaylist/e14a8b47c26f13722e7f63a0/e14a8b47c26f13722e7f63a0.m3u8</location>
+			<title>Child&#39;s Play (1988) แค้นฝังหุ่น</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+		<vlc:item tid="166"/>
+		<vlc:item tid="167"/>
+		<vlc:item tid="168"/>
+		<vlc:item tid="169"/>
+		<vlc:item tid="170"/>
+		<vlc:item tid="171"/>
+		<vlc:item tid="172"/>
+		<vlc:item tid="173"/>
+		<vlc:item tid="174"/>
+		<vlc:item tid="175"/>
+		<vlc:item tid="176"/>
+		<vlc:item tid="177"/>
+		<vlc:item tid="178"/>
+		<vlc:item tid="179"/>
+		<vlc:item tid="180"/>
+		<vlc:item tid="181"/>
+		<vlc:item tid="182"/>
+		<vlc:item tid="183"/>
+		<vlc:item tid="184"/>
+		<vlc:item tid="185"/>
+		<vlc:item tid="186"/>
+		<vlc:item tid="187"/>
+		<vlc:item tid="188"/>
+		<vlc:item tid="189"/>
+		<vlc:item tid="190"/>
+		<vlc:item tid="191"/>
+		<vlc:item tid="192"/>
+		<vlc:item tid="193"/>
+		<vlc:item tid="194"/>
+		<vlc:item tid="195"/>
+		<vlc:item tid="196"/>
+		<vlc:item tid="197"/>
+		<vlc:item tid="198"/>
+		<vlc:item tid="199"/>
+		<vlc:item tid="200"/>
+		<vlc:item tid="201"/>
+		<vlc:item tid="202"/>
+		<vlc:item tid="203"/>
+		<vlc:item tid="204"/>
+		<vlc:item tid="205"/>
+		<vlc:item tid="206"/>
+		<vlc:item tid="207"/>
+		<vlc:item tid="208"/>
+		<vlc:item tid="209"/>
+		<vlc:item tid="210"/>
+		<vlc:item tid="211"/>
+		<vlc:item tid="212"/>
+		<vlc:item tid="213"/>
+		<vlc:item tid="214"/>
+		<vlc:item tid="215"/>
+		<vlc:item tid="216"/>
+		<vlc:item tid="217"/>
+		<vlc:item tid="218"/>
+		<vlc:item tid="219"/>
+		<vlc:item tid="220"/>
+		<vlc:item tid="221"/>
+		<vlc:item tid="222"/>
+		<vlc:item tid="223"/>
+		<vlc:item tid="224"/>
+		<vlc:item tid="225"/>
+		<vlc:item tid="226"/>
+		<vlc:item tid="227"/>
+		<vlc:item tid="228"/>
+		<vlc:item tid="229"/>
+		<vlc:item tid="230"/>
+		<vlc:item tid="231"/>
+		<vlc:item tid="232"/>
+		<vlc:item tid="233"/>
+	</extension>
+</playlist>

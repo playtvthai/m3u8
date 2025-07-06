@@ -1,94 +1,7 @@
-<!DOCTYPE html>
-<html lang="th">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Generate M3U Playlist with Referrer</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-      background-color: #f2f2f2;
-    }
-    h1 { text-align: center; }
-    .channel { margin-bottom: 10px; }
-    input[type="text"] {
-      width: 30%;
-      padding: 8px;
-      margin-right: 5px;
-    }
-    button {
-      padding: 8px 15px;
-      margin-top: 10px;
-      cursor: pointer;
-    }
-    #channels-container {
-      margin-bottom: 20px;
-    }
-  </style>
-</head>
-<body>
-  <h1>🎬 สร้าง Playlist M3U (พร้อม Referrer)</h1>
-
-  <div id="channels-container">
-    <div class="channel">
-      <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
-      <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
-      <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
-    </div>
-  </div>
-
-  <button onclick="addChannel()">➕ เพิ่มช่อง</button>
-  <button onclick="generatePlaylist()">🎉 Generate Playlist</button>
-
-  <script>
-    function addChannel() {
-      const container = document.getElementById("channels-container");
-      const div = document.createElement("div");
-      div.className = "channel";
-      div.innerHTML = `
-        <input type="text" placeholder="ชื่อช่อง" class="channel-name" />
-        <input type="text" placeholder="ลิงก์ .m3u8" class="channel-url" />
-        <input type="text" placeholder="Referrer (เช่น https://...)" class="channel-referrer" />
-      `;
-      container.appendChild(div);
-    }
-
-    function generatePlaylist() {
-      const names = document.querySelectorAll(".channel-name");
-      const urls = document.querySelectorAll(".channel-url");
-      const referrers = document.querySelectorAll(".channel-referrer");
-
-      let m3u = "#EXTM3U\n";
-
-      for (let i = 0; i < names.length; i++) {
-        const name = names[i].value.trim();
-        const url = urls[i].value.trim();
-        const ref = referrers[i].value.trim();
-
-        if (name && url) {
-          m3u += `#EXTINF:-1,${name}\n`;
-          if (ref) {
-            m3u += `#EXTVLCOPT:http-referrer=${ref}\n`;
-          }
-          m3u += `${url}\n`;
-        }
-      }
-
-      const blob = new Blob([m3u], { type: "text/plain;charset=utf-8" });
-      const link = document.createElement("a");
-      link.href = URL.createObjectURL(blob);
-      link.download = "playlist.m3u";
-      link.click();
-    }
-  </script>
-</body>
-</html>
 
 
 
-
- <!--#EXTM3U billed-msg="OTTNavigate` M3U PLAYID", url-tvg="https://iptv36.vercel.app/epg.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
+#EXTM3U billed-msg="OTTNavigate` M3U PLAYID", url-tvg="https://iptv36.vercel.app/epg.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
 
 #EXTINF:-1 group-logo="https://freeimage.host/content/images/users/i5XRe/bkg_1740616649.png" 
 
@@ -4854,11 +4767,13 @@ https://ddy6.iosplayer.ru/ddy6/premium519/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6.iosplayer.ru/ddy6/premium520/mono.m3u8
- -->
-<html lang="th">
+ 
+ 
+ 
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">PLAYID </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> M3U </title>
 
 </head>
 

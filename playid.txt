@@ -21,7 +21,35 @@ https://www.dropbox.com/scl/fi/op7h4fko33di5fxluw6kg/mysci.m3u?rlkey=f1w9fcd92r5
 https://dl.dropbox.com/scl/fi/292z65e146q77dqmh4xum/show.m3u?rlkey=epi9qua7ek6wolklwvvtl641d&st=2344ug8w&dl=0
 
 
-
+#EXTM3U url="http://45.144.165.223/vnl2025_mooseven_free.m3u"
+#EXTINF:-1 tvg-id="" tvg-name="Volleyball 1" tvg-logo="http://45.144.165.223/vbtv/vbtv1.png" ",Volleyball 1
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/ts
+#EXTINF:-1 tvg-id="" tvg-name="Volleyball 2" tvg-logo="http://45.144.165.223/vbtv/vbtv2.png" ",Volleyball 2
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2FcjXqcX-KxE_l4-JqcfFrc/ts
+#EXTINF:-1 tvg-id="" tvg-name="Volleyball 3" tvg-logo="http://45.144.165.223/vbtv/vbtv3.png" ",Volleyball 3
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/172648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Volleyball 4" tvg-logo="http://45.144.165.223/vbtv/vbtv4.png" ",Volleyball 4
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/172649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Volleyball 5" tvg-logo="http://45.144.165.223/vbtv/vbtv5.png" ",Volleyball 5
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/172650.m3u8
+#EXTINF:-1 tvg-id="ละครไทยMoo7" tvg-name="SuperCartoon" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012839.png" ,SuperCartoon
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/34959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAJUNGTV" tvg-logo="https://www.i-pic.info/i/zaQj944866.png" ,MAJUNGTV
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/149923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ซิทคอม&วาไรตี้ ย้อนหลัง" tvg-logo="http://moo7hd.myddns.me:5103/logo/xtream_logo/02moo_ent/sit_var.png" ,ซิทคอม&วาไรตี้ ย้อนหลัง
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/31422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="เฮฮาทีวี ทีวีอารมณ์ดี" tvg-logo="http://moo7hd.myddns.me:5103/logo/%E0%B9%80%E0%B8%AE%E0%B8%AE%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png" ,เฮฮาทีวี ทีวีอารมณ์ดี
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/1015908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix OnAir" tvg-logo="http://45.144.165.223/Cover_Movie/Netflix_onair.png" ,Netflix OnAir
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/31426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iPlay MEDIA" tvg-logo="https://img2.pic.in.th/pic/1000699064.png" ,iPlay MEDIA
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/37875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTER MOVIE+" tvg-logo="https://img5.pic.in.th/file/secure-sv1/-Healthy-Care-Logo_20250129_021127_0000.png" ,INTER MOVIE+
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/119704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN MOVIE NOW" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_021127_0001.png" ,ASIAN MOVIE NOW
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/119705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THAI MOVIE HIT" tvg-logo="https://img2.pic.in.th/pic/-Healthy-Care-Logo_20250129_020436_0000.png" ,THAI MOVIE HIT
+http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/119706.m3u8
 
 
 

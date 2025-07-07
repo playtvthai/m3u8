@@ -22,10 +22,3 @@ https://www.dropbox.com/scl/fi/ru2uggu8mne8mgest8o29/tv.zip?rlkey=yez3xu16i79mmf
 https://limewire.com/d/rS2My#BUt2Onxpak
 
 
-📌#link
-https://playtvthai.github.io/m3u8
-
-
-https://github.com/user-attachments/assets/4f36ec6a-3679-47cb-ad78-dd0c6d217ecf
-
-![big_thumb_live_streaming](https://github.com/user-attachments/assets/cdc17171-8b47-4304-aed0-4edbb684adf8)

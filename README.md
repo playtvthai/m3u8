@@ -1,12 +1,15 @@
-🎞️ตัวเล่นวิดีโอ
-![20250508_152520](https://github.com/user-attachments/assets/dd11f0a9-fcf7-4db8-ae74-183b47a4a29b)
+📺 สร้าง Playlist M3U (เวอร์ชัน Pro)
 
-🎥https://playid.vercel.app/player/embed/v1/index.html?live&url=
-# vip/#/m3u8
-![20250330_110837](https://github.com/user-attachments/assets/a0427867-6f50-4484-8ef7-3de848e65bb6)
+
+https://playid.vercel.app/playid.html
 
 
 
+
+
+![imovie](https://github.com/user-attachments/assets/4773b9d5-abbb-4241-8cf6-2e46c6f0cf34)
+
+![isport](https://github.com/user-attachments/assets/33d4e566-e88f-4ed3-97f1-abe1b44c8fbd)
 
 🌐Links web 
 

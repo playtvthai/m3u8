@@ -2,7 +2,6 @@
 
 
 https://github.com/user-attachments/assets/82293657-1317-48f9-bb6b-2a995e722dcb
-https://raw.githubusercontent.com/zealotboll/zealot/refs/heads/main/Main/M3U/animemoji_อนิเมะพากย์ไทย_.m3u
 
 https://playid.vercel.app/playid.html
 

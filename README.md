@@ -8,7 +8,11 @@ https://playid.vercel.app/playid.html
 
 ![live](https://github.com/user-attachments/assets/f0e2c593-6db5-4753-82d2-7c9dd2cc52eb)
 
-https://playid.vercel.app//player.html/?url=
+https://playid.vercel.app//player.html/?url=urlm3u8
+
+https://playid.vercel.app/player.html/?url=https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+
+
 
 ![imovie](https://github.com/user-attachments/assets/4773b9d5-abbb-4241-8cf6-2e46c6f0cf34)
 

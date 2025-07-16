@@ -1,7 +1,6 @@
 📺 สร้าง Playlist M3U (เวอร์ชัน Pro)
 
 M3U
-http://45.144.165.223/vnl2025_mooseven_free.m3u
 
 https://github.com/user-attachments/assets/82293657-1317-48f9-bb6b-2a995e722dcb
 

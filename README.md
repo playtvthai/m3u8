@@ -2,7 +2,8 @@
 
 M3U
 
-http://tw-ty-line-11-1-5.sudatech.store:20311/?type=m3u&proxy=true
+https://novel-lucky.com/anime/watch/kimetsu-no-yaiba-movie-mugen-jou-hen-ดาบพิฆาตอสูร-ภาคปร/kimetsu-no-yaiba-movie-mugen-jou-hen-ดาบพิฆาตอสูร-ภาคปร/
+
 
 https://github.com/user-attachments/assets/82293657-1317-48f9-bb6b-2a995e722dcb
 

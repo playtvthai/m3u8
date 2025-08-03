@@ -1,0 +1,18 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",1
+https://statics-01.duckduckcdn.com/e8107f2b-5d50-5393-ab91-cf74980c329e/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="2" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",2
+https://statics-01.duckduckcdn.com/081dfbbc-44d4-594c-a5aa-e66897ac6320/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="3" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",3
+https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/97c57c953cb6bba47996756780270283/b6f5d54e5ed97636053b08858d49bdf0/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="4" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",4
+https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/462525417e377636c7ab26bcdb7c7b17/9b18e5c7a4e57d5d87937e1c76e0d426/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="5" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",5
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_2003/Wrong_Turn_2003_th_1080p.mp4/chunk.m3u8?nimblesessionid=115795575&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDI1IDE6MjY6MDEgQU0maGFzaF92YWx1ZT1tTFl0eTZrdEYxYnhtOSs5eFJxWHRBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="6" tvg-name="6" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",6
+https://m1free.inwstream.com:1936/movie3/Wrong_Turn_3_Left_for_Dead_2009/Wrong_Turn_3_Left_for_Dead_2009_th_1080p.mp4/chunk.m3u8?nimblesessionid=115795587&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDI1IDE6Mjc6MDkgQU0maGFzaF92YWx1ZT10OEM1U2NrVEtoY1psZHlEd3liSWhnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="7" tvg-name="สวยแค้นโหด" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",สวยแค้นโหด
+https://statics-02.duckduckcdn.com/aefe0c0a-937c-5b93-93db-a108e3a090e6/audio-tha/audio.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="เร็ว...แรงทะลุนรก 7" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",เร็ว...แรงทะลุนรก 7
+https://statics-01.duckduckcdn.com/5de71e7c-0d8c-57ce-a40e-ed058da75f08/audio-tha/audio.m3u8

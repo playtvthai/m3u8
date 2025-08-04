@@ -1,2274 +1,2275 @@
 
      
-  
+#EXTM3U billed-msg="OTTNavigate` M3U PLAYID", url-tvg="https://iptv36.vercel.app/epg.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml"
      
 
-#EXTINF:-1 tvg-logo="", PLAYID ABC USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ABC USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=51
 
-#EXTINF:-1 tvg-logo="", PLAYID A&E USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID A&E USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=302
 
-#EXTINF:-1 tvg-logo="", PLAYID AMC USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID AMC USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=303
 
-#EXTINF:-1 tvg-logo="", PLAYID Animal Planet
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Animal Planet
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=304
 
-#EXTINF:-1 tvg-logo="", PLAYID ACC Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ACC Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=666
 
-#EXTINF:-1 tvg-logo="", PLAYID Astro SuperSport 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=123
 
-#EXTINF:-1 tvg-logo="", PLAYID Astro SuperSport 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=124
 
-#EXTINF:-1 tvg-logo="", PLAYID Astro SuperSport 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=125
 
-#EXTINF:-1 tvg-logo="", PLAYID Astro SuperSport 4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro SuperSport 4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=126
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 1 Premium
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 Premium
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=134
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 2 Premium
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 2 Premium
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=135
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 3 Premium
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 3 Premium
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=139
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 1 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=429
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 2 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 2 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=430
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 3 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 3 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=431
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 4 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 4 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=581
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 1 Croatia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 Croatia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=432
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 2 Croatia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 2 Croatia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=433
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 3 Croatia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 3 Croatia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=434
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 4 Croatia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 4 Croatia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=580
 
-#EXTINF:-1 tvg-logo="", PLAYID Alkass One
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass One
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=781
 
-#EXTINF:-1 tvg-logo="", PLAYID Alkass Two
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass Two
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=782
 
-#EXTINF:-1 tvg-logo="", PLAYID Alkass Three
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass Three
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=783
 
-#EXTINF:-1 tvg-logo="", PLAYID Alkass Four
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Alkass Four
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=784
 
-#EXTINF:-1 tvg-logo="", PLAYID ABS-CBN
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ABS-CBN
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=785
 
-#EXTINF:-1 tvg-logo="", PLAYID Arena Sport 1 BiH
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arena Sport 1 BiH
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=579
 
-#EXTINF:-1 tvg-logo="", PLAYID Abu Dhabi Sports 1 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Abu Dhabi Sports 1 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=600
 
-#EXTINF:-1 tvg-logo="", PLAYID Abu Dhabi Sports 2 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Abu Dhabi Sports 2 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=601
 
-#EXTINF:-1 tvg-logo="", PLAYID Abu Dhabi Sports 1 Premium
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Abu Dhabi Sports 1 Premium
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=609
 
-#EXTINF:-1 tvg-logo="", PLAYID Abu Dhabi Sports 2 Premium
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Abu Dhabi Sports 2 Premium
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=610
 
-#EXTINF:-1 tvg-logo="", PLAYID Astro Cricket
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Astro Cricket
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=370
 
-#EXTINF:-1 tvg-logo="", PLAYID Antena 3 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Antena 3 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=531
 
-#EXTINF:-1 tvg-logo="", PLAYID ACC Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ACC Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=664
 
-#EXTINF:-1 tvg-logo="", PLAYID Adult Swim
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Adult Swim
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=295
 
-#EXTINF:-1 tvg-logo="", PLAYID AXN Movies Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID AXN Movies Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=717
 
-#EXTINF:-1 tvg-logo="", PLAYID Arte DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Arte DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=725
 
-#EXTINF:-1 tvg-logo="", PLAYID AXS TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID AXS TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=742
 
-#EXTINF:-1 tvg-logo="", PLAYID ABCNY USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ABCNY USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=766
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA English 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA English 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=61
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA English 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA English 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=90
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA English 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA English 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=46
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=91
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=92
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=93
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=94
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 5
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 5
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=95
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 6
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 6
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=96
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 7
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 7
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=97
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA Premium 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA Premium 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=98
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA Premium 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA Premium 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=99
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA Premium 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA Premium 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=100
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 4 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 4 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=494
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 5 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 5 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=495
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 6 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 6 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=496
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 7 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 7 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=497
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 8 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 8 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=498
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 9 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 9 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=499
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MAX 10 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MAX 10 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=500
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 1 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 1 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=116
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 2 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 2 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=117
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 3 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 3 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=118
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 1 Turkey
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 1 Turkey
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=62
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 2 Turkey
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 2 Turkey
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=63
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 3 Turkey
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 3 Turkey
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=64
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS 4 Turkey
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS 4 Turkey
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=67
 
-#EXTINF:-1 tvg-logo="", PLAYID BeIN Sports HD Qatar
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BeIN Sports HD Qatar
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=578
 
-#EXTINF:-1 tvg-logo="", PLAYID BeIN SPORTS USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BeIN SPORTS USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=425
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS en Espa?ol
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS en Espa?ol
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=372
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS Australia 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS Australia 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=491
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS Australia 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS Australia 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=492
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS Australia 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS Australia 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=493
 
-#EXTINF:-1 tvg-logo="", PLAYID Barca TV Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Barca TV Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=522
 
-#EXTINF:-1 tvg-logo="", PLAYID Benfica TV PT
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Benfica TV PT
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=380
 
-#EXTINF:-1 tvg-logo="", PLAYID Boomerang
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Boomerang
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=648
 
-#EXTINF:-1 tvg-logo="", PLAYID BNT 1 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BNT 1 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=476
 
-#EXTINF:-1 tvg-logo="", PLAYID BNT 2 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BNT 2 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=477
 
-#EXTINF:-1 tvg-logo="", PLAYID BNT 3 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BNT 3 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=478
 
-#EXTINF:-1 tvg-logo="", PLAYID BR Fernsehen DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BR Fernsehen DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=737
 
-#EXTINF:-1 tvg-logo="", PLAYID bTV Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID bTV Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=479
 
-#EXTINF:-1 tvg-logo="", PLAYID bTV Action Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID bTV Action Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=481
 
-#EXTINF:-1 tvg-logo="", PLAYID bTV Lady Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID bTV Lady Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=484
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC America (BBCA)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC America (BBCA)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=305
 
-#EXTINF:-1 tvg-logo="", PLAYID BET USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BET USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=306
 
-#EXTINF:-1 tvg-logo="", PLAYID Bravo USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bravo USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=307
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC News Channel HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC News Channel HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=349
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC One UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC One UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=356
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC Two UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC Two UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=357
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC Three UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC Three UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=358
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC Four UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC Four UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=359
 
-#EXTINF:-1 tvg-logo="", PLAYID BIG TEN Network (BTN USA)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BIG TEN Network (BTN USA)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=397
 
-#EXTINF:-1 tvg-logo="", PLAYID Cuatro Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cuatro Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=535
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 4 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 4 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=354
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 5 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 5 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=355
 
-#EXTINF:-1 tvg-logo="", PLAYID CBS Sports Network (CBSSN)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CBS Sports Network (CBSSN)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=308
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=121
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=122
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Foot France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Foot France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=463
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport360
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport360
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=464
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal 11 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal 11 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=540
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=48
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport 2 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport 2 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=73
 
-#EXTINF:-1 tvg-logo="", PLAYID CANAL+ SPORT 5 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CANAL+ SPORT 5 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=75
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Premium Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Premium Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=566
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Family Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Family Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=567
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Seriale Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Seriale Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=570
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport 1 Afrique
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport 1 Afrique
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=486
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport 2 Afrique
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport 2 Afrique
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=487
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport 3 Afrique
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport 3 Afrique
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=488
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport 4 Afrique
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport 4 Afrique
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=489
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Sport 5 Afrique
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Sport 5 Afrique
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=490
 
-#EXTINF:-1 tvg-logo="", PLAYID CANAL9 Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CANAL9 Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=805
 
-#EXTINF:-1 tvg-logo="", PLAYID Combate Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Combate Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=89
 
-#EXTINF:-1 tvg-logo="", PLAYID C More Football Sweden
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID C More Football Sweden
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=747
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 1 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 1 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=622
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 2 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 2 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=623
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 3 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 3 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=624
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 4 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 4 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=625
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 5 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 5 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=626
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 6 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 6 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=627
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 7 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 7 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=628
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 8 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 8 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=629
 
-#EXTINF:-1 tvg-logo="", PLAYID Cosmote Sport 9 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cosmote Sport 9 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=630
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 9 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 9 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=546
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 10 Israe
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 10 Israe
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=547
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 11 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 11 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=548
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 12 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 12 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=549
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 13 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 13 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=551
 
-#EXTINF:-1 tvg-logo="", PLAYID Channel 14 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Channel 14 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=552
 
-#EXTINF:-1 tvg-logo="", PLAYID C More Stars Sweden
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID C More Stars Sweden
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=8111
 
-#EXTINF:-1 tvg-logo="", PLAYID C More First Sweden
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID C More First Sweden
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=812
 
-#EXTINF:-1 tvg-logo="", PLAYID C More Hits Sweden
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID C More Hits Sweden
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=813
 
-#EXTINF:-1 tvg-logo="", PLAYID C More Series Sweden
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID C More Series Sweden
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=814
 
-#EXTINF:-1 tvg-logo="", PLAYID COZI TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID COZI TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=748
 
-#EXTINF:-1 tvg-logo="", PLAYID CMT USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CMT USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=647
 
-#EXTINF:-1 tvg-logo="", PLAYID CBS USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CBS USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=52
 
-#EXTINF:-1 tvg-logo="", PLAYID CW USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CW USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=300
 
-#EXTINF:-1 tvg-logo="", PLAYID CNBC USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CNBC USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=309
 
-#EXTINF:-1 tvg-logo="", PLAYID Comedy Central
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Comedy Central
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=310
 
-#EXTINF:-1 tvg-logo="", PLAYID Cartoon Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cartoon Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=339
 
-#EXTINF:-1 tvg-logo="", PLAYID CNN USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CNN USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=345
 
-#EXTINF:-1 tvg-logo="", PLAYID Cinemax USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cinemax USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=374
 
-#EXTINF:-1 tvg-logo="", PLAYID CTV Canada
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CTV Canada
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=602
 
-#EXTINF:-1 tvg-logo="", PLAYID CTV 2 Canada
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CTV 2 Canada
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=838
 
-#EXTINF:-1 tvg-logo="", PLAYID Crime+ Investigation USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Crime+ Investigation USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=669
 
-#EXTINF:-1 tvg-logo="", PLAYID Comet USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Comet USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=696
 
-#EXTINF:-1 tvg-logo="", PLAYID Cooking Channel USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cooking Channel USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=697
 
-#EXTINF:-1 tvg-logo="", PLAYID Cleo TV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cleo TV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=715
 
-#EXTINF:-1 tvg-logo="", PLAYID C SPAN 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID C SPAN 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=750
 
-#EXTINF:-1 tvg-logo="", PLAYID CBSNY USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CBSNY USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=767
 
-#EXTINF:-1 tvg-logo="", PLAYID Citytv
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Citytv
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=831
 
-#EXTINF:-1 tvg-logo="", PLAYID CBC CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CBC CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=832
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 1 Bar DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 1 Bar DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=426
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 2 Bar DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 2 Bar DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=427
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 1 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 1 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=445
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 2 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 2 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=446
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 3 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 3 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=447
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 4 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 4 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=448
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN F1 ES
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN F1 ES
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=537
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN LaLiga
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN LaLiga
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=538
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN LaLiga 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN LaLiga 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=43
 
-#EXTINF:-1 tvg-logo="", PLAYID DR1 Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DR1 Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=801
 
-#EXTINF:-1 tvg-logo="", PLAYID DR2 Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DR2 Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=802
 
-#EXTINF:-1 tvg-logo="", PLAYID Digi Sport 1 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Digi Sport 1 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=400
 
-#EXTINF:-1 tvg-logo="", PLAYID Digi Sport 2 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Digi Sport 2 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=401
 
-#EXTINF:-1 tvg-logo="", PLAYID Digi Sport 3 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Digi Sport 3 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=402
 
-#EXTINF:-1 tvg-logo="", PLAYID Digi Sport 4 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Digi Sport 4 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=403
 
-#EXTINF:-1 tvg-logo="", PLAYID Diema Sport Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Diema Sport Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=465
 
-#EXTINF:-1 tvg-logo="", PLAYID Diema Sport 2 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Diema Sport 2 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=466
 
-#EXTINF:-1 tvg-logo="", PLAYID Diema Sport 3 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Diema Sport 3 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=467
 
-#EXTINF:-1 tvg-logo="", PLAYID Diema Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Diema Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=482
 
-#EXTINF:-1 tvg-logo="", PLAYID Diema Family Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Diema Family Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=485
 
-#EXTINF:-1 tvg-logo="", PLAYID Dubai Sports 1 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Dubai Sports 1 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=604
 
-#EXTINF:-1 tvg-logo="", PLAYID Dubai Sports 2 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Dubai Sports 2 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=605
 
-#EXTINF:-1 tvg-logo="", PLAYID Dubai Sports 3 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Dubai Sports 3 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=606
 
-#EXTINF:-1 tvg-logo="", PLAYID Dubai Racing 1 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Dubai Racing 1 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=607
 
-#EXTINF:-1 tvg-logo="", PLAYID Dubai Racing 2 UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Dubai Racing 2 UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=608
 
-#EXTINF:-1 tvg-logo="", PLAYID DSTV Mzansi Magic
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DSTV Mzansi Magic
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=786
 
-#EXTINF:-1 tvg-logo="", PLAYID DSTV M-Net
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DSTV M-Net
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=827
 
-#EXTINF:-1 tvg-logo="", PLAYID DSTV kykNET & kie
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DSTV kykNET & kie
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=828
 
-#EXTINF:-1 tvg-logo="", PLAYID Discovery Life Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Discovery Life Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=311
 
-#EXTINF:-1 tvg-logo="", PLAYID Disney Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Disney Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=312
 
-#EXTINF:-1 tvg-logo="", PLAYID Discovery Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Discovery Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=313
 
-#EXTINF:-1 tvg-logo="", PLAYID Discovery Family
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Discovery Family
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=657
 
-#EXTINF:-1 tvg-logo="", PLAYID Disney XD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Disney XD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=314
 
-#EXTINF:-1 tvg-logo="", PLAYID Destination America
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Destination America
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=651
 
-#EXTINF:-1 tvg-logo="", PLAYID Disney JR
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Disney JR
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=652
 
-#EXTINF:-1 tvg-logo="", PLAYID Dave
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Dave
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=348
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=44
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN2 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN2 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=45
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPNU USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPNU USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=316
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN 1 NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN 1 NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=379
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN 2 NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN 2 NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=386
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 1 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 1 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=71
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 2 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 2 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=72
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 3 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 3 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=428
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 1 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 1 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=455
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 2 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 2 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=456
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 3 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 3 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=457
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 4 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 4 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=458
 
-#EXTINF:-1 tvg-logo="", PLAYID Eleven Sports 5 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eleven Sports 5 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=459
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 1 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 1 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=41
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 2 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 2 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=42
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 1 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 1 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=57
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 2 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 2 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=58
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 1 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 1 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=524
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 2 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 2 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=525
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 1 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 1 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=878
 
-#EXTINF:-1 tvg-logo="", PLAYID EuroSport 2 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID EuroSport 2 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=879
 
-#EXTINF:-1 tvg-logo="", PLAYID Eurosport 1 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eurosport 1 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=469
 
-#EXTINF:-1 tvg-logo="", PLAYID Eurosport 2 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eurosport 2 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=470
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN Premium Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN Premium Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=387
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=81
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN2 Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN2 Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=82
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN3 Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN3 Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=83
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN4 Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN4 Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=85
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN SUR
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN SUR
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=149
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN2 SUR
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN2 SUR
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=150
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN Deportes
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN Deportes
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=375
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPNews
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPNews
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=288
 
-#EXTINF:-1 tvg-logo="", PLAYID E! Entertainment Television
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID E! Entertainment Television
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=315
 
-#EXTINF:-1 tvg-logo="", PLAYID E4 Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID E4 Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=363
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Sports 1 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Sports 1 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=39
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Sports 2 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Sports 2 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=758
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Soccer Plus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Soccer Plus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=756
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Cricket
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Cricket
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=369
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Deportes USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Deportes USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=643
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Sports 502 AU
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Sports 502 AU
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=820
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Sports 503 AU
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Sports 503 AU
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=821
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Sports 504 AU
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Sports 504 AU
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=822
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Sports 505 AU
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Sports 505 AU
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=823
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Sports 506 AU
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Sports 506 AU
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=824
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX Sports 507 AU
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX Sports 507 AU
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=825
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Sports Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Sports Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=767
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Sports 2 Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Sports 2 Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=788
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Sports 3 Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Sports 3 Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=789
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Sports Premium MX
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Sports Premium MX
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=830
 
-#EXTINF:-1 tvg-logo="", PLAYID FilmBox Premium Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FilmBox Premium Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=568
 
-#EXTINF:-1 tvg-logo="", PLAYID Fight Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fight Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=757
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Business
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Business
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=297
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX HD Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX HD Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=483
 
-#EXTINF:-1 tvg-logo="", PLAYID FOX USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOX USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=54
 
-#EXTINF:-1 tvg-logo="", PLAYID FX USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FX USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=317
 
-#EXTINF:-1 tvg-logo="", PLAYID FXX USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FXX USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=298
 
-#EXTINF:-1 tvg-logo="", PLAYID Freeform
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Freeform
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=301
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox News
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox News
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=347
 
-#EXTINF:-1 tvg-logo="", PLAYID FX Movie Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FX Movie Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=381
 
-#EXTINF:-1 tvg-logo="", PLAYID FYI
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FYI
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=665
 
-#EXTINF:-1 tvg-logo="", PLAYID Film4 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Film4 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=688
 
-#EXTINF:-1 tvg-logo="", PLAYID Fashion TV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fashion TV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=744
 
-#EXTINF:-1 tvg-logo="", PLAYID FETV - Family Entertainment Television
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FETV - Family Entertainment Television
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=751
 
-#EXTINF:-1 tvg-logo="", PLAYID FOXNY USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FOXNY USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=768
 
-#EXTINF:-1 tvg-logo="", PLAYID Fox Weather Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Fox Weather Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=775
 
-#EXTINF:-1 tvg-logo="", PLAYID GOL PLAY Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID GOL PLAY Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=530
 
-#EXTINF:-1 tvg-logo="", PLAYID GOLF Channel USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID GOLF Channel USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=318
 
-#EXTINF:-1 tvg-logo="", PLAYID Game Show Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Game Show Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=319
 
-#EXTINF:-1 tvg-logo="", PLAYID Gol Mundial 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Gol Mundial 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=292
 
-#EXTINF:-1 tvg-logo="", PLAYID Gold UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Gold UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=687
 
-#EXTINF:-1 tvg-logo="", PLAYID Galavisi?n USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Galavisi?n USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=743
 
-#EXTINF:-1 tvg-logo="", PLAYID CBC CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CBC CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=699
 
-#EXTINF:-1 tvg-logo="", PLAYID Grit Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Grit Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=752
 
-#EXTINF:-1 tvg-logo="", PLAYID Globo SP
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Globo SP
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=760
 
-#EXTINF:-1 tvg-logo="", PLAYID Globo RIO
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Globo RIO
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=761
 
-#EXTINF:-1 tvg-logo="", PLAYID Global CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Global CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=836
 
-#EXTINF:-1 tvg-logo="", PLAYID The Hallmark Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID The Hallmark Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=320
 
-#EXTINF:-1 tvg-logo="", PLAYID Hallmark Movies & Mysterie
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Hallmark Movies & Mysterie
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=296
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=321
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO2 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO2 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=689
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO Comedy USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO Comedy USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=690
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO Family USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO Family USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=691
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO Latino USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO Latino USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=692
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO Signature USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO Signature USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=693
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO Zone USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO Zone USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=694
 
-#EXTINF:-1 tvg-logo="", PLAYID HBO Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HBO Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=569
 
-#EXTINF:-1 tvg-logo="", PLAYID History USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID History USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=322
 
-#EXTINF:-1 tvg-logo="", PLAYID Headline News
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Headline News
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=323
 
-#EXTINF:-1 tvg-logo="", PLAYID HGTV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HGTV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=382
 
-#EXTINF:-1 tvg-logo="", PLAYID HOT3 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HOT3 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=553
 
-#EXTINF:-1 tvg-logo="", PLAYID HR Fernsehen DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID HR Fernsehen DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=740
 
-#EXTINF:-1 tvg-logo="", PLAYID ITV 1 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ITV 1 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=350
 
-#EXTINF:-1 tvg-logo="", PLAYID ITV 2 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ITV 2 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=351
 
-#EXTINF:-1 tvg-logo="", PLAYID ITV 3 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ITV 3 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=352
 
-#EXTINF:-1 tvg-logo="", PLAYID ITV 4 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ITV 4 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=353
 
-#EXTINF:-1 tvg-logo="", PLAYID Italia 1 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Italia 1 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=854
 
-#EXTINF:-1 tvg-logo="", PLAYID Investigation Discovery (ID USA)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Investigation Discovery (ID USA)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=324
 
-#EXTINF:-1 tvg-logo="", PLAYID ION USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ION USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=325
 
-#EXTINF:-1 tvg-logo="", PLAYID IFC TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID IFC TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=656
 
-#EXTINF:-1 tvg-logo="", PLAYID Kanal 4 Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Kanal 4 Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=803
 
-#EXTINF:-1 tvg-logo="", PLAYID Kanal 5 Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Kanal 5 Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=804
 
-#EXTINF:-1 tvg-logo="", PLAYID Kabel Eins (Kabel 1) DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Kabel Eins (Kabel 1) DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=731
 
-#EXTINF:-1 tvg-logo="", PLAYID LaLiga SmartBank TV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID LaLiga SmartBank TV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=539
 
-#EXTINF:-1 tvg-logo="", PLAYID LEquipe France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID LEquipe France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=645
 
-#EXTINF:-1 tvg-logo="", PLAYID La Sexta Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID La Sexta Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=534
 
-#EXTINF:-1 tvg-logo="", PLAYID Liverpool TV (LFC TV)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Liverpool TV (LFC TV)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=826
 
-#EXTINF:-1 tvg-logo="", PLAYID Lifetime Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Lifetime Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=326
 
-#EXTINF:-1 tvg-logo="", PLAYID Lifetime Movies Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Lifetime Movies Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=389
 
-#EXTINF:-1 tvg-logo="", PLAYID Longhorn Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Longhorn Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=667
 
-#EXTINF:-1 tvg-logo="", PLAYID La7 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID La7 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=855
 
-#EXTINF:-1 tvg-logo="", PLAYID LA7d HD+ Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID LA7d HD+ Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=856
 
-#EXTINF:-1 tvg-logo="", PLAYID Match Football 1 Russia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Match Football 1 Russia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=136
 
-#EXTINF:-1 tvg-logo="", PLAYID Match Football 2 Russia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Match Football 2 Russia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=137
 
-#EXTINF:-1 tvg-logo="", PLAYID Match Football 3 Russia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Match Football 3 Russia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=138
 
-#EXTINF:-1 tvg-logo="", PLAYID Match Premier Russia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Match Premier Russia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=573
 
-#EXTINF:-1 tvg-logo="", PLAYID Match TV Russia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Match TV Russia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=127
 
-#EXTINF:-1 tvg-logo="", PLAYID ????! ???? Russia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ????! ???? Russia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=395
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Laliga
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Laliga
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=84
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Liga de Campeones
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Liga de Campeones
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=435
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Deportes Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Deportes Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=436
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Deportes 2 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Deportes 2 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=438
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Deportes 3 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Deportes 3 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=526
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Deportes 4 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Deportes 4 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=527
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Golf Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Golf Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=528
 
-#EXTINF:-1 tvg-logo="", PLAYID Motowizja Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Motowizja Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=563
 
-#EXTINF:-1 tvg-logo="", PLAYID MSG USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MSG USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=765
 
-#EXTINF:-1 tvg-logo="", PLAYID MSNBC
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MSNBC
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=327
 
-#EXTINF:-1 tvg-logo="", PLAYID Magnolia Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Magnolia Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=299
 
-#EXTINF:-1 tvg-logo="", PLAYID MTV UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MTV UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=367
 
-#EXTINF:-1 tvg-logo="", PLAYID MTV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MTV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=371
 
-#EXTINF:-1 tvg-logo="", PLAYID MUTV UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MUTV UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=377
 
-#EXTINF:-1 tvg-logo="", PLAYID MAVTV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MAVTV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=646
 
-#EXTINF:-1 tvg-logo="", PLAYID Max Sport 1 Croatia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Max Sport 1 Croatia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=779
 
-#EXTINF:-1 tvg-logo="", PLAYID Max Sport 2 Croatia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Max Sport 2 Croatia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=780
 
-#EXTINF:-1 tvg-logo="", PLAYID Marquee Sports Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Marquee Sports Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=770
 
-#EXTINF:-1 tvg-logo="", PLAYID Max Sport 1 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Max Sport 1 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=472
 
-#EXTINF:-1 tvg-logo="", PLAYID Max Sport 2 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Max Sport 2 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=473
 
-#EXTINF:-1 tvg-logo="", PLAYID Max Sport 3 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Max Sport 3 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=474
 
-#EXTINF:-1 tvg-logo="", PLAYID Max Sport 4 Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Max Sport 4 Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=475
 
-#EXTINF:-1 tvg-logo="", PLAYID MLB Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MLB Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=399
 
-#EXTINF:-1 tvg-logo="", PLAYID MASN USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MASN USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=829
 
-#EXTINF:-1 tvg-logo="", PLAYID MY9TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MY9TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=654
 
-#EXTINF:-1 tvg-logo="", PLAYID Motor Trend
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Motor Trend
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=661
 
-#EXTINF:-1 tvg-logo="", PLAYID METV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID METV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=662
 
-#EXTINF:-1 tvg-logo="", PLAYID MDR DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MDR DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=733
 
-#EXTINF:-1 tvg-logo="", PLAYID Mundotoro TV Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Mundotoro TV Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=749
 
-#EXTINF:-1 tvg-logo="", PLAYID MTV Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MTV Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=806
 
-#EXTINF:-1 tvg-logo="", PLAYID NHL Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NHL Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=663
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sport Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sport Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=468
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sport Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sport Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=582
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports 1 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports 1 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=631
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports 2 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports 2 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=632
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports 3 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports 3 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=633
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports 4 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports 4 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=634
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports 5 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports 5 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=635
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports 6 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports 6 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=636
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports Premier League Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports Premier League Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=599
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports Start Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports Start Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=637
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports Prime Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports Prime Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=638
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova Sports News Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova Sports News Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=639
 
-#EXTINF:-1 tvg-logo="", PLAYID NESN USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NESN USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=762
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=53
 
-#EXTINF:-1 tvg-logo="", PLAYID NBA TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBA TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=404
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC Sports Chicago
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC Sports Chicago
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=776
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC Sports Philadelphia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC Sports Philadelphia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=777
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC Sports Washington
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC Sports Washington
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=778
 
-#EXTINF:-1 tvg-logo="", PLAYID NFL Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NFL Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=405
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC Sports Bay Area
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC Sports Bay Area
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=753
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC Sports Boston
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC Sports Boston
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=754
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC Sports California
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC Sports California
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=755
 
-#EXTINF:-1 tvg-logo="", PLAYID NBCNY USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBCNY USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=769
 
-#EXTINF:-1 tvg-logo="", PLAYID Nova TV Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nova TV Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=480
 
-#EXTINF:-1 tvg-logo="", PLAYID National Geographic (NGC)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID National Geographic (NGC)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=328
 
-#EXTINF:-1 tvg-logo="", PLAYID NICK JR
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NICK JR
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=329
 
-#EXTINF:-1 tvg-logo="", PLAYID NICK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NICK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=330
 
-#EXTINF:-1 tvg-logo="", PLAYID Nick Music
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nick Music
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=666
 
-#EXTINF:-1 tvg-logo="", PLAYID Nicktoons
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nicktoons
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=649
 
-#EXTINF:-1 tvg-logo="", PLAYID NDR DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NDR DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=736
 
-#EXTINF:-1 tvg-logo="", PLAYID NewsNation USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NewsNation USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=292
 
-#EXTINF:-1 tvg-logo="", PLAYID Newsmax USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Newsmax USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=613
 
-#EXTINF:-1 tvg-logo="", PLAYID Nat Geo Wild USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Nat Geo Wild USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=745
 
-#EXTINF:-1 tvg-logo="", PLAYID Noovo CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Noovo CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=835
 
-#EXTINF:-1 tvg-logo="", PLAYID New! CWPIX 11
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID New! CWPIX 11
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=771
 
-#EXTINF:-1 tvg-logo="", PLAYID OnTime Sports
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID OnTime Sports
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=611
 
-#EXTINF:-1 tvg-logo="", PLAYID OnTime Sports 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID OnTime Sports 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=612
 
-#EXTINF:-1 tvg-logo="", PLAYID ONE 1 HD Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ONE 1 HD Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=541
 
-#EXTINF:-1 tvg-logo="", PLAYID ONE 2 HD Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ONE 2 HD Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=542
 
-#EXTINF:-1 tvg-logo="", PLAYID Orange Sport 1 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Orange Sport 1 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=439
 
-#EXTINF:-1 tvg-logo="", PLAYID Orange Sport 2 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Orange Sport 2 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=440
 
-#EXTINF:-1 tvg-logo="", PLAYID Orange Sport 3 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Orange Sport 3 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=441
 
-#EXTINF:-1 tvg-logo="", PLAYID Orange Sport 4 Romania
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Orange Sport 4 Romania
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=442
 
-#EXTINF:-1 tvg-logo="", PLAYID Oprah Winfrey Network (OWN)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Oprah Winfrey Network (OWN)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=331
 
-#EXTINF:-1 tvg-logo="", PLAYID Oxygen True Crime
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Oxygen True Crime
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=332
 
-#EXTINF:-1 tvg-logo="", PLAYID Polsat Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Polsat Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=562
 
-#EXTINF:-1 tvg-logo="", PLAYID Polsat Sport Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Polsat Sport Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=47
 
-#EXTINF:-1 tvg-logo="", PLAYID Polsat Sport Extra Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Polsat Sport Extra Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=50
 
-#EXTINF:-1 tvg-logo="", PLAYID Polsat Sport News Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Polsat Sport News Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=129
 
-#EXTINF:-1 tvg-logo="", PLAYID Polsat News Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Polsat News Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=443
 
-#EXTINF:-1 tvg-logo="", PLAYID Polsat Film Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Polsat Film Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=564
 
-#EXTINF:-1 tvg-logo="", PLAYID Porto Canal Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Porto Canal Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=718
 
-#EXTINF:-1 tvg-logo="", PLAYID ProSieben (PRO7) DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ProSieben (PRO7) DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=730
 
-#EXTINF:-1 tvg-logo="", PLAYID PTV Sports
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID PTV Sports
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=450
 
-#EXTINF:-1 tvg-logo="", PLAYID Premier Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Premier Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=88
 
-#EXTINF:-1 tvg-logo="", PLAYID Prima Sport 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Prima Sport 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=583
 
-#EXTINF:-1 tvg-logo="", PLAYID Prima Sport 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Prima Sport 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=584
 
-#EXTINF:-1 tvg-logo="", PLAYID Prima Sport 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Prima Sport 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=585
 
-#EXTINF:-1 tvg-logo="", PLAYID Prima Sport 4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Prima Sport 4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=586
 
-#EXTINF:-1 tvg-logo="", PLAYID Paramount Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Paramount Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=334
 
-#EXTINF:-1 tvg-logo="", PLAYID POP TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID POP TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=653
 
-#EXTINF:-1 tvg-logo="", PLAYID RTE 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTE 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=364
 
-#EXTINF:-1 tvg-logo="", PLAYID RTE 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTE 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=365
 
-#EXTINF:-1 tvg-logo="", PLAYID RMC Sport 1 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RMC Sport 1 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=119
 
-#EXTINF:-1 tvg-logo="", PLAYID RMC Sport 2 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RMC Sport 2 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=120
 
-#EXTINF:-1 tvg-logo="", PLAYID RTP 1 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTP 1 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=719
 
-#EXTINF:-1 tvg-logo="", PLAYID RTP 2 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTP 2 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=720
 
-#EXTINF:-1 tvg-logo="", PLAYID RTP 3 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTP 3 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=721
 
-#EXTINF:-1 tvg-logo="", PLAYID Rai 1 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rai 1 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=850
 
-#EXTINF:-1 tvg-logo="", PLAYID Rai 2 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rai 2 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=851
 
-#EXTINF:-1 tvg-logo="", PLAYID Rai 3 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rai 3 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=852
 
-#EXTINF:-1 tvg-logo="", PLAYID Rai 3 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rai 3 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=853
 
-#EXTINF:-1 tvg-logo="", PLAYID Rai Sport Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rai Sport Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=882
 
-#EXTINF:-1 tvg-logo="", PLAYID Rai Premium Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rai Premium Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=858
 
-#EXTINF:-1 tvg-logo="", PLAYID Real Madrid TV Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Real Madrid TV Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=523
 
-#EXTINF:-1 tvg-logo="", PLAYID RDS CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RDS CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=839
 
-#EXTINF:-1 tvg-logo="", PLAYID RDS 2 CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RDS 2 CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=840
 
-#EXTINF:-1 tvg-logo="", PLAYID RDS Info CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RDS Info CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=841
 
-#EXTINF:-1 tvg-logo="", PLAYID Ring Bulgaria
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Ring Bulgaria
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=471
 
-#EXTINF:-1 tvg-logo="", PLAYID RTL7 Netherland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTL7 Netherland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=390
 
-#EXTINF:-1 tvg-logo="", PLAYID Racing Tv UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Racing Tv UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=555
 
-#EXTINF:-1 tvg-logo="", PLAYID Reelz Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Reelz Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=293
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Football UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Football UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=35
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Arena UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Arena UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=36
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Action UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Action UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=37
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Main Event
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Main Event
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=38
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky sports Premier League
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky sports Premier League
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=130
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports F1 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports F1 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=60
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Cricket
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Cricket
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=65
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Golf UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Golf UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=70
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Golf Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Golf Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=574
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport MotoGP Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport MotoGP Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=575
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Tennis Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Tennis Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=576
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport F1 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport F1 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=577
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports News UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports News UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=366
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports MIX UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports MIX UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=449
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Top Event DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Top Event DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=556
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Mix DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Mix DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=557
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Bundesliga 1 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Bundesliga 1 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=558
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Austria 1 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Austria 1 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=559
 
-#EXTINF:-1 tvg-logo="", PLAYID SportsNet New York (SNY)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SportsNet New York (SNY)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=759
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Football Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Football Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=460
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport UNO Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport UNO Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=461
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Arena Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Arena Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=462
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Racing UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Racing UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=554
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky UNO Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky UNO Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=881
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 1 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 1 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=588
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 2 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 2 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=589
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 3 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 3 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=590
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 4 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 4 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=591
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 5 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 5 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=592
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 6 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 6 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=593
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 7 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 7 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=594
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 8 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 8 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=595
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 9 NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 9 NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=596
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Select NZ
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Select NZ
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=587
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport TV1 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport TV1 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=49
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport TV2 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport TV2 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=74
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport TV4 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport TV4 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=289
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport TV3 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport TV3 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=454
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport TV5 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport TV5 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=290
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport TV6 Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport TV6 Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=291
 
-#EXTINF:-1 tvg-logo="", PLAYID SIC Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SIC Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=722
 
-#EXTINF:-1 tvg-logo="", PLAYID SEC Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SEC Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=385
 
-#EXTINF:-1 tvg-logo="", PLAYID SporTV Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SporTV Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=78
 
-#EXTINF:-1 tvg-logo="", PLAYID SporTV2 Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SporTV2 Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=79
 
-#EXTINF:-1 tvg-logo="", PLAYID SporTV3 Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SporTV3 Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=80
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport Klub 1 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport Klub 1 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=101
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport Klub 2 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport Klub 2 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=102
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport Klub 3 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport Klub 3 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=103
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport Klub 4 Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport Klub 4 Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=104
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport Klub HD Serbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport Klub HD Serbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=453
 
-#EXTINF:-1 tvg-logo="", PLAYID Sportsnet Ontario
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sportsnet Ontario
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=406
 
-#EXTINF:-1 tvg-logo="", PLAYID Sportsnet One
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sportsnet One
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=411
 
-#EXTINF:-1 tvg-logo="", PLAYID Sportsnet West
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sportsnet West
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=407
 
-#EXTINF:-1 tvg-logo="", PLAYID Sportsnet East
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sportsnet East
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=408
 
-#EXTINF:-1 tvg-logo="", PLAYID Sportsnet 360
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sportsnet 360
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=409
 
-#EXTINF:-1 tvg-logo="", PLAYID Sportsnet World
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sportsnet World
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=410
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Grandstand
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Grandstand
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=412
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport PSL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport PSL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=413
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Premier league
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Premier league
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=414
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport LaLiga
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport LaLiga
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=415
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Variety 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Variety 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=416
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Variety 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Variety 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=417
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Variety 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Variety 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=418
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Variety 4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Variety 4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=419
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Action
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Action
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=420
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Rugby
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Rugby
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=421
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Golf
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Golf
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=422
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Tennis
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Tennis
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=423
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Motorsport
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Motorsport
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=424
 
-#EXTINF:-1 tvg-logo="", PLAYID Supersport Football
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Supersport Football
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=56
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport Cricket
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport Cricket
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=368
 
-#EXTINF:-1 tvg-logo="", PLAYID SuperSport MaXimo 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SuperSport MaXimo 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=572
 
-#EXTINF:-1 tvg-logo="", PLAYID Sporting TV Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sporting TV Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=716
 
-#EXTINF:-1 tvg-logo="", PLAYID SportDigital Fussball
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SportDigital Fussball
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=571
 
-#EXTINF:-1 tvg-logo="", PLAYID Spectrum Sportsnet LA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Spectrum Sportsnet LA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=764
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport1+ Germany
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport1+ Germany
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=640
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport1 Germany
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport1 Germany
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=641
 
-#EXTINF:-1 tvg-logo="", PLAYID S4C UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID S4C UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=670
 
-#EXTINF:-1 tvg-logo="", PLAYID SAT.1 DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SAT.1 DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=729
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Premiere UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Premiere UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=671
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Select UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Select UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=672
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Hits UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Hits UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=673
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Greats UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Greats UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=674
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Animation UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Animation UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=675
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Family UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Family UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=676
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Action UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Action UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=677
 
-#EXTINF:-1 tvg-logo="", PLAYID The Hallmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID The Hallmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=678
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Thriller UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Thriller UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=679
 
-#EXTINF:-1 tvg-logo="", PLAYID The Hallmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID The Hallmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=680
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Sci-Fi Horror UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Sci-Fi Horror UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=681
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Collection Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Collection Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=859
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Uno Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Uno Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=860
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Action Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Action Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=861
 
-#EXTINF:-1 tvg-logo="", PLAYID 8Sky Cinema Comedy Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID 8Sky Cinema Comedy Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=862
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Uno +24 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Uno +24 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=863
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Romance Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Romance Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=864
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Family Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Family Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=865
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Due +24 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Due +24 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=866
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Drama Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Drama Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=867
 
-#EXTINF:-1 tvg-logo="", PLAYID 8Sky Cinema Suspense Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID 8Sky Cinema Suspense Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=868
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport 24 Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport 24 Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=869
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sport Calcio Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sport Calcio Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=870
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 1 (251) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 1 (251) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=871
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 2 (252) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 2 (252) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=872
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 3 (253) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 3 (253) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=873
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 4 (254) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 4 (254) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=874
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 5 (255) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 5 (255) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=875
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 6 (256) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 6 (256) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=876
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Calcio 7 (257) Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Calcio 7 (257) Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=877
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Serie Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Serie Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=880
 
-#EXTINF:-1 tvg-logo="", PLAYID StarzPlay CricLife 1 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID StarzPlay CricLife 1 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=284
 
-#EXTINF:-1 tvg-logo="", PLAYID StarzPlay CricLife 2 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID StarzPlay CricLife 2 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=283
 
-#EXTINF:-1 tvg-logo="", PLAYID StarzPlay CricLife 3 HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID StarzPlay CricLife 3 HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=282
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Showcase UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Showcase UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=682
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Arts UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Arts UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=683
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Comedy UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Comedy UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=684
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Crime
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Crime
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=685
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky History
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky History
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=686
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=614
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=615
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=616
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport 4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport 4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=617
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport 5
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport 5
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=618
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport Extra 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport Extra 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=619
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport Extra 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport Extra 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=620
 
-#EXTINF:-1 tvg-logo="", PLAYID SSC Sport Extra 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SSC Sport Extra 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=621
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 1 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 1 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=140
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 2 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 2 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=141
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 3 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 3 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=142
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 4 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 4 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=143
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 5 Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 5 Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=144
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 5 PLUS Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 5 PLUS Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=145
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 5 Live Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 5 Live Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=146
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 5 Star Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 5 Star Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=147
 
-#EXTINF:-1 tvg-logo="", PLAYID Sport 5 Gold Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sport 5 Gold Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=148
 
-#EXTINF:-1 tvg-logo="", PLAYID Science Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Science Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=294
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=333
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime SHOxBET USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime SHOxBET USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=685
 
-#EXTINF:-1 tvg-logo="", PLAYID Starz
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Starz
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=335
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Witness HD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Witness HD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=361
 
-#EXTINF:-1 tvg-logo="", PLAYID Sixx DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sixx DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=732
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Atlantic
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Atlantic
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=362
 
-#EXTINF:-1 tvg-logo="", PLAYID SYFY USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SYFY USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=373
 
-#EXTINF:-1 tvg-logo="", PLAYID Sundance TV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sundance TV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=658
 
-#EXTINF:-1 tvg-logo="", PLAYID SWR DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SWR DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=735
 
-#EXTINF:-1 tvg-logo="", PLAYID SUPER RTL DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SUPER RTL DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=738
 
-#EXTINF:-1 tvg-logo="", PLAYID SR Fernsehen DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SR Fernsehen DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=739
 
-#EXTINF:-1 tvg-logo="", PLAYID Smithsonian Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Smithsonian Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=601
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Sports 1 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Sports 1 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=31
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Sports 2 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Sports 2 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=32
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Sports 3 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Sports 3 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=33
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Sports 4 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Sports 4 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=34
 
-#EXTINF:-1 tvg-logo="", PLAYID TSN1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TSN1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=111
 
-#EXTINF:-1 tvg-logo="", PLAYID TSN2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TSN2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=112
 
-#EXTINF:-1 tvg-logo="", PLAYID TSN3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TSN3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=113
 
-#EXTINF:-1 tvg-logo="", PLAYID TSN4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TSN4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=114
 
-#EXTINF:-1 tvg-logo="", PLAYID TSN5
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TSN5
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=115
 
-#EXTINF:-1 tvg-logo="", PLAYID TVN HD Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVN HD Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=565
 
-#EXTINF:-1 tvg-logo="", PLAYID TVN24 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVN24 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=444
 
-#EXTINF:-1 tvg-logo="", PLAYID TVP1 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVP1 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=560
 
-#EXTINF:-1 tvg-logo="", PLAYID TVP2 Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVP2 Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=561
 
-#EXTINF:-1 tvg-logo="", PLAYID Telecinco Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Telecinco Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=532
 
-#EXTINF:-1 tvg-logo="", PLAYID TVE La 1 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVE La 1 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=533
 
-#EXTINF:-1 tvg-logo="", PLAYID TVE La 2 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVE La 2 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=536
 
-#EXTINF:-1 tvg-logo="", PLAYID TVI Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVI Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=723
 
-#EXTINF:-1 tvg-logo="", PLAYID TVI Reality Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVI Reality Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=724
 
-#EXTINF:-1 tvg-logo="", PLAYID Teledeporte Spain (TDP)
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Teledeporte Spain (TDP)
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=529
 
-#EXTINF:-1 tvg-logo="", PLAYID TYC Sports Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TYC Sports Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=746
 
-#EXTINF:-1 tvg-logo="", PLAYID TVP Sport Poland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVP Sport Poland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=128
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=87
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Sports Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Sports Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=388
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT Sports HD Chile
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT Sports HD Chile
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=642
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=40
 
-#EXTINF:-1 tvg-logo="", PLAYID Ten Sports PK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Ten Sports PK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=741
 
-#EXTINF:-1 tvg-logo="", PLAYID TUDN USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TUDN USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=66
 
-#EXTINF:-1 tvg-logo="", PLAYID Telemundo
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Telemundo
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=131
 
-#EXTINF:-1 tvg-logo="", PLAYID TBS USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TBS USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=336
 
-#EXTINF:-1 tvg-logo="", PLAYID TLC
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TLC
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=337
 
-#EXTINF:-1 tvg-logo="", PLAYID TNT USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TNT USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=338
 
-#EXTINF:-1 tvg-logo="", PLAYID TVA Sports
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVA Sports
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=833
 
-#EXTINF:-1 tvg-logo="", PLAYID TVA Sports 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVA Sports 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=834
 
-#EXTINF:-1 tvg-logo="", PLAYID Travel Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Travel Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=340
 
-#EXTINF:-1 tvg-logo="", PLAYID TruTV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TruTV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=341
 
-#EXTINF:-1 tvg-logo="", PLAYID TVLAND
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVLAND
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=342
 
-#EXTINF:-1 tvg-logo="", PLAYID TCM USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TCM USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=644
 
-#EXTINF:-1 tvg-logo="", PLAYID TMC Channel USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TMC Channel USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=698
 
-#EXTINF:-1 tvg-logo="", PLAYID The Food Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID The Food Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=384
 
-#EXTINF:-1 tvg-logo="", PLAYID The Weather Channel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID The Weather Channel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=394
 
-#EXTINF:-1 tvg-logo="", PLAYID TVP INFO
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVP INFO
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=452
 
-#EXTINF:-1 tvg-logo="", PLAYID TeenNick
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TeenNick
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=650
 
-#EXTINF:-1 tvg-logo="", PLAYID TV ONE USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV ONE USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=660
 
-#EXTINF:-1 tvg-logo="", PLAYID TV2 Bornholm Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV2 Bornholm Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=807
 
-#EXTINF:-1 tvg-logo="", PLAYID TV2 Sport X Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV2 Sport X Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=808
 
-#EXTINF:-1 tvg-logo="", PLAYID TV3 Sport Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV3 Sport Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=809
 
-#EXTINF:-1 tvg-logo="", PLAYID TV2 Sport Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV2 Sport Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=810
 
-#EXTINF:-1 tvg-logo="", PLAYID TV2 Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV2 Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=817
 
-#EXTINF:-1 tvg-logo="", PLAYID TV2 Zulu
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV2 Zulu
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=818
 
-#EXTINF:-1 tvg-logo="", PLAYID TV3+ Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV3+ Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=819
 
-#EXTINF:-1 tvg-logo="", PLAYID TVO CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TVO CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=842
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=700
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=701
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 3
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 3
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=702
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 4
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 4
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=703
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 5
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 5
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=704
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 6
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 6
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=705
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 7
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 7
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=706
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 8
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 8
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=707
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 9
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 9
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=708
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 10
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 10
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=709
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 11
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 11
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=710
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 12
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 12
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=711
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 13
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 13
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=712
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 14
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 14
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=713
 
-#EXTINF:-1 tvg-logo="", PLAYID Tennis+ 15
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Tennis+ 15
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=714
 
-#EXTINF:-1 tvg-logo="", PLAYID USA Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID USA Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=343
 
-#EXTINF:-1 tvg-logo="", PLAYID Universal Kids USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Universal Kids USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=668
 
-#EXTINF:-1 tvg-logo="", PLAYID Univision
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Univision
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=132
 
-#EXTINF:-1 tvg-logo="", PLAYID Unimas
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Unimas
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=133
 
-#EXTINF:-1 tvg-logo="", PLAYID Viaplay Sports 1 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Viaplay Sports 1 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=451
 
-#EXTINF:-1 tvg-logo="", PLAYID Viaplay Sports 2 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Viaplay Sports 2 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=550
 
-#EXTINF:-1 tvg-logo="", PLAYID Viaplay Xtra UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Viaplay Xtra UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=597
 
-#EXTINF:-1 tvg-logo="", PLAYID #Vamos Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID #Vamos Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=521
 
-#EXTINF:-1 tvg-logo="", PLAYID V Film Premiere
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID V Film Premiere
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=815
 
-#EXTINF:-1 tvg-logo="", PLAYID V Film Family
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID V Film Family
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=816
 
-#EXTINF:-1 tvg-logo="", PLAYID VH1 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID VH1 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=344
 
-#EXTINF:-1 tvg-logo="", PLAYID Veronica NL Netherland
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Veronica NL Netherland
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=378
 
-#EXTINF:-1 tvg-logo="", PLAYID VTV+ Uruguay
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID VTV+ Uruguay
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=391
 
-#EXTINF:-1 tvg-logo="", PLAYID VICE TV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID VICE TV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=659
 
-#EXTINF:-1 tvg-logo="", PLAYID Willow Cricket
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Willow Cricket
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=346
 
-#EXTINF:-1 tvg-logo="", PLAYID Willow XTRA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Willow XTRA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=598
 
-#EXTINF:-1 tvg-logo="", PLAYID WWE Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID WWE Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=376
 
-#EXTINF:-1 tvg-logo="", PLAYID Win Sports+ Columbia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Win Sports+ Columbia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=392
 
-#EXTINF:-1 tvg-logo="", PLAYID WETV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID WETV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=655
 
-#EXTINF:-1 tvg-logo="", PLAYID WDR DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID WDR DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=734
 
-#EXTINF:-1 tvg-logo="", PLAYID YES Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID YES Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=763
 
-#EXTINF:-1 tvg-logo="", PLAYID Yes Movies Action Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Yes Movies Action Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=543
 
-#EXTINF:-1 tvg-logo="", PLAYID Yes Movies Kids Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Yes Movies Kids Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=544
 
-#EXTINF:-1 tvg-logo="", PLAYID Yes Movies Comedy Israel
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Yes Movies Comedy Israel
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=545
 
-#EXTINF:-1 tvg-logo="", PLAYID Yas TV UAE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Yas TV UAE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=609
 
-#EXTINF:-1 tvg-logo="", PLAYID Yes TV CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Yes TV CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=837
 
-#EXTINF:-1 tvg-logo="", PLAYID Ziggo Sport Docu NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Ziggo Sport Docu NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=383
 
-#EXTINF:-1 tvg-logo="", PLAYID Ziggo Sport Select NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Ziggo Sport Select NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=393
 
-#EXTINF:-1 tvg-logo="", PLAYID Ziggo Sport Racing NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Ziggo Sport Racing NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=396
 
-#EXTINF:-1 tvg-logo="", PLAYID Ziggo Sport Voetbal NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Ziggo Sport Voetbal NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=398
 
-#EXTINF:-1 tvg-logo="", PLAYID BBC 1 DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID BBC 1 DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=727
 
-#EXTINF:-1 tvg-logo="", PLAYID ZDF Info DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ZDF Info DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=728
 
-#EXTINF:-1 tvg-logo="", PLAYID 20 Mediaset Italy
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID 20 Mediaset Italy
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=857
 
-#EXTINF:-1 tvg-logo="", PLAYID 6eren Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID 6eren Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=800
 
-#EXTINF:-1 tvg-logo="", PLAYID #0 Spain
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID #0 Spain
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=437
 
-#EXTINF:-1 tvg-logo="", PLAYID 5 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID 5 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=360
 
-#EXTINF:-1 tvg-logo="", PLAYID 3sat DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID 3sat DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=726
 
-#EXTINF:-1 tvg-logo="", PLAYID Altitude Sports
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Altitude Sports
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=923
 
-#EXTINF:-1 tvg-logo="", PLAYID Azteca 7 MX
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Azteca 7 MX
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=844
 
-#EXTINF:-1 tvg-logo="", PLAYID A Sport PK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID A Sport PK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=269
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 8
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 8
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=98
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN Sports MENA 9
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN Sports MENA 9
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=99
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS XTRA 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS XTRA 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=100
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS XTRA 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS XTRA 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=43
 
-#EXTINF:-1 tvg-logo="", PLAYID beIN SPORTS en Espa ol
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID beIN SPORTS en Espa ol
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=372
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Arizona
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Arizona
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=890
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Detroit
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Detroit
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=891
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Florida
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Florida
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=892
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Great Lakes
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Great Lakes
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=893
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Indiana
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Indiana
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=894
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Kansas City
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Kansas City
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=895
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Midwest
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Midwest
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=896
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports New Orleans
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports New Orleans
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=897
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports North
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports North
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=898
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Ohio
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Ohio
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=899
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Oklahoma
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Oklahoma
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=900
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports San Diego
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports San Diego
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=901
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports SoCal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports SoCal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=902
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports South
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports South
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=903
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Southeast
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Southeast
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=904
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Sun
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Sun
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=905
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports West
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports West
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=906
 
-#EXTINF:-1 tvg-logo="", PLAYID Bally Sports Wisconsin
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bally Sports Wisconsin
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=907
 
-#EXTINF:-1 tvg-logo="", PLAYID Bandsports Brasil
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Bandsports Brasil
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=275
 
-#EXTINF:-1 tvg-logo="", PLAYID CANAL+ MotoGP France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CANAL+ MotoGP France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=271
 
-#EXTINF:-1 tvg-logo="", PLAYID Canal+ Formula 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Canal+ Formula 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=273
 
-#EXTINF:-1 tvg-logo="", PLAYID CW PIX 11 USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CW PIX 11 USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=280
 
-#EXTINF:-1 tvg-logo="", PLAYID CBS Sports Golazo
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CBS Sports Golazo
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=910
 
-#EXTINF:-1 tvg-logo="", PLAYID CMTV Portugal
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID CMTV Portugal
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=790
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 1 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 1 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=911
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 2 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 2 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=912
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 3 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 3 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=913
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 4 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 4 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=914
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 5 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 5 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=915
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 6 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 6 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=916
 
-#EXTINF:-1 tvg-logo="", PLAYID Cytavision Sports 7 Cyprus
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Cytavision Sports 7 Cyprus
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=917
 
-#EXTINF:-1 tvg-logo="", PLAYID Court TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Court TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=281
 
-#EXTINF:-1 tvg-logo="", PLAYID DAZN 1 UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID DAZN 1 UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=230
 
-#EXTINF:-1 tvg-logo="", PLAYID Discovery Velocity CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Discovery Velocity CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=285
 
-#EXTINF:-1 tvg-logo="", PLAYID ERT 1 Greece
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ERT 1 Greece
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=774
 
-#EXTINF:-1 tvg-logo="", PLAYID Eurosport 1 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eurosport 1 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=772
 
-#EXTINF:-1 tvg-logo="", PLAYID Eurosport 2 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Eurosport 2 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=773
 
-#EXTINF:-1 tvg-logo="", PLAYID ESPN Extra Argentina
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID ESPN Extra Argentina
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=798
 
-#EXTINF:-1 tvg-logo="", PLAYID FUSE TV USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID FUSE TV USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=279
 
-#EXTINF:-1 tvg-logo="", PLAYID Galavisi n USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Galavisi n USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=743
 
-#EXTINF:-1 tvg-logo="", PLAYID LaLigaTV UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID LaLigaTV UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=276
 
-#EXTINF:-1 tvg-logo="", PLAYID LALIGA TV Hypermotion
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID LALIGA TV Hypermotion
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=539
 
-#EXTINF:-1 tvg-logo="", PLAYID Law & Crime Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Law & Crime Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=278
 
-#EXTINF:-1 tvg-logo="", PLAYID Monumental Sports Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Monumental Sports Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=924
 
-#EXTINF:-1 tvg-logo="", PLAYID M6 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID M6 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=470
 
-#EXTINF:-1 tvg-logo="", PLAYID MGM+ USA / Epix
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID MGM+ USA / Epix
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=791
 
-#EXTINF:-1 tvg-logo="", PLAYID Movistar Supercopa de Espa a
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Movistar Supercopa de Espa a
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=437
 
-#EXTINF:-1 tvg-logo="", PLAYID NBC10 Philadelphia
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID NBC10 Philadelphia
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=277
 
-#EXTINF:-1 tvg-logo="", PLAYID Premier Sports Ireland 1
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Premier Sports Ireland 1
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=771
 
-#EXTINF:-1 tvg-logo="", PLAYID Premier Sports Ireland 2
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Premier Sports Ireland 2
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=799
 
-#EXTINF:-1 tvg-logo="", PLAYID Prima TV RO
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Prima TV RO
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=843
 
-#EXTINF:-1 tvg-logo="", PLAYID Pac-12 Network USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Pac-12 Network USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=287
 
-#EXTINF:-1 tvg-logo="", PLAYID PBS USA USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID PBS USA USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=210
 
-#EXTINF:-1 tvg-logo="", PLAYID PDC TV
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID PDC TV
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=43
 
-#EXTINF:-1 tvg-logo="", PLAYID Rally Tv
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Rally Tv
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=607
 
-#EXTINF:-1 tvg-logo="", PLAYID RTL DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID RTL DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=740
 
-#EXTINF:-1 tvg-logo="", PLAYID Root Sports Northwest
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Root Sports Northwest
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=920
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports F1 DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports F1 DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=274
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Tennis UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Tennis UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=46
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Sports Tennis DE
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Sports Tennis DE
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=884
 
-#EXTINF:-1 tvg-logo="", PLAYID SBS6 NL
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SBS6 NL
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=883
 
-#EXTINF:-1 tvg-logo="", PLAYID SEE Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SEE Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=811
 
-#EXTINF:-1 tvg-logo="", PLAYID Star Sports 1 IN
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Star Sports 1 IN
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=267
 
-#EXTINF:-1 tvg-logo="", PLAYID Star Sports Hindi IN
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Star Sports Hindi IN
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=268
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Comedy UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Comedy UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=678
 
-#EXTINF:-1 tvg-logo="", PLAYID Sky Cinema Drama UK
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Sky Cinema Drama UK
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=680
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime 2 USA (SHO2) USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime 2 USA (SHO2) USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=792
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime Showcase USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime Showcase USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=793
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime Extreme USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime Extreme USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=794
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime Family Zone (SHO Family Zone) USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime Family Zone (SHO Family Zone) USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=795
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime Next (SHO Next) USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime Next (SHO Next) USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=796
 
-#EXTINF:-1 tvg-logo="", PLAYID Showtime Women USA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Showtime Women USA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=797
 
-#EXTINF:-1 tvg-logo="", PLAYID Space City Home Network
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Space City Home Network
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=921
 
-#EXTINF:-1 tvg-logo="", PLAYID SportsNet Pittsburgh
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID SportsNet Pittsburgh
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=922
 
-#EXTINF:-1 tvg-logo="", PLAYID TF1 France
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TF1 France
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=469
 
-#EXTINF:-1 tvg-logo="", PLAYID TV3 Max Denmark
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID TV3 Max Denmark
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=223
 
-#EXTINF:-1 tvg-logo="", PLAYID T Sports BD
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID T Sports BD
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=270
 
-#EXTINF:-1 tvg-logo="", PLAYID Vodafone Sport
+
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID Vodafone Sport
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=260
 
-#EXTINF:-1 tvg-logo="", PLAYID V Sport Motor Sweden
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID V Sport Motor Sweden
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=272
 
-#EXTINF:-1 tvg-logo="", PLAYID YTV CA
+#EXTINF:-1 group-title="DADDY" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg", PLAYID YTV CA
 https://xfireflix.fun/wp-content/plugintv/stream.php?cid=296
      
      

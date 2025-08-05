@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000
+http://ringo4532.xyz/play/live.php?mac=00:1A:79:D2:27:8C&stream=693859&extension=m3u8&play_token=

@@ -21,6 +21,10 @@ https://playid.vercel.app/player.html/?url=https://lb1-live-mv.v2h-cdn.com/hls/f
 ![isport](https://github.com/user-attachments/assets/33d4e566-e88f-4ed3-97f1-abe1b44c8fbd)
 
 🌐Links web 
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKbZK6i1AZQb9-OMnF4BRBtY/ts
+
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKXKfEIlv8zfNjPsnwVVbwyA/ts
+
 
 https://www.dropbox.com/scl/fi/ru2uggu8mne8mgest8o29/tv.zip?rlkey=yez3xu16i79mmfhazzgo4cxrk&st=6qcp2kku&dl=1
 

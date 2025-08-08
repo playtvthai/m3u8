@@ -24,9 +24,6 @@ https://playid.vercel.app/player.html/?url=https://lb1-live-mv.v2h-cdn.com/hls/f
 https://www.dropbox.com/scl/fi/ru2uggu8mne8mgest8o29/tv.zip?rlkey=yez3xu16i79mmfhazzgo4cxrk&st=6qcp2kku&dl=1
 
 
-🔓Keyid : yxX0M4!#rcO#
 
- Apk OS
-https://limewire.com/d/rS2My#BUt2Onxpak
 
 

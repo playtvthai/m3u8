@@ -2,8 +2,8 @@
 
 M3U
 
-https://live.vpnhosted.com/MUFC_FHD/index.m3u8?token=0e0047fb8b07b3bb2711c2295356d9e7
-
+http://vpncloud.uk/stalker_portal/c/
+00:1A:79:BF:EC:04
 
 https://github.com/user-attachments/assets/82293657-1317-48f9-bb6b-2a995e722dcb
 

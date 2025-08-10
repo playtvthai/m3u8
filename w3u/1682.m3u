@@ -1,32 +1,49 @@
 #EXTM3U 
-#EXTINF:-1 group-title="UPDATE ล่าสุด",Live 1
+#EXTINF:-1 group-title="UPDATE ล่าสุด", LIVE 1
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=6uo79gtw&dl=0
-#EXTINF:-1 group-title="บอลสด",Live 1
+#EXTINF:-1 group-title="บอลสด", Football Live 1
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://drzl.short.gy/vnl1.m3u8
+https://switch.thaim3u.com/doodii-live/football-play-1/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 1 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-1/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://switch.thaim3u.com/doodii-live/football-play-2/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 2 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-2/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-3/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 3 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://switch.thaim3u.com/doodii-live/football-play-3/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-4/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 4 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://switch.thaim3u.com/doodii-live/football-play-4/playlist.m3u8
+#EXTINF:-1 group-title="บอลสด", Football Live 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://stream2.aws-live-streaming.com/bbs/ch1/playlist.m3u8
 #EXTINF:-1 group-title="บอลสด",Live 2
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/10/index.m3u8?token=2yOpa1bU4NqlL2Yq
+https://stream2.aws-live-streaming.com/bbs/ch2/playlist.m3u8
 #EXTINF:-1 group-title="บอลสด"Live 3
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/11/index.m3u8?token=2yOpa1bU4NqlL2Yq
+https://stream2.aws-live-streaming.com/bbs/ch6/playlist.m3u8
 #EXTINF:-1 group-title="บอลสด",Live 4
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/12/index.m3u8?token=2yOpa1bU4NqlL2Yq
+https://stream2.aws-live-streaming.com/bbs/tsp3/playlist.m3u8
 #EXTINF:-1 group-title="บอลสด",Live 5
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/15/index.m3u8?token=2yOpa1bU4NqlL2Yq
+https://stream2.aws-live-streaming.com/bbs/tsp2/playlist.m3u8
 #EXTINF:-1 group-title="บอลสด",Live 6
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/29/index.m3u8?token=2yOpa1bU4NqlL2Yq
-#EXTINF:-1 group-title="บอลสด",Live 7
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/33/index.m3u8?token=2yOpa1bU4NqlL2Yq
-#EXTINF:-1 group-title="บอลสด",Live 8
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://nm479-v1xx.com/stream/34/index.m3u8?token=2yOpa1bU4NqlL2Yq
-
+https://stream2.aws-live-streaming.com/bbs/tsp7/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV",CH5HD
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
@@ -50,23 +67,14 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",Nation TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",Workpoint23
-https://m3u-lime.vercel.app/stream/workpoint23.m3u8
-#EXTINF:-1 group-title="DIGITAL TV",Workpoint23
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
-#EXTINF:-1 group-title="DIGITAL TV",True4U
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
-#EXTINF:-1 group-title="DIGITAL TV",True4U
-http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="DIGITAL TV",GMM25
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",CH8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
-#EXTINF:-1 group-title="DIGITAL TV",MONO29
-https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",MONO29 เสียงไทย
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
-#EXTINF:-1 group-title="DIGITAL TV",MONO29 เสียงEN
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",MCOT30
 https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",ONE31
@@ -77,12 +85,12 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",CH3
-http://202.62.56.28:8080/nl.m3u8?id=1062
+https://stream2.aws-live-streaming.com/bbs/ch3hd/playlist.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",AMARIN34
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",AMARIN34
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+https://stream2.aws-live-streaming.com/bbs/amarintv/playlist.m3u8 
 #EXTINF:-1 group-title="DIGITAL TV",CH7
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
@@ -95,43 +103,7 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="DIGITAL TV",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 group-title="MVTV",MVTV
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",boomerang
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
-#EXTINF:-1 group-title="MVTV"TVB
-https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8,
-#EXTINF:-1 group-title="MVTV",VTV
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MIX Major
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MVMall DD
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",RAMA CHANNEL
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MVMall Home
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MVMall Trend
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MVMall Living
-https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
-#EXTINF:-1 group-title="MVTV",MVMall Best
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall2/mvmall2.stream?type=m3u8
-#EXTINF:-1 group-title="MVTV",MVMall Happy
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",ไทบ้านทีวี
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MVTV ท้องถิ่นไทย
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",Boom Anime
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
-#EXTINF:-1 group-title="MVTV",MVLAO
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
-#EXTINF:-1 group-title="MVTV",MVM
-https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
 
-#EXTINF:-1 group-title="MVTV",France 24
-https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
 
 #EXTINF:-1 group-title="รายการทีวี",CH1
 https://keela2.com/stream/1/index.m3u8?token=mvFWafOIir5JDlQN
@@ -212,40 +184,191 @@ https://keela2.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="รายการทีวี",CH36
 https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 
+#EXTINF:-1 group-title="รายการทีวี",CH37
+https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH38
+https://keela2.com/stream/38/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH39
+https://keela2.com/stream/39/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH40
+https://keela2.com/stream/40/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH41
+https://keela2.com/stream/41/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH42
+https://keela2.com/stream/42/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH43
+https://keela2.com/stream/43/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH44
+https://keela2.com/stream/44/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH45
+https://keela2.com/stream/45/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH46
+https://keela2.com/stream/46/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH47
+https://keela2.com/stream/47/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH48
+https://keela2.com/stream/48/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH49
+https://keela2.com/stream/49/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",;CH50
+https://keela2.com/stream/50/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH51
+https://keela2.com/stream/51/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH52
+https://keela2.com/stream/52/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH53
+https://keela2.com/stream/53/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH54
+https://keela2.com/stream/54/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH55
+https://keela2.com/stream/55/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH56
+https://keela2.com/stream/56/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH57
+https://keela2.com/stream/57/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH58
+https://keela2.com/stream/58/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH59
+https://keela2.com/stream/59/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH60
+https://keela2.com/stream/60/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH61
+https://keela2.com/stream/61/index.m3u8?token=mvFWafOIir5JDlQN
 
-#EXTINF:-1 group-title="MOVIES",SuperCartoon
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/34959.m3u8
-#EXTINF:-1 group-title="MOVIES" ,MAJUNGTV
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/149923.m3u8
-#EXTINF:-1 group-title="MOVIES",ซิทคอม&วาไรตี้ ย้อนหลัง
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/31422.m3u8
-#EXTINF:-1 group-title="MOVIES" ,เฮฮาทีวี ทีวีอารมณ์ดี
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/1015908.m3u8
-#EXTINF:-1 group-title="MOVIES",Netflix OnAir
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/31426.m3u8
-#EXTINF:-1 group-title="MOVIES",iPlay MEDIA
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/37875.m3u8
-#EXTINF:-1 group-title="MOVIES",INTER MOVIE+
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/119704.m3u8
-#EXTINF:-1 group-title="MOVIES",MOVIE NOW
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/119705.m3u8
-#EXTINF:-1 group-title="MOVIES",THAI MOVIE HIT
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/119706.m3u8
-#EXTINF:-1 group-title="MOVIES",AXN
-#http://applive.foruiptv.asia/live/dootvlive/dootvfree/157.ts
+#EXTINF:-1 group-title="รายการทีวี",;CH62
+https://keela2.com/stream/62/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH63
+https://keela2.com/stream/63/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH64
+https://keela2.com/stream/64/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH65
+https://keela2.com/stream/65/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH66
+https://keela2.com/stream/66/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH67
+https://keela2.com/stream/67/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH68
+https://keela2.com/stream/68/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH69
+https://keela2.com/stream/69/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH70
+https://keela2.com/stream/70/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH71
+https://keela2.com/stream/71/index.m3u8?token=mvFWafOIir5JDlQN
+
+
+#EXTINF:-1 group-title="รายการทีวี",;CH72
+https://keela2.com/stream/72/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH73
+https://keela2.com/stream/73/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH74
+https://keela2.com/stream/74/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH75
+https://keela2.com/stream/75/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH76
+https://keela2.com/stream/76/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH77
+https://keela2.com/stream/77/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH78
+https://keela2.com/stream/78/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH79
+https://keela2.com/stream/79/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH80
+https://keela2.com/stream/80/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH81
+https://keela2.com/stream/81/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",;CH82
+https://keela2.com/stream/82/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH83
+https://keela2.com/stream/83/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH84
+https://keela2.com/stream/84/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH85
+https://keela2.com/stream/85/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH86
+https://keela2.com/stream/86/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH87
+https://keela2.com/stream/87/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH88
+https://keela2.com/stream/88/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH89
+https://keela2.com/stream/89/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH90
+https://keela2.com/stream/90/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH91
+https://keela2.com/stream/91/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",;CH92
+https://keela2.com/stream/92/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH93
+https://keela2.com/stream/93/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH94
+https://keela2.com/stream/94/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH95
+https://keela2.com/stream/95/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH97
+https://keela2.com/stream/97/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH98
+https://keela2.com/stream/98/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH99
+https://keela2.com/stream/99/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH100
+https://keela2.com/stream/100/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH101
+https://keela2.com/stream/101/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="รายการทีวี",CH102
+https://live.vpnhosted.com/Sky_Sports_F1_4K/index.m3u8?token=c9574df2497992dd116790fd6f449de0
+
+#EXTINF:-1 group-title="รายการทีวี",CH103
+https://live.vpnhosted.com/Astro_SuperSport_1_HD/index.m3u8?token=91e82ceb7073948acb9c275cbcabd08e
+#EXTINF:-1 group-title="รายการทีวี",CH104
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2489281.ts
+
+#EXTINF:-1 group-title="รายการทีวี",CH105
+https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8?token=2d68d031203f51b9c73072ae0e55a74d
+#EXTINF:-1 group-title="รายการทีวี",CH106
+https://live.vpnhosted.com/TSN_4K_UHD/tracks-a1/index.fmp4.m3u8?token=0b91a109a9615724e7e67b882eb3545d
+#EXTINF:-1 group-title="รายการทีวี",CH107
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1476560.ts?token=c0fcb9a003c31d5ad257d56efcd861b3
+#EXTINF:-1 group-title="รายการทีวี",CH108
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1803031.ts
+
+#EXTINF:-1 group-title="รายการทีวี",CH109
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2519858.ts
+#EXTINF:-1 group-title="รายการทีวี",CH110
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
+#EXTINF:-1 group-title="รายการทีวี",CH111
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
+
+#EXTINF:-1 group-title="รายการทีวี",CH112
+https://live.vpnhosted.com/Sky_sports_news_HD/index.m3u8?token=ccc50c8efeab4f9bc0eb3925d2b75efe
+
+#EXTINF:-1 group-title="รายการทีวี",CH113
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1860614
+#EXTINF:-1 group-title="รายการทีวี",CH114
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
+#EXTINF:-1 group-title="รายการทีวี",CH115
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1836065.ts
+#EXTINF:-1 group-title="รายการทีวี",CH116
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
+#EXTINF:-1 group-title="รายการทีวี",CH117
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1782162.ts
+#EXTINF:-1 group-title="รายการทีวี",CH118
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/793874.ts
+
+
 #EXTINF:-1 group-title="MOVIES",HBO TH
-http://45.144.165.187:8080/playid168/12345/77
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hbo/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",CINEMAX
 http://45.144.165.187:8080/playid168/12345/78
 #EXTINF:-1 group-title="MOVIES",True Film HD2
-http://45.144.165.187:8080/playid168/12345/79
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm2/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",True Asian More
-http://45.144.165.187:8080/playid168/12345/80
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueasianmore/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Rock Action
 http://45.144.165.187:8080/playid168/12345/81
 
 #EXTINF:-1 group-title="MOVIES",Crime
-http://45.144.165.187:8080/playid168/12345/82
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/crime-investigation/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES", Family พากย์ไทย
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="MOVIES",PlayID เกมโชว์
@@ -257,30 +380,28 @@ http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="MOVIES", PLAYID หนังยอดเยี่ยม
 http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 group-title="MOVIES",FW MOV
-http://45.144.165.187:8080/playid168/12345/11051
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Premium Blockbuster
-http://45.144.165.187:8080/playid168/12345/22882
-#EXTINF:-1 group-title="MOVIES",FW Sport
-http://45.144.165.187:8080/playid168/12345/22884
+http://103.114.203.129:8080/viptv/12345/76
 #EXTINF:-1 group-title="MOVIES",FW SOV
-http://45.144.165.187:8080/playid168/12345/22885
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?
 #EXTINF:-1 group-title="MOVIES",PLAYID MOVIE
-http://45.144.165.187:8080/playid168/12345/17788
+http://103.114.203.129:8080/viptv/12345/17788
 #EXTINF:-1 group-title="MOVIES", ASIAN MOVIE
 http://iptvview.sytes.net:9090/memfs/2d8a0d34-c005-45f6-9a20-85efe6186a0a.m3u8
 #EXTINF:-1 group-title="MOVIES", INTERMOVIE
 http://iptvview.sytes.net:9090/memfs/3ef36d57-1d43-4502-ba80-9453b3bcbf05.m3u8
 #EXTINF:-1 group-title="MOVIES",PLAYID สยองขวัญ
-http://45.144.165.187:8080/playid168/12345/15672
+http://103.114.203.129:8080/viptv/12345/15672
 #EXTINF:-1 group-title="MOVIES",PLAYID HITS 2K
-http://45.144.165.187:8080/playid168/12345/15675
+http://103.114.203.129:8080/viptv/12345/17715
 #EXTINF:-1 group-title="MOVIES",PLAYID เป็นต่อ
-http://45.144.165.187:8080/playid168/12345/17715
+http://103.114.203.129:8080/viptv/12345/19389
 #EXTINF:-1 group-title="MOVIES",PlayID หนังไทย
 http://45.144.165.187:8080/playid168/12345/9198
-#EXTINF:-1 group-title="MOVIES",Hits Series
+#EXTINF:-1 group-title="MOVIES",TH Series
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/9199
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueseries/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",MONO29
 https://edge2-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/chunklist_w74863664.m3u8
 #EXTINF:-1 group-title="MOVIES",Channel8
@@ -289,41 +410,43 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",HBOHITS 
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3018
+http://103.114.203.129:8080/viptv/12345/3018
+#EXTINF:-1 group-title="MOVIES",HBOHITS  สำรอง
+102.129.139.134/play/w2If1iuGTEQMoXGbYmSlKRUVo3bUTfl5BVOzqh-pqf0/m3u8
 #EXTINF:-1 group-title="MOVIES",TRUE FILM ASIAN
-http://45.144.165.187:8080/playid168/12345/70
-#EXTINF:-1 group-title="MOVIES",HBO Fiamy
+http://103.114.203.129:8080/viptv/12345/75
+#EXTINF:-1 group-title="MOVIES",HBO Family
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/5649
+http://103.114.203.129:8080/viptv/12345/5649
 #EXTINF:-1 group-title="MOVIES",HBOSIG
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3660
+http://103.114.203.129:8080/viptv/12345/3660
 #EXTINF:-1 group-title="MOVIES",HBO TH
-http://45.144.165.187:8080/playid168/12345/77
-#EXTINF:-1 group-title="MOVIES",CINEMAX
-http://45.144.165.187:8080/playid168/12345/78
-#EXTINF:-1 group-title="MOVIES",True Film HD2
-http://45.144.165.187:8080/playid168/12345/79
-#EXTINF:-1 group-title="MOVIES",True Asian More
-http://45.144.165.187:8080/playid168/12345/80
-#EXTINF:-1 group-title="MOVIES",Rock Action
-http://45.144.165.187:8080/playid168/12345/81
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/hbo/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",CINEMAX
+http://103.114.203.129:8080/viptv/12345/18878
+#EXTINF:-1 group-title="MOVIES",True Film HD1
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truefilm1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",True Asian More
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueasianmore/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Rock Action
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/rock-action/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",TRUE THAI FILM 
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/64
 #EXTINF:-1 group-title="MOVIES",True Movie Hits
-https://playtvthai.github.io/m3u8/movie/truehits.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/truemoviehits/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Hits
 http://45.144.165.187:8080/playid168/12345/66
 #EXTINF:-1 group-title="MOVIES",Film HD
 http://45.144.165.187:8080/playid168/12345/67
 #EXTINF:-1 group-title="MOVIES",TLC
-http://45.144.165.187:8080/playid168/12345/69
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tlc/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
 #EXTINF:-1 group-title="MOVIES",MONO29Plus
-http://45.144.165.187:8080/playid168/12345/1709
+https://stream2.aws-live-streaming.com/bbs/mono29plus/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",IPLAY Media
 http://45.144.165.187:8080/playid168/12345/37
 #EXTINF:-1 group-title="MOVIES",SERIES Asian
@@ -335,68 +458,55 @@ http://45.144.165.187:8080/playid123/12345/11054
 #EXTINF:-1 group-title="MOVIES",Thai Media
 http://45.144.165.187:8080/playid123/12345/11055
 #EXTINF:-1 group-title="MOVIES",Rock Entertainment
-http://45.144.165.187:8080/playid123/12345/11091
+http://103.114.203.129:8080/viptv/12345/129
 #EXTINF:-1 group-title="MOVIES",Series
-https://playtvthai.github.io/m3u8/movie/trueseries.m3u8
-#EXTINF:-1 group-title="MOVIES",มังกร
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",ภาพยนต์เกาหลี4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 group-title="MOVIES",ภาพยนต์เกาหลี3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 group-title="MOVIES",ภาพยนต์เกาหลี2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 group-title="MOVIES",ภาพยนต์เกาหลี1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+http://103.114.203.129:8080/viptv/12345/15669
 
-#EXTINF:-1 group-title="MOVIES",TVRHET ONLINE NEWS
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-#EXTINF:-1 group-title="MOVIES",Siamnewstv
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 group-title="MOVIES",ATTV
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",TVB ไทย
-https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",มังกร
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",ลิโด้ Channel
-https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",สยาม Channel
-https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",สกาล่า Channel
-https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",ราม่า Channel
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
 
-#EXTINF:-1 group-title="SPOTRS",Sports
+#EXTINF:-1 group-title="SPOTRS", MONOMAX 1
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-http://45.144.165.187:8080/playid168/12345/22884
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8
+#EXTINF:-1 group-title="SPOTRS", MONOMAX 1 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+http://103.114.203.129:8080/viptv/12345/18880
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  1 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-1/chunks.m3u8
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  1 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-1/chunks.m3u8
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-2/chunks.m3u8
+
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-3/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-4/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-5/chunks.m3u8
+#EXTINF:-1 group-title="SPOTRS", MONOMAX 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-6/chunks.m3u8
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-7/chunks.m3u8
+#EXTINF:-1 group-title="SPOTRS", MONOMAX  8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-8/chunks.m3u8
 #EXTINF:-1 group-title="SPOTRS",ไก่ชน
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 group-title="SPOTRS",ไก่ชน
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 http://45.144.165.187:8080/live/xtreamvip/12345/22886.m3u8
-
-
-#EXTINF:-1 group-title="SPOTRS",วอลเลย์บอล 1
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://drzl.short.gy/vnl1.m3u8
-#EXTINF:-1 group-title="SPOTRS",วอลเลย์บอล 1
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-http://45.144.165.187:8080/live/xtreamvip/12345/18922.m3u8
-#EXTINF:-1 group-title="SPOTRS",VNL1
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/ts
-#EXTINF:-1 group-title="SPOTRS",VNL2
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2FcjXqcX-KxE_l4-JqcfFrc/ts
-#EXTINF:-1 group-title="SPOTRS",Volleyball 3
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/172648.m3u8
-#EXTINF:-1 group-title="SPOTRS",Volleyball 4
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/172649.m3u8
-#EXTINF:-1 group-title="SPOTRS",Volleyball 5
-http://mooseven.ddns.net:8080/live/volleyballfree/volleyballfree/172650.m3u8
 
 
 #EXTINF:-1 group-title="SPOTRS",HIFIGHT
@@ -410,11 +520,12 @@ https://keela2.com/stream/16/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",True Sport 1/2
 https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport 1/3
-http://45.144.165.187:8080/playid168/12345/18904
+https://stream2.aws-live-streaming.com/bbs/tsp1/playlist.m3u8
+
 #EXTINF:-1 group-title="SPOTRS",True Sport 2
 https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport  2/2
-http://45.144.165.187:8080/playid168/12345/18905
+https://stream2.aws-live-streaming.com/bbs/tsp2/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport 2/3
 https://keela2.com/stream/17/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",True Sport 3
@@ -422,7 +533,7 @@ https://keela2.com/stream/18/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",True Sport  3/1
 https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport 3/2
-http://45.144.165.187:8080/playid168/12345/18905
+https://stream2.aws-live-streaming.com/bbs/tsp3/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport 5
 https://keela2.com/stream/20/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",True Sport 7
@@ -430,13 +541,13 @@ https://keela2.com/stream/21/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",True Sport 4
 http://mooseven.ddns.net:9090/memfs/1c3ad503-2c97-4157-8047-e1538bdc5f36.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport 5
-http://45.144.165.187:8080/playid168/12345/18906
+https://stream2.aws-live-streaming.com/bbs/tsp5/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",True Sport 7
-http://45.144.165.187:8080/playid168/12345/18907
+https://stream2.aws-live-streaming.com/bbs/tsp7/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",Tennis 
-https://playtvthai.github.io/m3u8/sports/tennis.m3u8
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tennis/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",BEIN 1
-http://45.144.165.187:8080/playid168/12345/18908
+https://stream2.aws-live-streaming.com/bbs/bein1/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",BEIN 1/2
 https://keela1.com/stream/8/index.m3u8?token=ivhodmKXayus2b6r
 #EXTINF:-1 group-title="SPOTRS",BEIN 1/3
@@ -444,11 +555,11 @@ https://keela2.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",BEIN 1/3
 https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPOTRS",BEIN 2
-http://45.144.165.187:8080/playid168/12345/104
+https://stream2.aws-live-streaming.com/bbs/bein2/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",BEIN 2/1
-http://45.144.165.187:8080/playid168/12345/104
+
 #EXTINF:-1 group-title="SPOTRS",BEIN 3
-http://45.144.165.187:8080/playid168/12345/108
+https://stream2.aws-live-streaming.com/bbs/bein3/playlist.m3u8
 #EXTINF:-1 group-title="SPOTRS",BEIN 3
 https://delicate-hall-d108.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPOTRS",BEIN 3/2
@@ -462,7 +573,7 @@ http://45.144.165.187:8080/playid168/12345/147
 #EXTINF:-1 group-title="SPOTRS",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="SPOTRS",SPOTV 1
-http://applive.foruiptv.asia/live/dootvlive/dootvfree/256.ts
+http://applive.foruiptv.asia/live/dootvlive/forudootvfree/256.ts
 #EXTINF:-1 group-title="SPOTRS",SPOTV 1  TH
 http://45.144.165.187:8080/playid168/12345/10395
 #EXTINF:-1 group-title="SPOTRS",SPOTV1 B
@@ -470,7 +581,7 @@ https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",Spotv2
 https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="SPOTRS",Spotv2 B
-http://applive.foruiptv.asia/live/dootvlive/dootvfree/257.ts
+http://applive.foruiptv.asia/live/dootvlive/forudootvfree/257.ts
 #EXTINF:-1 group-title="SPOTRS",Liverpool TV
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 http://45.144.165.187:8080/playid168/12345/12251
@@ -727,96 +838,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",BEIN ESP
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Room_Service_2024
-https://vidhublive.com:2083/Room_Service_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Bedspacer_2024
-https://vidhublive.com:2083/Bedspacer_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Rumours
-https://vidhublive.com:2083/Rumours.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Assembled.The.Making.Of.Deadpool.And.Wolverine.2024
-https://vidhublive.com:2083/Assembled.The.Making.Of.Deadpool.And.Wolverine.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The.First.Omen.2024
-https://vidhublive.com:2083/The.First.Omen.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Citizen.Of.A.Kind.2024
-https://vidhublive.com:2083/Citizen.Of.A.Kind.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",1992_2024
-https://vidhublive.com:2083/1992_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",mada_2024
-https://vidhublive.com:2083/mada_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",GTMax_2020
-https://vidhublive.com:2083/GTMax_2020
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The_Merry_Gentlemen_2024
-https://vidhublive.com:2083/The_Merry_Gentlemen_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Lowlifes
-https://vidhublive.com:2083/Lowlifes.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The_Cursed_Land_2024
-https://vidhublive.com:2083/The_Cursed_Land_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Magpie.2024
-https://vidhublive.com:2083/Magpie.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",GTMax_2020
-https://vidhublive.com:2083/GTMax_2020
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Vedaa_2024
-https://vidhublive.com:2083/Vedaa_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Heretic
-https://vidhublive.com:2083/Heretic.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Night.Swim_2024
-https://vidhublive.com:2083/Night.Swim_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The.First.Omen
-https://vidhublive.com:2083/The.First.Omen.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Blink.Twice_2024
-https://vidhublive.com:2083/Blink.Twice_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Karinyo_Brutal_2024
-https://vidhublive.com:2083/Karinyo_Brutal_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The.Idea.Of.You
-https://vidhublive.com:2083/The.Idea.Of.You.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",hot_frosty_2024
-https://vidhublive.com:2083/hot_frosty_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Your.Monster.2024.1080P.Web.H264-Charmingtealorangutanofpurring-1
-https://vidhublive.com:2083/Your.Monster.2024.1080P.Web.H264-Charmingtealorangutanofpurring-1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Vettaiyan_2024
-https://vidhublive.com:2083/Vettaiyan_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Vijay.69.2024
-https://vidhublive.com:2083/Vijay.69.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",My.Old.Ass.2024
-https://vidhublive.com:2083/My.Old.Ass.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Super.Man.The.Christopher.Reeve.Story.2024
-https://vidhublive.com:2083/Super.Man.The.Christopher.Reeve.Story.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Monster.Summer.2024
-https://vidhublive.com:2083/Monster.Summer.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Red.One.2024
-https://vidhublive.com:2083/Red.One.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Umjolo.The.Gone.Girl.2024
-https://vidhublive.com:2083/Umjolo.The.Gone.Girl.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Gorre_Puranam_2024
-https://vidhublive.com:2083/Gorre_Puranam_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Yudhra_2024
-https://vidhublive.com:2083/Yudhra_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The.Outrun.2024
-https://vidhublive.com:2083/The.Outrun.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Twilight.Of.The.Warriors.Walled.In.2024
-https://vidhublive.com:2083/Twilight.Of.The.Warriors.Walled.In.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Nandhan_2024  
-https://vidhublive.com:2083/Nandhan_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The_Miranda_Brothers_2024
-https://vidhublive.com:2083/The_Miranda_Brothers_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",takas_2024
-https://vidhublive.com:2083/takas_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Sector.36.2024
-https://vidhublive.com:2083/Sector.36.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The_Miranda_Brothers_2024
-https://vidhublive.com:2083/The_Miranda_Brothers_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Dilig_2024
-https://vidhublive.com:2083/Dilig_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Palipat-lipat_Papalit-palit_2024
-https://vidhublive.com:2083/Palipat-lipat_Papalit-palit_2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Venom.The.Last.Dance.2024
-https://vidhublive.com:2083/Venom.The.Last.Dance.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Classified
-https://vidhublive.com:2083/Classified.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",Libre.2024
-https://vidhublive.com:2083/Libre.2024
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",The_Substance_2024
-https://vidhublive.com:2083/The_Substance_2024
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",
 https://m1free.inwstream.com:1936/movie4/The_Devil_s_Bath_2024/The_Devil_s_Bath_2024_st_1080_T.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="อัพเดทรายวัน",
@@ -3601,12 +3623,95 @@ https://m3.inwstream.com:1936/movie3/Potato-The-Real-Live-Concert-2009/Potato-Th
 https://m3.inwstream.com:1936/movie3/Clash-Army-Rock-Concert-II-2009/Clash-Army-Rock-Concert-II-2009-TH-480p-Concert.mp4/playlist.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1,体育频道|Astro Premier League 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+#EXTINF:-1,体育频道|Astro EPL 1 backup
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
+#EXTINF:-1,体育频道|Astro Premier League 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+#EXTINF:-1,体育频道|Astro Grandstand
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+#EXTINF:-1,体育频道|Astro Football
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1,体育频道|Astro Sports Plus
+https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
+#EXTINF:-1,体育频道|Astro Badminton 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+#EXTINF:-1,体育频道|Astro Badminton 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+#EXTINF:-1,体育频道|Astro W-Sports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+#EXTINF:-1,体育频道|Supersports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+#EXTINF:-1,体育频道|Supersports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+#EXTINF:-1,体育频道|Supersports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+#EXTINF:-1,体育频道|Supersports 4
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+#EXTINF:-1,体育频道|WWE
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+#EXTINF:-1,体育频道|Fight Sports
+https://smart.pendy.dpdns.org/Smart.php?id=Fs
+#EXTINF:-1,体育频道|NBA TV
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
+#EXTINF:-1,体育频道|Astro Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+#EXTINF:-1,体育频道|Astro Golf
+https://smart.pendy.dpdns.org/Smart.php?id=Agolf
+#EXTINF:-1,体育频道|Tnt Sports 1
+https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
+#EXTINF:-1,体育频道|TNT Sports 2
+https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
+#EXTINF:-1,体育频道|TNT Sports 3
+https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
+#EXTINF:-1,体育频道|TNT Sports 4
+https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
+#EXTINF:-1,体育频道|Sony Ten 1
+https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
+#EXTINF:-1,体育频道|Sony Ten 2
+https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
+#EXTINF:-1,体育频道|Sony Ten 3
+https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
+#EXTINF:-1,体育频道|SPOTV 1 HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
+#EXTINF:-1,体育频道|SPO TV 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+#EXTINF:-1,体育频道|Skysports F1
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
+#EXTINF:-1,体育频道|Skysports Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
+#EXTINF:-1,体育频道|Skysports EPL
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+#EXTINF:-1,体育频道|Skysports Main Event
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
+#EXTINF:-1,体育频道|Skysports News
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
+#EXTINF:-1,体育频道|Skysports Mix
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+#EXTINF:-1,体育频道|爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1,体育频道|爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1,体育频道|Rugby Pass TV
+https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
+#EXTINF:-1,体育频道|RTM Sports HD
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
+#EXTINF:-1,体育频道|Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+#EXTINF:-1,体育频道|Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+#EXTINF:-1,体育频道|BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTINF:-1,体育频道|BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#EXTINF:-1,体育频道|Astro Beinsports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
+#EXTINF:-1,体育频道|Astro Beinsports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
+#EXTINF:-1,体育频道|Astro Beinsports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
+/hide]
 
 
 

@@ -316,44 +316,115 @@ https://keela2.com/stream/100/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="รายการทีวี",CH101
 https://keela2.com/stream/101/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="รายการทีวี",CH102
-https://live.vpnhosted.com/Sky_Sports_F1_4K/index.m3u8?token=c9574df2497992dd116790fd6f449de0
-
-#EXTINF:-1 group-title="รายการทีวี",CH103
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH103
 https://live.vpnhosted.com/Astro_SuperSport_1_HD/index.m3u8?token=91e82ceb7073948acb9c275cbcabd08e
-#EXTINF:-1 group-title="รายการทีวี",CH104
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH104
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2489281.ts
 
-#EXTINF:-1 group-title="รายการทีวี",CH105
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH105
 https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8?token=2d68d031203f51b9c73072ae0e55a74d
-#EXTINF:-1 group-title="รายการทีวี",CH106
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH106
 https://live.vpnhosted.com/TSN_4K_UHD/tracks-a1/index.fmp4.m3u8?token=0b91a109a9615724e7e67b882eb3545d
-#EXTINF:-1 group-title="รายการทีวี",CH107
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH107
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1476560.ts?token=c0fcb9a003c31d5ad257d56efcd861b3
-#EXTINF:-1 group-title="รายการทีวี",CH108
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH108
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1803031.ts
 
-#EXTINF:-1 group-title="รายการทีวี",CH109
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH109
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2519858.ts
-#EXTINF:-1 group-title="รายการทีวี",CH110
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH110
 https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
-#EXTINF:-1 group-title="รายการทีวี",CH111
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH111
 https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
 
-#EXTINF:-1 group-title="รายการทีวี",CH112
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH112
 https://live.vpnhosted.com/Sky_sports_news_HD/index.m3u8?token=ccc50c8efeab4f9bc0eb3925d2b75efe
 
-#EXTINF:-1 group-title="รายการทีวี",CH113
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH113
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1860614
-#EXTINF:-1 group-title="รายการทีวี",CH114
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH114
 https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
-#EXTINF:-1 group-title="รายการทีวี",CH115
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH115
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1836065.ts
-#EXTINF:-1 group-title="รายการทีวี",CH116
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH116
 https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
-#EXTINF:-1 group-title="รายการทีวี",CH117
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH117
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1782162.ts
-#EXTINF:-1 group-title="รายการทีวี",CH118
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH118
 https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/793874.ts
+
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",Sky_Sports_F1_4K
+https://live.vpnhosted.com/Sky_Sports_F1_4K/index.m3u8?token=c9574df2497992dd116790fd6f449de0
+#EXTINF:-1 group-title="UHD/4K SPORTS",Astro_SuperSport_1_HD
+https://live.vpnhosted.com/Astro_SuperSport_1_HD/index.m3u8?token=91e82ceb7073948acb9c275cbcabd08e
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH 1
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2489281.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",Astro_SuperSport_2_HD
+https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8?token=2d68d031203f51b9c73072ae0e55a74d
+#EXTINF:-1 group-title="UHD/4K SPORTS",TSN_4K_UHD
+https://live.vpnhosted.com/TSN_4K_UHD/tracks-a1/index.fmp4.m3u8?token=0b91a109a9615724e7e67b882eb3545d
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH3
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1476560.ts?token=c0fcb9a003c31d5ad257d56efcd861b3
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH4
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1803031.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH5
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2519858.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",Astro_SuperSport_4_HD
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
+#EXTINF:-1 group-title="UHD/4K SPORTS",Astro_Grandstand_HD
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
+#EXTINF:-1 group-title="UHD/4K SPORTS",Sky_sports_news_HD
+https://live.vpnhosted.com/Sky_sports_news_HD/index.m3u8?token=ccc50c8efeab4f9bc0eb3925d2b75efe
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH6
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1860614
+#EXTINF:-1 group-title="UHD/4K SPORTS",Astro_Grandstand_HD
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH7
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1836065.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH107
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH8
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1782162.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH9
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/793874.ts
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",
+CH10
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/2489281.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",TNT_Sport_1_FHD_50
+https://live.vpnhosted.com/TNT_Sport_1_FHD_50/index.m3u8?token=5b0ad6a5c4104665000b44489fbc6c71
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",TNT_Sport_2_FHD_50
+https://live.vpnhosted.com/TNT_Sport_2_FHD_50/index.m3u8?token=e92165fee3bf367fc9445b02bb010763
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH9
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/1836065.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",TNT_Sport_3_FHD_50
+https://live.vpnhosted.com/TNT_Sport_3_FHD_50/index.m3u8?token=317bd18f73159e47cd56f33ec4f406b2
+#EXTINF:-1 group-title="UHD/4K SPORTS",Sky_Sport_News_FHD
+https://live.vpnhosted.com/Sky_Sport_News_FHD/index.m3u8?token=6700efe84666ebd30526335611e23e7b
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH11
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/793874.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",Sky_Sports_Main_Event_4K
+https://live.vpnhosted.com/Sky_Sports_Main_Event_4K/index.m3u8?token=af05ba500ffccd0f7162e7d97ce4900e
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",Sky_sports_main_event_HD
+https://live.vpnhosted.com/Sky_sports_main_event_HD/index.m3u8?token=d1c1fa08ff69503b7350614d2fd9b5aa
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH107
+https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8?token=a10b77caca09c7046e460cd64cb42cae
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH12
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/437263.ts
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",Sky_sports_Football_HD
+https://live.vpnhosted.com/Sky_sports_Football_HD/index.m3u8?token=c2742e5179abc901914aac4fce9bfd49
+
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH13
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/793874.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH14
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/437272.ts
+#EXTINF:-1 group-title="UHD/4K SPORTS",CH15
+https://centra.ink/Centra_Live_dcf4L/O0raRVPgguRl/437269.ts
 
 
 #EXTINF:-1 group-title="MOVIES",HBO TH

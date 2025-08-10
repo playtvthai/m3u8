@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5500000
 https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=97ca6941e04c233549bcc4178a09ba1f
 #http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=m3u8
 #http://iptv12k.com:35461/live/654321/123456/7984.m3u8

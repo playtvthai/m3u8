@@ -1,8 +1,6 @@
 📺 สร้าง Playlist M3U (เวอร์ชัน Pro)
 
 M3U
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL107/HLS/TL107.m3u8)
-referer: https://ais-vidnt.com/
 
 https://github.com/user-attachments/assets/82293657-1317-48f9-bb6b-2a995e722dcb
 

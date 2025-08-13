@@ -1,3 +1,42 @@
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Canary Black | รหัสลับดับโลก" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",Canary Black | รหัสลับดับโลก
+https://dooflixlive.com/movies/40648
+#EXTINF:-1 tvg-id="2" tvg-name=" นรกหยุดนรก" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4", นรกหยุดนรก
+https://dooflixlive.com/movies/37090
+#EXTINF:-1 tvg-id="3" tvg-name="Monkey Man | มังกี้แมน" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",Monkey Man | มังกี้แมน
+https://dooflixlive.com/movies/23058
+#EXTINF:-1 tvg-id="4" tvg-name="Godzilla x Kong: The New Empire | ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",Godzilla x Kong: The New Empire | ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่
+https://dooflixlive.com/movies/22672
+#EXTINF:-1 tvg-id="5" tvg-name="Road House | คนเดือดบวกเมืองเถื่อน" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",Road House | คนเดือดบวกเมืองเถื่อน
+https://dooflixlive.com/movies/22435
+#EXTINF:-1 tvg-id="6" tvg-name="Ride On | ควบสู้ฟัด" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",Ride On | ควบสู้ฟัด
+https://dooflixlive.com/movies/17760
+#EXTINF:-1 tvg-id="7" tvg-name="john4" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",john4
+https://dooflixlive.com/movies/16356
+#EXTINF:-1 tvg-id="8" tvg-name="fastx" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",fastx
+https://dooflixlive.com/movies/17355
+#EXTINF:-1 tvg-id="9" tvg-name="scream v6" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",scream v6
+https://dooflixlive.com/movies/16160
+#EXTINF:-1 tvg-id="10" tvg-name="The Menu | เมนูสยอง" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",The Menu | เมนูสยอง
+https://dooflixlive.com/movies/14769
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://www.dropbox.com/scl/fi/hrnao85si8eo5vf44ryo1/asianth.n3u?rlkey=7e05jv722w9qv19y0t5upcv4o&st=iq0fqz9f&dl=1
 
 https://www.dropbox.com/scl/fi/292z65e146q77dqmh4xum/show.m3u?rlkey=epi9qua7ek6wolklwvvtl641d&st=i81990x4&dl=0
@@ -666,6 +705,7 @@ https://main.24playerhd.com/newplaylist/839e078518553f5a5e327e9b/839e078518553f5
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 14
 https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP14.mp4/playlist.m3u8
+
 
 
 

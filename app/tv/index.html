@@ -161,6 +161,10 @@
 
   const normalize = s => (s || '').toLowerCase().trim();
 
+  
+  let displayIndex = 0;
+  const batchSize = 30;
+
   const getFiltered = () => {
     const q = normalize(query);
     const src = [...all, ...custom];
@@ -171,20 +175,38 @@
     });
   };
 
-  const render = () => {
+  const render = (reset = true) => {
     const items = getFiltered();
-    if (!items.length){
-      grid.innerHTML = '<div class="muted">ไม่พบช่องที่ตรงกับการค้นหา</div>';
-      return;
+    if (reset) {
+      displayIndex = 0;
+      grid.innerHTML = '';
     }
-    grid.innerHTML = items.map(ch => `
-      <div class="card" data-src="${ch.src}" data-name="${ch.name}">
-        <img src="${ch.logo || 'https://via.placeholder.com/84?text=No+Logo'}" alt="${ch.name}" onerror="this.src='https://via.placeholder.com/84?text=No+Logo'"/>
+    const slice = items.slice(displayIndex, displayIndex + batchSize);
+    slice.forEach(ch => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.dataset.src = ch.src;
+      card.dataset.name = ch.name;
+      card.innerHTML = `
+        <img src="${ch.logo || 'https://via.placeholder.com/84?text=No+Logo'}" alt="${ch.name}" 
+          onerror="this.src='https://via.placeholder.com/84?text=No+Logo'"/>
         <div class="name" title="${ch.name}">${ch.name}</div>
         <div class="muted">${ch.category || ''}</div>
-      </div>
-    `).join('');
+      `;
+      grid.appendChild(card);
+    });
+    displayIndex += slice.length;
   };
+
+  // Detect scroll near bottom
+  grid.addEventListener('scroll', () => {
+    if (grid.scrollTop + grid.clientHeight >= grid.scrollHeight - 50) {
+      if (displayIndex < getFiltered().length) {
+        render(false); // append more
+      }
+    }
+  });
+
 
   const play = (src, name) => {
     player.classList.add('active');
@@ -235,15 +257,17 @@
   categories.addEventListener('click', e => {
     const chip = e.target.closest('.chip');
     if (!chip) return;
-    document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
     chip.classList.add('active');
     currentCat = chip.dataset.cat;
-    render();
+    render(true);
+  });
   });
 
   searchBox.addEventListener('input', e => {
     query = e.target.value;
-    render();
+    render(true);
+  });
   });
 
   backBtn.addEventListener('click', () => {

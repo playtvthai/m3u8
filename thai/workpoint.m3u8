@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4700000
-http://iptv12k.com:35461/live/654321/123456/2592.m3u8
-
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186639&extension=m3u8&play_token=
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="origin",NAME="mp4a.40.2",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ko",URI="https://global-media.sooplive.com/live/audio/workpoint/origin/playlist.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,AUDIO="origin"
+https://global-media.sooplive.com/live/video/workpoint/1280x720/playlist.m3u8

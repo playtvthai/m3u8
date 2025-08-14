@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>⏰ Clock – CDN Only</title>
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            display: ["Poppins", "Noto Sans Thai", "ui-sans-serif", "system-ui"],
+          },
+        },
+      },
+    };
+  </script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;600&family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <!-- Day.js + Plugins (UTC, Timezone, Locale) -->
+  <script src="https://unpkg.com/dayjs@1/dayjs.min.js"></script>
+  <script src="https://unpkg.com/dayjs@1/plugin/utc.js"></script>
+  <script src="https://unpkg.com/dayjs@1/plugin/timezone.js"></script>
+  <script src="https://unpkg.com/dayjs@1/locale/th.js"></script>
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2Pkf1F3TQbZ3z24l4nS8GkP1QvV4XWw2X2ZrQ9qfXwqS5W2U7iQk7+T2kw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <style>
+    /* smooth needle animation */
+    .needle { transform-origin: 50% 100%; transition: transform 0.2s cubic-bezier(.2,.9,.3,1.2); }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white font-display">
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    <header class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+      <div>
+        <h1 class="text-3xl sm:text-4xl font-semibold tracking-tight">นาฬิกา (CDN)</h1>
+        <p class="text-slate-300">อัปเดตทุกวินาที • ภาษาไทย • เลือกโซนเวลาได้</p>
+      </div>
+      <div class="flex gap-2 items-center">
+        <label class="inline-flex items-center gap-2 bg-slate-700/60 rounded-2xl px-3 py-2">
+          <input id="toggle12" type="checkbox" class="accent-white h-4 w-4" />
+          <span class="text-sm">รูปแบบ 12 ชม.</span>
+        </label>
+        <button id="btnNow" class="bg-white/10 hover:bg-white/20 active:bg-white/30 rounded-2xl px-3 py-2 text-sm">
+          <i class="fa-solid fa-location-crosshairs mr-1"></i> โซนเวลาปัจจุบัน
+        </button>
+      </div>
+    </header>
+
+    <!-- Controls -->
+    <section class="mt-6 grid sm:grid-cols-2 gap-4">
+      <div class="bg-white/5 rounded-2xl p-4">
+        <label for="tzSelect" class="block text-sm text-slate-300 mb-2">เลือกโซนเวลา</label>
+        <select id="tzSelect" class="w-full bg-slate-800 rounded-xl px-3 py-2">
+          <!-- populated by JS using Intl support if available -->
+        </select>
+      </div>
+      <div class="bg-white/5 rounded-2xl p-4 grid grid-cols-2 gap-3">
+        <div>
+          <p class="text-slate-300 text-sm">วันที่</p>
+          <p id="dateText" class="text-xl font-semibold">—</p>
+        </div>
+        <div>
+          <p class="text-slate-300 text-sm">สัปดาห์ที่</p>
+          <p id="weekText" class="text-xl font-semibold">—</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Clock cards -->
+    <section class="mt-6 grid lg:grid-cols-2 gap-6">
+      <!-- Digital Clock -->
+      <div class="bg-white/5 rounded-3xl p-6 shadow-xl">
+        <div class="flex items-center justify-between">
+          <h2 class="text-lg text-slate-300">ดิจิทัล</h2>
+          <span id="tzBadge" class="text-xs bg-white/10 rounded-full px-2 py-1">—</span>
+        </div>
+        <div class="mt-4 text-6xl sm:text-7xl font-semibold tabular-nums tracking-tight" id="timeText">--:--:--</div>
+        <div class="mt-2 text-slate-300" id="dayText">—</div>
+      </div>
+
+      <!-- Analog Clock -->
+      <div class="bg-white/5 rounded-3xl p-6 shadow-xl">
+        <div class="flex items-center justify-between">
+          <h2 class="text-lg text-slate-300">อนาล็อก</h2>
+          <span class="text-xs text-slate-400">ย่อยจาก SVG</span>
+        </div>
+        <div class="mt-4 flex justify-center">
+          <svg viewBox="0 0 200 200" class="w-64 h-64">
+            <!-- dial -->
+            <circle cx="100" cy="100" r="95" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.2)" stroke-width="2" />
+            <!-- ticks -->
+            <g id="ticks"></g>
+            <!-- hands -->
+            <g>
+              <line id="hHand" x1="100" y1="100" x2="100" y2="58" class="needle" stroke="white" stroke-width="6" stroke-linecap="round" />
+              <line id="mHand" x1="100" y1="100" x2="100" y2="40" class="needle" stroke="white" stroke-width="4" stroke-linecap="round" />
+              <line id="sHand" x1="100" y1="108" x2="100" y2="30" class="needle" stroke="#ef4444" stroke-width="2" stroke-linecap="round" />
+              <circle cx="100" cy="100" r="4" fill="#ef4444" />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <footer class="mt-10 text-center text-slate-400 text-sm">
+      สร้างด้วย HTML + Tailwind + Day.js (CDN เท่านั้น)
+    </footer>
+  </div>
+
+  <script>
+    // Init dayjs
+    dayjs.extend(window.dayjs_plugin_utc);
+    dayjs.extend(window.dayjs_plugin_timezone);
+    dayjs.locale('th');
+
+    const els = {
+      time: document.getElementById('timeText'),
+      date: document.getElementById('dateText'),
+      day: document.getElementById('dayText'),
+      week: document.getElementById('weekText'),
+      badge: document.getElementById('tzBadge'),
+      toggle12: document.getElementById('toggle12'),
+      tzSelect: document.getElementById('tzSelect'),
+      btnNow: document.getElementById('btnNow'),
+      h: document.getElementById('hHand'),
+      m: document.getElementById('mHand'),
+      s: document.getElementById('sHand'),
+      ticks: document.getElementById('ticks'),
+    };
+
+    // Build ticks for analog clock
+    (function buildTicks(){
+      const g = els.ticks;
+      for (let i = 0; i < 60; i++) {
+        const a = (i / 60) * Math.PI * 2;
+        const r1 = i % 5 === 0 ? 84 : 88; // longer for hours
+        const r2 = 92;
+        const x1 = 100 + r1 * Math.sin(a);
+        const y1 = 100 - r1 * Math.cos(a);
+        const x2 = 100 + r2 * Math.sin(a);
+        const y2 = 100 - r2 * Math.cos(a);
+        const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+        line.setAttribute('x1', x1);
+        line.setAttribute('y1', y1);
+        line.setAttribute('x2', x2);
+        line.setAttribute('y2', y2);
+        line.setAttribute('stroke', 'rgba(255,255,255,' + (i % 5 === 0 ? '0.8' : '0.4') + ')');
+        line.setAttribute('stroke-width', i % 5 === 0 ? '2' : '1');
+        g.appendChild(line);
+      }
+    })();
+
+    // Populate timezone list (fallback to common list if Intl not available)
+    const commonTZ = [
+      'Asia/Bangkok','Asia/Jakarta','Asia/Tokyo','Asia/Shanghai','Asia/Kolkata',
+      'Europe/London','Europe/Berlin','America/New_York','America/Los_Angeles','Australia/Sydney'
+    ];
+
+    function getAllTimeZones(){
+      try {
+        // Some browsers support this proposal
+        // @ts-ignore
+        if (Intl.supportedValuesOf) {
+          // @ts-ignore
+          return Intl.supportedValuesOf('timeZone');
+        }
+      } catch {}
+      return commonTZ;
+    }
+
+    function populateTZSelect(){
+      const zones = getAllTimeZones();
+      const frag = document.createDocumentFragment();
+      const current = dayjs.tz.guess();
+      zones.forEach(z => {
+        const opt = document.createElement('option');
+        opt.value = z;
+        opt.textContent = z;
+        if (z === current) opt.selected = true;
+        frag.appendChild(opt);
+      });
+      els.tzSelect.appendChild(frag);
+    }
+
+    populateTZSelect();
+
+    let tz = els.tzSelect.value || dayjs.tz.guess();
+
+    function update(){
+      const now = dayjs().tz(tz);
+      const is12 = els.toggle12.checked;
+      const fmt = is12 ? 'hh:mm:ss A' : 'HH:mm:ss';
+
+      els.time.textContent = now.format(fmt);
+      els.date.textContent = now.format('D MMMM YYYY');
+      els.day.textContent = now.format('dddd');
+      els.week.textContent = now.format('WW');
+      els.badge.textContent = tz + ' (UTC' + now.format('Z') + ')';
+
+      // Analog hands
+      const s = now.second();
+      const m = now.minute() + s/60;
+      const h = (now.hour()%12) + m/60;
+      els.s.setAttribute('transform', `rotate(${s*6} 100 100)`);
+      els.m.setAttribute('transform', `rotate(${m*6} 100 100)`);
+      els.h.setAttribute('transform', `rotate(${h*30} 100 100)`);
+    }
+
+    // Events
+    els.tzSelect.addEventListener('change', (e)=>{
+      tz = e.target.value;
+      update();
+    });
+    els.toggle12.addEventListener('change', update);
+    els.btnNow.addEventListener('click', ()=>{
+      tz = dayjs.tz.guess();
+      els.tzSelect.value = tz;
+      update();
+    });
+
+    // Tick
+    update();
+    setInterval(update, 1000);
+  </script>
+</body>
+</html>

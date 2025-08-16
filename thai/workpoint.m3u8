@@ -2,5 +2,5 @@
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="origin",NAME="mp4a.40.2",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ko",URI="https://global-media.sooplive.com/live/audio/workpoint/origin/playlist.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,AUDIO="origin"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,AUDIO="origin"
 https://global-media.sooplive.com/live/video/workpoint/1280x720/playlist.m3u8

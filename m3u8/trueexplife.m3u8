@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
+http://205.205.227.18:80/play/live.php?mac=00:1A:79:7B:8E:19&stream=191948&extension=m3u8&play_token=

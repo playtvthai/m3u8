@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>ไทยทีวีสตรีม.คอม ทีวีออนไลน์ ทีวีท้องถิ่น ดูหนัง ฟังเพลง tv radio online live streaming</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="ไทยทีวีสตรีม.คอม ทีวีออนไลน์ ทีวีท้องถิ่น ดูหนัง ฟังเพลง tv radio online live streaming">
+	<meta name="keywords" content="ไทยทีวีสตรีม.คอม ทีวีออนไลน์ ทีวีท้องถิ่น ดูหนัง ฟังเพลง tv radio online live streaming">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->
+	<link href="img/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+	<!-- Stylesheets -->
+
+	<link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">   
+	<style type="text/css" >
+		body {
+				margin: 0;
+				padding: 0;
+				background-color: black;
+			}
+		.video-container {
+				position: relative;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				height: 100vh;
+				overflow: hidden;
+				}
+		video {
+				position: absolute;
+				z-index: 10;
+				width: 100%;
+				height: 100vh;
+				max-width: none;
+			}
+    </style>
+<body>
+	<div class="video-container">			
+				<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+				<video id="video" controls="controls" width="100%" align="center" src=""></video>
+				<script>
+				var video = document.getElementById("video");
+				if(Hls.isSupported()){
+					var hls = new Hls();
+					hls.loadSource("https://playtvthai.github.io/m3u8/movie/trueidas.m3u8");
+					hls.attachMedia(video);
+					hls.on(Hls.Events.MANIFEST_PARSED,function()
+					{
+						video.play();
+					});
+				}
+				else if (video.canPlayType("application/vnd.apple.mpegurl"))
+				{
+					video.src = "";
+					video.addEventListener("canplay",function()
+					{
+						video.play();
+					});
+				}
+				</script>
+	</div>
+</body>
+</html>

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2300000
+https://live3.inwstream.com/transcoder_F1/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=11751879&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDQ6MDk6MjIgQU0maGFzaF92YWx1ZT10cGt2akNWSE5GTmxHMy9lVXppa1FBPT0mdmFsaWRtaW51dGVzPTI=

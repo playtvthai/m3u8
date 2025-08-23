@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10,
+http://applive.foruiptv.asia/live/dootvlive/dootvfree/221.ts

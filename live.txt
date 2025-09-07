@@ -1,1 +1,28 @@
 
+Scan Date: 23-08-2025
+Scan Time: 05:59:28 [I.S.T]
+Real: jiotv.be
+Panel: jiotv.be/stalker_portal/c/ Copy
+MAC: 00:1A:79:C2:F0:E3 Copy
+Exp: 11.28.2027 (827 days)
+Telegram: @rkdyiptv
+Device Information
+Serial: ebe51da549f4bc5c690f5408df7a4071
+Serial_cut: EBE51DA549F4B Copy
+Dev_ID_1: 9FEA1D38D9B99952172CC3BE3B328F6C65124211F3BE2618B3A919CD60F82DD9 Copy
+Dev_ID_2: D43CFDF515EACA950D4C087F0D29B370196D307033A61588F9A01B4624A4C5E6
+Signature: 49A05C07ECFC179DDBF729AF30215A8F1CD0FF7FC2ACF7C843A080C9C5BD6189
+Stalker Info
+Expire Date: 2027-11-27 18:37:29
+Login: 6306706925
+Password: 251d49748d6f31a49c37989ce12f0f98
+Full Name: Amy Kaleka real account
+Adult: 6996
+Tariff Plan: Complete With 18+ Without European & Australian
+Max Online: 10000
+STB Type: MAG270
+Country: US
+Settings Pass: 0000
+Comment: 00:1A:79:C2:F0:E3
+M3U Link
+Get M3U Playlist

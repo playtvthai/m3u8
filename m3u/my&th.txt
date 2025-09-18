@@ -1,0 +1,853 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",8TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341489&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ADITHYA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341494&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",AFN HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341594&extension=m3u8
+#EXTINF:-1 tvg-logo="http://mytvservices.us:8080/images/PNloraZl_34fTzt064WXygmvT1dm5bmZk3k4SCk9GAUaQpbKv9EX_bV-Q_NqJPuI.png" group-title="Malaysia",AL JAZEERA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341512&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ANIMAL PLANET HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341589&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ANIPLUS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341608&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AOD 311 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341569&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AOD 351 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341570&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AOD 353 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341571&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AOD 362 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341572&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AOD 363 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341573&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO ARENA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341536&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AURA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341482&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO AWANI HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341477&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO BOO HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341568&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO BOX OFFICE BOLLYONE HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341582&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO BOX OFFICE [THANGATHIRI] HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341581&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO CERIA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341601&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO CRICKET HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341544&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO HUA HEE DAI HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341498&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO HUA LEE HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341499&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO OASIS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341479&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO OHK HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341500&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO PRIMA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341478&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO RANIA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341481&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO RUGBY PASS TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341545&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 1 4K
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341537&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 1 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 2 4K
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341539&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 2 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341540&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 3 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 4 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORT 5 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341543&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO TUTOR TV PT3 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341598&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO TUTOR TV SPM HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341599&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO TUTOR TV UPSR HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341600&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO VAANAVIL HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341503&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ASTRO XIAO TAI YANG HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341602&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",AWESOME TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341480&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",AXN HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341585&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BABY TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341606&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BBC EARTH HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341517&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BBC NEWS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341516&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BBC WORLD NEWS
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341472&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BEIN SPORTS 2 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341553&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BEIN SPORTS 3 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341554&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BEIN SPORTS ENG 1 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341550&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BEIN SPORTS ENG 2 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341551&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BEIN SPORTS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341552&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BEIN SPORTS MAX HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341549&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BERNAMA TV
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341514&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BLOOMBERG TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341521&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BLUE ANT ENTERTAINMENT
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341526&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BLUE ANT EXTREME
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341525&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",BOOMERANG HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341603&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CARTOON NETWORK HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341605&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CCTV4 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341501&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CELESTIAL CCM HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341562&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CELESTIAL MOVIES HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341561&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CGTN HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341511&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CH 5 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341507&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CH 8 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341506&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CH U HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341505&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CHANNEL NEWS ASIA
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341475&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CINEMA WORLD HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341563&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CINEMAX HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341564&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CNA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341518&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CNA SD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341519&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CNBC ASIA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341520&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CNN HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341515&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",COLORS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341576&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",COLORS TAMIL
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341463&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",COMEDY CENTRAL
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341464&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CRIME INVESTIGATION HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341590&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",CTI ASIA
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341496&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",DISCOVERY ASIA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341591&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",DISCOVERY CHANNEL HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341592&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",DMAX HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341593&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",DW
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341470&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",EGG NETWORK HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341523&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",EUROSPORT HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341555&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",FOOD NETWORK HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341596&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",FOX MOVIES HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341587&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",FRANCE24
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341468&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",GO LIVE (Brunei) HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341490&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",GO SHOP (CHINESE) HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341493&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",GO SHOP 1 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341491&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",GO SHOP 2 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341492&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",GOLF CHANNEL HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341556&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",HARVEST TV
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341527&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",HARVEST TV ARABIA
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341528&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",HARVEST TV USA
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341529&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",HBO FAMILY HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341574&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",HISTORY HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341595&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",IQIYI HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341495&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",JAYA MAX HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341524&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",KBS WORLD HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341513&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",KIX HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341565&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",KPLUS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341522&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",LIFETIME HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341578&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",LUXETV
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341469&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",MOONBUG KIDS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341607&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",MTV ASIA
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341462&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",MY| BBC LIFE STYLE HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341597&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",NICK JR
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341461&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",NICKELODEON HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341604&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",NTV7 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341483&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ONE HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341502&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",PHOENIX CHINESE CHANNEL HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341509&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",PHOENIX INFO NEWS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341510&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",PREMIER SPORTS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341557&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",PRIMETIME HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341579&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",RTB (Brunei) HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341534&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",RTB ANEKA (Brunei) HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341535&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",RTM SPORTS HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341548&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SCM HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341584&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SHOWCASE MOVIES HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341580&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SKY NEWS
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341471&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SONY GEM HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341532&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SONY MAX HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341531&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SONY TEN 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341558&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SONY TEN 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341559&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SONY TEN 3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341560&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SONY TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341530&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SPORTS SPO TV 2 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341547&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SPORTS SPO TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341546&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SUN TV HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341577&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",SURIA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341508&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TRAVEL CHANNEL HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341588&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV OKEY HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341583&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341474&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341473&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV3 [BK] HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341476&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV6 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341484&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV8 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341485&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV8 [BK] HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341486&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV9 HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341487&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV9 [BK] HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341488&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TVB CLASSIC HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341566&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TVB JADE HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341567&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TVB XING HE HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341497&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TVBS ASIA HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341586&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TVN
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341466&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TVN MOVIES
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341467&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",VASANTHAM HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341504&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",WARNERTV
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341465&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ZING HD
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341533&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",เพราะอากาศเปลี่ยนแปลงบ่อย  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186652&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ฮักนะ ‘สารคาม  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186651&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",หงส์หามเต่า HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186650&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",สี่เส้า  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186649&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",รักหมดแก้ว  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",มนต์รักขุมคำ  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186647&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",จันดารา ปฐมบท 2  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186646&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",จันดารา ปฐมบท 1  HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186645&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Z Nung [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186644&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",X-Zyte TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186642&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",X-Zyte HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186641&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Workpoint TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186640&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Workpoint HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186639&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",White Channel FHD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186638&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Warner TV HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TVB TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186636&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TVB HD (Movies) TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186635&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TV Direct TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186634&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TV CABLE 5 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186633&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",True4U TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186632&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",True Music TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186631&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Travel Channel HD TH [Multi Audio]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186630&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Trace Sport TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186629&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Top News HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186628&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Toonee TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186627&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TNN24 TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",TNN 2 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186625&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tlc-ca.png" group-title="Thailand",TLC TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186624&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tlc-ca.png" group-title="Thailand",TLC HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186623&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ThaiRath HD TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186622&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thairath HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186621&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai PBS HD TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186620&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai PBS HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186619&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Parliament TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186618&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Film TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186617&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai Film HD TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 2 HD TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186615&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai BeIN Sports 1 HD TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186614&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Thai 33 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186613&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Tennis HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186612&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Super Bunteung/FightBox
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186611&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",StarWorld TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186610&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Star Chinese Movies HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186609&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Star Chinese Classics TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186608&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Star Chinese Classics HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186607&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport TH 3 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186606&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport TH 2 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186605&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport TH 1 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186604&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 4 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186603&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 3 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 2 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186601&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport HD TH 1[THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186600&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 7 TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186599&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 7 TH [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186598&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 6 TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 5 TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186596&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 4 TH [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186595&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 2 [THAI]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186594&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Sport 2 TH [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186593&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Spark Play [THAI] TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186592&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Spark Jump TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186591&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Smithsonian TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186590&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Skynetsports 2 FHD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186589&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Skynetsports 1 FHD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186588&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Skynetsport 3 FHD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186587&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",SERIES [Thai] TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Russia Today TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186585&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Retro Music TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186584&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Reality Channel HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186583&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 5
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 4-X
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186581&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 4
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 3-X
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186579&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 3 [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186578&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186577&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 2 [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186576&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 1-X [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186575&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football TH 1  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186574&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 5
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186573&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 4-X
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186572&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 4
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186571&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 3-X
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 3 [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186569&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186568&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 2-X [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186567&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186566&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186565&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 1-X [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186564&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 1 [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football HD TH 1  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Premier Football 1 TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",PPTV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",PPTV HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186559&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Police TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186558&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Police TV HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186557&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Phoenix InfoNews (CN)
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186556&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",PBS HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186555&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Paramount TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186554&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Paramount HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186553&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Outdoor Channel HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",One Golf TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186551&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Nickelodeon TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186550&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Nickelodeon TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186549&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NHK World Japan TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186548&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NFL TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186547&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NFL HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186546&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",News 1 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186545&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NBT World HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186544&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NBT HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186543&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NBT 2 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186542&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NBA TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186541&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NBA HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186540&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",NATION TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186539&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Nat Geo Wild HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186538&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Nat Geo HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186537&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MVLAO TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186536&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Music4U TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186535&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MTV YO! TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186534&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MTN News TH (KR)
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MOVIE-HITS TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186532&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MONO29 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186531&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MCOT TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186530&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",MajorMix TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186529&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Major Channel Mix TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186528&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",LOVE NATURE TH (TH-ENG)
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186527&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Laos TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186526&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Laos ISTV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186525&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Laos DDTV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186524&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lao-Thai TV USA TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186523&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lao Campa TV2 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186522&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Lao Campa TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186521&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",KBS World HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186520&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Inside HD TH 
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186519&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Hmong USA TV HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186518&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Hits-Movies HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186516&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186514&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186512&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",History 2 HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Hi Sport TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186510&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO* HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186509&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186508&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186507&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO Signature TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186506&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO Hits TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186505&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",HBO Family TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186504&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Happy TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186503&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GOOD TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186502&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GOLF TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186501&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GOLF HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf Channel Thailand TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186499&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf Channel Thailand HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186498&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf 2 TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186497&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Golf 2 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186496&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GMM One TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",GMM Channel TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186494&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186493&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186492&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186491&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FOX Thai HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186490&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 3 TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186489&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 3 TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186488&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 3 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186487&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 3 FHD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186486&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 2 TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 2 TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186484&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 2 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186483&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 2 HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186482&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 2 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186481&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 1 TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186480&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 1 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186479&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 1 HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186478&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Sports 1 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186477&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Movies Premium TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186476&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Movies Premium HD TH [Thai-ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186475&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Life TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186474&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Life HD TH [Thai-ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Family Movies TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186472&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Family Movies HD TH [Thai-ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186471&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Action TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fox Action HD TH [Thai-ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186469&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Food Network HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186468&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILMASIA TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186467&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILMASIA HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILM TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186465&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",FILM HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186464&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Film HD TH 2 TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186463&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fightclub (Sling) TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186462&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fight Night TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186461&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Fast&Fun Box TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186460&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Explore Wild TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186459&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Explore Wild TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186458&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Explore Science HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Explore Life TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ETV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186455&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 9 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186454&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 8 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186453&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 7 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186452&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 6 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186451&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 5 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186450&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 4 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186449&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 3 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186448&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 2 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186447&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 15 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186446&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 14 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186445&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 13 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186444&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 12 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186443&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 11 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186442&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 10 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186441&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",DLTV 1 HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186440&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Disney Junior [Thai] TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186439&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Discovery TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Discovery HD TH [Thai-ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186437&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Discovery Asia TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186436&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Discovery Asia HD TH [Thai-ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186435&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Crime & Investigation TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186434&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Crime & Investigation HD TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186433&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CNN TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186432&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CNN Indonesia TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186431&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CNBC Asia TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186430&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CINEMAX TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Cinemax TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186428&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CINEMAX HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Channel News Asia TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186426&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Channel 8 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186425&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Channel 7 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186424&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Channel 5 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186423&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Channel 5 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186422&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Channel 3 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186421&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Ch8 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186420&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Celestial Classic Movies [Thai-ENG] TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186419&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Celestial Classic Movies TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186418&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CartoonClub TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186417&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Cartoon Network HD TH 
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186416&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Cartoon Club TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186415&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",California Music Channel (Sling) TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186414&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CableMovie TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186413&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CABLE SERIES 3 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186412&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CABLE SERIES 2 TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186411&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",CABLE SERIES 1 HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186410&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BTV News TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186409&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BTV Mekhong TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186408&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Boonniyom TV HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186407&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Boomerang TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186406&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Blue Ant Extreme TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Blue Ant Extreme HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186404&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Blue Ant Entertainment TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186403&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Blue Ant Entertainment HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC World News HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186401&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Lifestyle HD TH/Disc.Science TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186400&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Lifestyle HD TH  [ENG]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Earth [Thai] TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186398&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Earth HD TH 
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",BBC Earth /FoxFam HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186396&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Baby TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186395&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AXN TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AXN HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186393&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ATTV TH [Thai]
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186392&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTV News HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186391&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="Thailand",Astro Cricket HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186386&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Asian Series HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186385&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Asian Food Channel TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Arirang TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186383&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ANIPLUS TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186382&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Animal Planet TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186381&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",AMARIN TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186380&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Amarin HD TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186379&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",Al Jazeera Asia TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186378&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",ABC Australia TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186377&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",69TV TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186376&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",&prive (Movies) TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186375&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",&pictures TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186374&extension=m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand",&flix (Movies) TH
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186373&extension=m3u8

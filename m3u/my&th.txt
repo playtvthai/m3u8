@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",8TV HD
-https://demo.opengist.io/playtvthai/00b6204e3dec43df84dc9c20ce5b5cee/raw/HEAD/m3u8#EXTINF:-1 tvg-logo="" group-title="Malaysia",ADITHYA HD
+https://demo.opengist.io/playtvthai/00b6204e3dec43df84dc9c20ce5b5cee/raw/HEAD/m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ADITHYA HD
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341494&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",AFN HD
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341594&extension=m3u8

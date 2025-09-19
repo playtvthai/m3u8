@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400000
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
+http://line.linehunt.org/play/live.php?mac=00:1A:79:2D:17:E9&stream=1902349&extension=m3u8&play_token=erdGGP47xP
+#http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3700000
+http://line.linehunt.org:80/play/live.php?mac=00:1A:79:2D:17:E9&stream=1902340&extension=m3u8

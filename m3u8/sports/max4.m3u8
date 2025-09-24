@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3200000
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130725.m3u8
+http://line.kahr4a.com/play/live.php?mac=00:1A:79:C2:7F:5D&stream=1902351&extension=m3u8
+#http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130725.m3u8

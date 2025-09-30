@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3700000
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:2D:17:E9&stream=1016544&extension=m3u8
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10,
+http://tv.cloudcdn.me/live.ts?channelId=125429&uid=17213&deviceMac=00:1A:79:00:04:31

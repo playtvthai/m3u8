@@ -2,35 +2,36 @@
 ########################################
 หนังใหม่-2025
 ########################################
-
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",Sweet Sex and Love movies
+https://playcdn-41.com/playlist/542c5b16229d45c8a90576c7568fad22.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://image.tmdb.org/t/p/w300/tYXYB07wV40R88rrPbpWswS5b9g.jpg",แผนระห่ำ ใหญ่ฟัดเดือด movies
+https://playcdn-41.com/playlist/225ebbce79a7a2c7d49f1c3f0ee393b3.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://image.tmdb.org/t/p/w300/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg",
+The Requin movies
+https://playcdn-41.com/playlist/f2d724029d354a54558010c8d5adbf45.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",งานป่วนฮาแสบรวมดาว movies
+https://playcdn-41.com/playlist/daedbcc4f40c47f37133e63f5c080b78.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",ศึก 2 ใหญ่ดวลนรกเดือด movies
+https://playcdn-41.com/playlist/deb5e29f293e5d107a15d6c8ee0040a8.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",Savaged
+https://playcdn-41.com/playlist/dfa57ab767fcea98f8717fd7336eccf2.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",หลอน สมรภูมิคลั่ง movies
+https://playcdn-41.com/playlist/1127ca46221e422cd3983c1c07f79acb.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",บันทึกวันวิปโยค movies
+https://playcdn-41.com/playlist/4284d8871a266e020ae65df3057f1859.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",ฝ่าโลกทรชน ยอดคนอันตราย movies
+https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/5cc0a1a2877b2c891d99bcc4c0aa07a8/fb64a47515c99cb34ede5f21aa7ba53b/index.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",ฮักสัปปะลี่กับคดีสีชมพู movies
+https://playcdn-41.com/playlist/542c5b16229d45c8a90576c7568fad22.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",ลวงรักทรยศ movies
+https://playcdn-41.com/playlist/4cc95f9e2f5b1174f21005b0292ab77c.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",ลอยทะเลให้โลกหงายเงิบ movies
+https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/2c4ee15d8f36084dcd9920ff89e02b70/92cd96e2d78dffc5383f773f679410fb/index.m3u8
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-
+เปิด DOOR เห็นผี movie
+https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/4def86bff9133c1b319abd070e343c74/bb48beb4c1a95fd46e24467ebd688a5e/index.m3u8
+#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",ถนนอาถรรพ์: ราชินีงานพรอม movies
+https://playcdn-41.com/hls/46f4a568f91e6f8541e7ecb9/c8164ec3c228d1066e932f4181f37815/eed0cc90ce043788c218a0e0b6b6ac81/index.m3u8
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/07/Ziam-2025-ปากกัดตีนถีบ-300x450.png",Ziam (2025) ปากกัดตีนถีบ
 https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8
 

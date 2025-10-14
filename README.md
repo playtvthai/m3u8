@@ -3,4 +3,3 @@
 $6vVt5G!ofys
 
 
-https://drzl.short.gy/cable.m3u

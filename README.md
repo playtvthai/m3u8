@@ -12,7 +12,7 @@ https://la4.youllneverwalkalone.online:9310/v5/Jq7UrW23SJT5WM02jmnSKQ/1760507632
 
 https://la5.youllneverwalkalone.online:9310/v5/SawICsd2u4He0SP7MmRCwQ/1760510665/7e57a128a6a70eb8f7edde6114a94937/628q7-BN7_Zy0LvXZH6aAQ/1760521345/live/dx-origin/sd-series_480/chunks.m3u8
 
-https://la4.youllneverwalkalone.online:9310/v5/706uf1gSerIVaozFe2Fazg/1760510160/7e57a128a6a70eb8f7edde6114a94937/XaCl027Wwwpwh9LiE5zceQ/1760520840/live/dx-origin/sd-thaifilm_480/chunks.m3u8
+https://la4.youllneverwalkalone.online:9310/v5/706uf1gSerIVaozFe2Fazg/1760510160/7e57a128a6a70eb8f7edde6114a94937/XaCl027Wwwpwh9LiE5zceQ/1760520840/live/dx-origin/sd-thaifilm_720/chunks.m3u8
 
 https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/vx-origin/hd-asianmore_480/chunks.m3u8
 

@@ -2,6 +2,12 @@
 
 $6vVt5G!ofys
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT LIVE 3" tvg-logo="" group-title="กีฬา",SPORT NFL 51
+
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-aislive53_720/chunks.m3u8
+
+
+
 https://la4.youllneverwalkalone.online:9310/v5/fFxDXmYqgJmZjwM6JYsj8g/1760511110/7e57a128a6a70eb8f7edde6114a94937/Swsb4Uh9uTVnBeTpN7wDUg/1760521790/live/vx-origin/sd-discovery_480/chunks.m3u8
 
 https://la5.youllneverwalkalone.online:9310/v5/8Y4Q5JzyMg1FRauuAVTytQ/1760493471/7e57a128a6a70eb8f7edde6114a94937/QT2nuomT0tZIvZovmJ2Qkw/1760504151/live/vx-origin/hd-xzyte_480/chunks.m3u8

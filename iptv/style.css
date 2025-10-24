@@ -1,0 +1,45 @@
+body { 
+  font-family: 'Segoe UI', sans-serif; 
+  margin: 20px; 
+  background: #f9f9f9; 
+}
+h1 { 
+  text-align: center; 
+}
+.channel {
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 6px; 
+  margin-bottom: 8px;
+  background: #fff; 
+  padding: 10px; 
+  border-radius: 8px; 
+  box-shadow: 0 1px 3px rgba(0,0,0,.1);
+}
+.channel input { 
+  flex: 1 1 150px; 
+  padding: 6px; 
+  font-size: 13px; 
+}
+.channel button { 
+  background: #e74c3c; 
+  color: #fff; 
+  border: none; 
+  padding: 6px 10px; 
+  border-radius: 4px; 
+  cursor: pointer; 
+}
+.actions { 
+  text-align: center; 
+  margin-top: 15px; 
+}
+button.main { 
+  background: #3498db; 
+  color: #fff; 
+  border: none; 
+  padding: 10px 15px; 
+  border-radius: 6px; 
+  cursor: pointer; 
+  margin: 5px; 
+  font-size: 14px;
+}

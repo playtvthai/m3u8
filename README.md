@@ -16,7 +16,8 @@ playlist.ts
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1569724,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
-/chunklist.m3u8
+
+https://gh-proxy.com/raw.githubusercontent.com/playtvthai/proxyurl/refs/heads/main/max20.m3u8
 
 ไฟล์รูปแบบ M3U
 #EXTM3U url"playlist.m3u",

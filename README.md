@@ -10,7 +10,7 @@ https://dl.dropboxusercontent.com/scl/fi/62fiv12wkovcvsja9ytjp/movie2535.m3u?rlk
 #EXTINF:10,
 playlist.ts
 
-
+45.150.128.54
 ไฟล์รูปแบบ playlist.m3u8
 
 #EXTM3U
@@ -27,5 +27,5 @@ https://gh-proxy.com/raw.githubusercontent.com/playtvthai/proxyurl/refs/heads/ma
 
 
 
-
+SAP7Gv!wKk$1
 
